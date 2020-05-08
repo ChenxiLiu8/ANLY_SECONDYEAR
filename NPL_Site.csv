@@ -1,0 +1,1336 @@
+site_name,city,site_id,list_date,site_score,indicator
+Alabama Army Ammunition Plant,Childersburg,AL6210020008,07/22/1987,36.83,Yes
+"Alabama Plating Company, Inc.",Vincent,ALD004022448,09/18/2012,30.20,No
+American Brass,Headland,ALD981868466,05/10/1999,55.61,No
+Anniston Army Depot (Southeast Industrial Area),Anniston,AL3210020027,03/13/1989,51.91,Yes
+Ciba-Geigy Corp. (McIntosh Plant),McIntosh,ALD001221902,09/21/1984,53.42,No
+Interstate Lead Co. (ILCO),Leeds,ALD041906173,06/10/1986,42.86,No
+Olin Corp. (McIntosh Plant),McIntosh,ALD008188708,09/21/1984,39.71,No
+Redstone Arsenal (USARMY/NASA),Huntsville,AL7210020742,05/31/1994,50.00,Yes
+Stauffer Chemical Co. (Cold Creek Plant),Bucks,ALD095688875,09/21/1984,46.77,No
+Stauffer Chemical Co. (LeMoyne Plant),Axis,ALD008161176,09/21/1984,32.34,No
+T.H. Agriculture & Nutrition Co. (Montgomery Plant),Montgomery,ALD007454085,08/30/1990,44.46,No
+Triana/Tennessee River,"Limestone, Morgan",ALD983166299,09/08/1983,61.42,No
+Adak Naval Air Station,Adak,AK4170024323,05/31/1994,51.37,Yes
+Eielson Air Force Base,Fairbanks North Star Borough,AK1570028646,11/21/1989,48.14,Yes
+Elmendorf Air Force Base,Greater Anchorage Borough,AK8570028649,08/30/1990,45.91,Yes
+Fort Richardson (USARMY),Anchorage,AK6214522157,05/31/1994,50.00,Yes
+Fort Wainwright,Fairbanks North Star Borough,AK6210022426,08/30/1990,42.40,Yes
+Salt Chuck Mine,Thorne Bay,AK0001897602,03/04/2010,50.00,No
+Apache Powder Co.,St. David,AZD008399263,08/30/1990,39.09,No
+Hassayampa Landfill,Hassayampa,AZD980735666,07/22/1987,42.79,No
+Indian Bend Wash Area,Scottsdale,AZD980695969,09/08/1983,42.24,No
+Iron King Mine - Humboldt Smelter,Dewey-Humboldt,AZ0000309013,09/03/2008,52.69,No
+"Motorola, Inc. (52nd Street Plant)",Phoenix,AZD009004177,10/04/1989,40.83,No
+Phoenix-Goodyear Airport Area,"Avondale, Goodyear",AZD980695902,09/08/1983,45.91,No
+Tucson International Airport Area,Tucson,AZD980737530,09/08/1983,57.80,No
+Williams Air Force Base,Chandler,AZ7570028582,11/21/1989,37.93,Yes
+Yuma Marine Corps Air Station,Yuma,AZ0971590062,02/21/1990,32.24,Yes
+"Arkwood, Inc.",Omaha,ARD084930148,03/31/1989,28.95,No
+Cedar Chemical Corporation,West Helena,ARD990660649,09/18/2012,,No
+MacMillan Ring Free Oil,Norphlet,ARD008049207,05/12/2014,50.00,No
+Mid-South Wood Products,Mena,ARD092916188,09/08/1983,45.87,No
+Midland Products,"Birta, Ola",ARD980745665,06/10/1986,30.77,No
+Mountain Pine Pressure Treating,Plainview,ARD049658628,07/22/1999,41.93,No
+Ouachita Nevada Wood Treater,Reader,ARD042755231,05/11/2000,50.00,No
+"Popile, Inc.",El Dorado,ARD008052508,10/14/1992,50.03,No
+"Vertac, Inc.",Jacksonville,ARD000023440,09/08/1983,65.46,No
+"Advanced Micro Devices, Inc.",Sunnyvale,CAD048634059,06/10/1986,37.93,No
+"Advanced Micro Devices, Inc. (Building 915)",Sunnyvale,CAT080034234,08/30/1990,31.94,No
+Aerojet General Corp.,Rancho Cordova,CAD980358832,09/08/1983,54.63,No
+Alameda Naval Air Station,Alameda,CA2170023236,07/22/1999,50.00,Yes
+Alark Hard Chrome,Riverside,CAD098229214,12/01/2000,50.50,No
+AMCO Chemical,Oakland,CA0001576081,09/29/2003,50.00,No
+Applied Materials,Santa Clara,CAD042728840,07/22/1987,31.94,No
+Argonaut Mine,Jackson,CAD983650011,09/09/2016,58.31,No
+Atlas Asbestos Mine,Fresno County,CAD980496863,09/21/1984,45.55,No
+Barstow Marine Corps Logistics Base,Barstow,CA8170024261,11/21/1989,37.93,Yes
+Beckman Instruments (Porterville Plant),Porterville,CAD048645444,06/10/1986,34.21,No
+Blue Ledge Mine,Rogue River - Siskiyou National Forest,CAN000906063,09/16/2011,50.28,No
+"Brown & Bryant, Inc. (Arvin Plant)",Arvin,CAD052384021,10/04/1989,53.36,No
+Camp Pendleton Marine Corps Base,San Diego County,CA2170023533,11/21/1989,33.79,Yes
+Casmalia Resources,Casmalia,CAD020748125,09/13/2001,30.00,No
+Castle Air Force Base (6 Areas),Merced,CA3570024551,07/22/1987,37.93,Yes
+Coast Wood Preserving,Ukiah,CAD063015887,09/08/1983,44.73,No
+Concord Naval Weapons Station,Concord,CA7170024528,12/16/1994,50.00,Yes
+Cooper Drum Company,South Gate,CAD055753370,06/14/2001,50.00,No
+Copper Bluff Mine,Hoopa,CAD980638225,05/15/2019,50.00,No
+Crazy Horse Sanitary Landfill,Salinas,CAD980498455,08/30/1990,37.93,No
+"CTS Printex, Inc.",Mountain View,CAD009212838,02/21/1990,33.62,No
+Del Amo,Los Angeles,CAD029544731,09/05/2002,47.12,No
+Edwards Air Force Base,Kern County,CA1570024504,08/30/1990,33.62,Yes
+El Toro Marine Corps Air Station,El Toro,CA6170023208,02/21/1990,37.43,Yes
+Fairchild Semiconductor Corp. (Mountain View Plant),Mountain View,CAD095989778,02/11/1991,31.94,No
+Fairchild Semiconductor Corp. (South San Jose Plant),South San Jose,CAD097012298,10/04/1989,44.46,No
+Fort Ord,Marina,CA7210020676,02/21/1990,42.24,Yes
+Fresno Municipal Sanitary Landfill,Fresno,CAD980636914,10/04/1989,35.57,No
+Frontier Fertilizer,Davis,CAD071530380,05/31/1994,35.04,No
+George Air Force Base,Victorville,CA2570024453,02/21/1990,33.62,Yes
+Halaco Engineering Company,Oxnard,CAD009688052,09/19/2007,58.31,No
+Hewlett-Packard (620-640 Page Mill Road),Palo Alto,CAD980884209,02/21/1990,29.76,No
+Hunters Point Naval Shipyard,San Francisco,CA1170090087,11/21/1989,48.77,Yes
+Industrial Waste Processing,Fresno,CAD980736284,08/30/1990,51.13,No
+Intel Corp. (Mountain View Plant),Mountain View,CAD061620217,06/10/1986,29.76,No
+Intel Magnetics,Santa Clara,CAD092212497,06/10/1986,31.94,No
+Intersil Inc./Siemens Components,Cupertino,CAD041472341,08/30/1990,28.90,No
+Iron Mountain Mine,Redding,CAD980498612,09/08/1983,56.16,No
+J.H. Baxter & Co.,Weed,CAD000625731,10/04/1989,34.78,No
+Jasco Chemical Corp.,Mountain View,CAD009103318,10/04/1989,35.36,No
+Jervis B. Webb Co.,South Gate,CAD008339467,05/10/2012,45.76,No
+Jet Propulsion Laboratory (NASA),Pasadena,CA9800013030,10/14/1992,50.00,Yes
+Klau/Buena Vista Mine,Paso Robles,CA1141190578,04/19/2006,50.00,No
+"Koppers Co., Inc. (Oroville Plant)",Oroville,CAD009112087,09/21/1984,33.73,No
+Laboratory for Energy-Related Health Research/Old Campus Landfill (USDOE),Davis,CA2890190000,05/31/1994,50.00,Yes
+Lava Cap Mine,Nevada City,CAD983618893,01/19/1999,33.66,No
+Lawrence Livermore Laboratory (USDOE),Livermore,CA2890012584,07/22/1987,42.24,Yes
+Lawrence Livermore National Laboratory (Site 300) (USDOE),Livermore,CA2890090002,08/30/1990,31.58,Yes
+Leviathan Mine,Markleeville,CAD980673685,05/11/2000,50.00,No
+Lorentz Barrel & Drum Co.,San Jose,CAD029295706,10/04/1989,33.94,No
+March Air Force Base,Riverside,CA4570024527,11/21/1989,31.94,Yes
+Mather Air Force Base,Sacramento,CA8570024143,07/22/1987,28.90,Yes
+McClellan Air Force Base (Ground Water Contamination),Sacramento,CA4570024337,07/22/1987,57.93,Yes
+McColl,Fullerton,CAD980498695,09/08/1983,41.77,No
+McCormick & Baxter Creosoting Co.,Stockton,CAD009106527,10/14/1992,74.86,No
+Modesto Ground Water Contamination,Modesto,CAD981997752,03/31/1989,28.90,No
+Moffett Naval Air Station,Sunnyvale,CA2170090078,07/22/1987,29.49,Yes
+Monolithic Memories,Sunnyvale,CAD049236201,07/22/1987,35.57,No
+Montrose Chemical Corp.,Torrance,CAD008242711,10/04/1989,32.10,No
+National Semiconductor Corp.,Santa Clara,CAD041472986,07/22/1987,35.57,No
+New Idria Mercury Mine,Idria,CA0001900463,09/16/2011,31.66,No
+Newmark Ground Water Contamination,San Bernardino,CAD981434517,03/31/1989,35.57,No
+Norton Air Force Base,San Bernardino,CA4570024345,07/22/1987,39.65,Yes
+Omega Chemical Corporation,Whittier,CAD042245001,01/19/1999,30.94,No
+"Operating Industries, Inc., Landfill",Monterey Park,CAT080012024,06/10/1986,57.22,No
+Pacific Coast Pipe Lines,Fillmore,CAD980636781,10/04/1989,46.01,No
+Pemaco Maywood,Maywood,CAD980737092,01/19/1999,45.23,No
+"Purity Oil Sales, Inc.",Malaga,CAD980736151,09/08/1983,43.27,No
+Raytheon Corp.,Mountain View,CAD009205097,06/10/1986,29.76,No
+Riverbank Army Ammunition Plant,Riverbank,CA7210020759,02/21/1990,63.94,Yes
+"Rockets, Fireworks, and Flares (RFF)",Rialto,CAN000905945,09/23/2009,50.00,No
+Sacramento Army Depot,Sacramento,CA0210020780,07/22/1987,44.46,Yes
+San Fernando Valley (Area 1),Los Angeles,CAD980894893,06/10/1986,42.24,No
+San Fernando Valley (Area 2),"Glendale, Los Angeles",CAD980894901,06/10/1986,42.24,No
+San Fernando Valley (Area 4),Los Angeles,CAD980894976,06/10/1986,35.57,No
+San Gabriel Valley (Area 1),El Monte,CAD980677355,05/08/1984,42.24,No
+San Gabriel Valley (Area 2),Baldwin Park Area,CAD980818512,05/08/1984,42.24,No
+San Gabriel Valley (Area 3),Alhambra,CAD980818579,05/08/1984,28.90,No
+San Gabriel Valley (Area 4),La Puente,CAD980817985,05/08/1984,28.90,No
+Selma Treating Co.,Selma,CAD029452141,09/08/1983,48.83,No
+Sharpe Army Depot,Lathrop,CA8210020832,07/22/1987,42.24,Yes
+South Bay Asbestos Area,Alviso,CAD980894885,06/10/1986,44.68,No
+Southern Avenue Industrial Area,South Gate,CAN000905902,05/10/2012,50.00,No
+"Spectra-Physics, Inc.",Mountain View,CAD009138488,02/11/1991,37.20,No
+Stringfellow,Glen Avon Heights,CAT080012826,09/08/1983,,No
+Sulphur Bank Mercury Mine,Clear Lake,CAD980893275,08/30/1990,44.42,No
+"Synertek, Inc. (Building 1)",Santa Clara,CAD990832735,10/04/1989,31.94,No
+Teledyne Semiconductor,Mountain View,CAD009111444,07/22/1987,35.35,No
+Tracy Defense Depot (USARMY),Tracy,CA4971520834,08/30/1990,37.16,Yes
+Travis Air Force Base,Solano County,CA5570024575,11/21/1989,29.49,Yes
+"TRW Microwave, Inc. (Building 825)",Sunnyvale,CAD009159088,02/21/1990,31.94,No
+United Heckathorn Co.,Richmond,CAD981436363,03/14/1990,38.49,No
+"Valley Wood Preserving, Inc.",Turlock,CAD063020143,03/31/1989,32.01,No
+"Waste Disposal, Inc.",Santa Fe Springs,CAD980884357,07/22/1987,34.60,No
+Watkins-Johnson Co. (Stewart Division Plant),Scotts Valley,CAD980893234,08/30/1990,28.90,No
+Westinghouse Electric Corp. (Sunnyvale Plant),Sunnyvale,CAD001864081,06/10/1986,39.93,No
+Air Force Plant PJKS,Waterton,CO7570090038,11/21/1989,42.93,Yes
+Bonita Peak Mining District,San Juan County,CON000802497,09/09/2016,50.00,No
+Broderick Wood Products,Denver,COD000110254,09/21/1984,35.13,No
+California Gulch,Leadville,COD980717938,09/08/1983,55.84,No
+Captain Jack Mill,Ward,COD981551427,09/29/2003,50.56,No
+"Central City, Clear Creek",Idaho Springs,COD980717557,09/08/1983,51.39,No
+Chemical Sales Co.,Denver,COD007431620,08/30/1990,37.93,No
+Colorado Smelter,Pueblo,CON000802700,12/11/2014,50.00,No
+Denver Radium Site,Denver,COD980716955,09/08/1983,44.11,No
+Eagle Mine,"Minturn, Redcliff",COD081961518,06/10/1986,47.19,No
+Lincoln Park,Canon City,COD042167858,09/21/1984,31.31,No
+Lowry Landfill,Arapahoe County,COD980499248,09/21/1984,48.36,No
+Marshall Landfill,Boulder County,COD980499255,09/08/1983,,No
+Nelson Tunnel/Commodore Waste Rock,Creede,CON000802630,09/03/2008,48.03,No
+Rocky Flats Plant (USDOE),Golden,CO7890010526,10/04/1989,64.32,Yes
+Rocky Mountain Arsenal (USARMY),Adams County,CO5210020769,07/22/1987,58.15,Yes
+Standard Mine,Gunnison National Forest,CO0002378230,09/14/2005,50.00,No
+Summitville Mine,Rio Grande County,COD983778432,05/31/1994,50.00,No
+Uravan Uranium Project (Union Carbide Corp.),Uravan,COD007063274,06/10/1986,43.53,No
+Vasquez Boulevard and I-70,Denver,CO0002259588,07/22/1999,50.00,No
+Barkhamsted-New Hartford Landfill,Barkhamsted,CTD980732333,10/04/1989,38.05,No
+Beacon Heights Landfill,Beacon Falls,CTD072122062,09/08/1983,46.77,No
+Durham Meadows,Durham,CTD001452093,10/04/1989,33.94,No
+Gallup's Quarry,Plainfield,CTD108960972,10/04/1989,46.29,No
+Kellogg-Deering Well Field,Norwalk,CTD980670814,09/21/1984,39.92,No
+"Laurel Park, Inc.",Naugatuck Borough,CTD980521165,09/08/1983,,No
+Linemaster Switch Corp.,Woodstock,CTD001153923,02/21/1990,33.71,No
+New London Submarine Base,New London,CTD980906515,08/30/1990,36.53,Yes
+Precision Plating Corp.,Vernon,CTD051316313,10/04/1989,49.10,No
+"Raymark Industries, Inc.",Stratford,CTD001186618,04/25/1995,,No
+Scovill Industrial Landfill,Waterbury,CT0002265551,07/27/2000,50.00,No
+Solvents Recovery Service of New England,Southington,CTD009717604,09/08/1983,44.93,No
+Yaworski Waste Lagoon,Canterbury,CTD009774969,09/08/1983,36.72,No
+Army Creek Landfill,New Castle County,DED980494496,09/08/1983,69.92,No
+"Chem-Solv, Inc.",Cheswold,DED980714141,08/30/1990,37.93,No
+Delaware City PVC Plant,Delaware City,DED980551667,09/08/1983,30.55,No
+Delaware Sand & Gravel Landfill,New Castle County,DED000605972,09/08/1983,46.60,No
+Dover Air Force Base,Dover,DE8570024010,03/13/1989,35.89,Yes
+Dover Gas Light Co.,Dover,DED980693550,10/04/1989,35.57,No
+"E.I. du Pont de Nemours & Co., Inc. (Newport Pigment Plant Landfill)",Newport,DED980555122,02/21/1990,51.91,No
+Halby Chemical Co.,New Castle,DED980830954,06/10/1986,30.90,No
+"Harvey & Knott Drum, Inc.",Kirkwood,DED980713093,09/08/1983,30.77,No
+Hockessin Groundwater,Hockessin,DEN000303920,05/17/2018,50.00,No
+"Koppers Co., Inc. (Newport Plant)",Newport,DED980552244,08/30/1990,33.56,No
+NCR Corp. (Millsboro Plant),Millsboro,DED043958388,07/22/1987,38.21,No
+Newark South Ground Water Plume,Newark,DEN000306877,01/18/2018,50.00,No
+"Standard Chlorine of Delaware, Inc.",Delaware City,DED041212473,07/22/1987,35.42,No
+Tybouts Corner Landfill,New Castle County,DED000606079,09/08/1983,,No
+Washington Navy Yard,Washington,DC9170024310,07/28/1998,48.57,Yes
+Agrico Chemical Co.,Pensacola,FLD980221857,10/04/1989,44.98,No
+Airco Plating Co.,Miami,FLD004145140,02/21/1990,42.47,No
+Alaric Area Ground Water Plume,Tampa,FLD012978862,12/01/2000,41.91,No
+American Creosote Works (Pensacola Plant),Pensacola,FLD008161994,09/08/1983,58.41,No
+"Anodyne, Inc.",North Miami Beach,FLD981014368,02/21/1990,31.03,No
+Arkla Terra Property,Thonotosassa,FLSFN0406909,04/09/2009,50.00,No
+Cabot/Koppers,Gainesville,FLD980709356,09/21/1984,36.69,No
+Cecil Field Naval Air Station,Jacksonville,FL5170022474,11/21/1989,31.99,Yes
+Chevron Chemical Co. (Ortho Division),Orlando,FLD004064242,05/31/1994,50.00,No
+"City Industries, Inc.",Orlando,FLD055945653,10/04/1989,32.00,No
+Continental Cleaners,Miami,FLD982130098,03/15/2012,50.00,No
+Escambia Wood - Pensacola,Pensacola,FLD008168346,12/16/1994,50.00,No
+Fairfax St. Wood Treaters,Jacksonville,FLD000623041,09/18/2012,50.00,No
+Flash Cleaners,Pompano Beach,FLD083111005,09/03/2008,50.00,No
+Florida Petroleum Reprocessors,Fort Lauderdale,FLD984184127,03/06/1998,50.00,No
+Florida Steel Corp.,Indiantown,FLD050432251,09/08/1983,45.92,No
+General Dynamics Longwood,Longwood,FLR000091322,09/29/2010,50.00,No
+Harris Corp. (Palm Bay Plant),Palm Bay,FLD000602334,07/22/1987,35.57,No
+Helena Chemical Co. (Tampa Plant),Tampa,FLD053502696,10/14/1992,30.19,No
+Hollingsworth Solderless Terminal,Fort Lauderdale,FLD004119681,09/08/1983,44.53,No
+Homestead Air Force Base,Homestead,FL7570024037,08/30/1990,42.40,Yes
+Jacksonville Naval Air Station,Jacksonville,FL6170024412,11/21/1989,32.08,Yes
+JJ Seifert Machine,Ruskin,FLN000410232,03/04/2010,50.00,No
+Kerr-McGee Chemical Corp - Jacksonville,Jacksonville,FLD039049101,03/04/2010,70.71,No
+Landia Chemical Company,Lakeland,FLD042110841,05/11/2000,50.00,No
+Madison County Sanitary Landfill,Madison,FLD981019235,08/30/1990,37.93,No
+Miami Drum Services,Miami,FLD076027820,09/08/1983,53.56,No
+MRI Corp (Tampa),Tampa,FLD088787585,12/23/1996,37.62,No
+Peak Oil Co./Bay Drum Co.,Tampa,FLD004091807,06/10/1986,58.15,No
+Pensacola Naval Air Station,Pensacola,FL9170024567,11/21/1989,42.40,Yes
+"Pepper Steel & Alloys, Inc.",Medley,FLD032544587,09/21/1984,31.92,No
+Petroleum Products Corp.,Pembroke Park,FLD980798698,07/22/1987,40.11,No
+Pickettville Road Landfill,Jacksonville,FLD980556351,09/08/1983,42.94,No
+Piper Aircraft Corp./Vero Beach Water & Sewer Department,Vero Beach,FLD004054284,02/21/1990,31.13,No
+Post and Lumber Preserving Co. Inc.,Quincy,FLD004061925,08/03/2017,36.33,No
+Raleigh Street Dump,Tampa,FLD984227249,04/09/2009,50.00,No
+Reeves Southeastern Galvanizing Corp.,Tampa,FLD000824896,09/08/1983,58.75,No
+Sanford Dry Cleaners,Sanford,FLD032728032,09/29/2010,50.00,No
+Sapp Battery Salvage,Cottondale,FLD980602882,09/08/1983,47.70,No
+Sherwood Medical Industries,Deland,FLD043861392,09/08/1983,39.83,No
+Solitron Microwave,Port Salerno,FLD045459526,07/28/1998,50.00,No
+"Southern Solvents, Inc.",Tampa,FL0001209840,07/27/2000,50.00,No
+Stauffer Chemical Co (Tampa),Tampa,FLD004092532,12/23/1996,59.81,No
+Stauffer Chemical Co. (Tarpon Springs),Tarpon Springs,FLD010596013,05/31/1994,50.00,No
+Sydney Mine Sludge Ponds,Brandon,FLD000648055,10/04/1989,38.93,No
+Taylor Road Landfill,Seffner,FLD980494959,09/08/1983,51.37,No
+Tower Chemical Co.,Clermont,FLD004065546,09/08/1983,44.03,No
+"Trans Circuits, Inc.",Lake Park,FLD091471904,02/04/2000,50.00,No
+Tyndall Air Force Base,Panama City,FL1570024124,04/01/1997,50.00,Yes
+"United Metals, Inc.",Marianna,FLD098924038,04/30/2003,33.73,No
+Whiting Field Naval Air Station,Milton,FL2170023244,05/31/1994,50.00,Yes
+Wingate Road Municipal Incinerator Dump,Fort Lauderdale,FLD981021470,10/04/1989,31.72,No
+Zellwood Ground Water Contamination,Zellwood,FLD049985302,09/08/1983,51.91,No
+Alternate Energy Resources,Augusta,GAD033582461,04/19/2006,50.00,No
+Armstrong World Industries,Macon,GAN000410033,09/16/2011,50.00,No
+Brunswick Wood Preserving,Brunswick,GAD981024466,04/01/1997,54.49,No
+Camilla Wood Preserving Company,Camilla,GAD008212409,07/28/1998,50.00,No
+Diamond Shamrock Corp. Landfill,Cedartown,GAD990741092,08/30/1990,35.60,No
+Firestone Tire & Rubber Co. (Albany Plant),Albany,GAD990855074,10/04/1989,30.08,No
+Hercules 009 Landfill,Brunswick,GAD980556906,09/21/1984,52.58,No
+LCP Chemicals Georgia,Brunswick,GAD099303182,06/17/1996,,No
+Macon Naval Ordnance Plant,Macon,GAD003302676,05/24/2013,48.97,No
+Marine Corps Logistics Base,Albany,GA7170023694,11/21/1989,44.65,Yes
+Marzone Inc./Chevron Chemical Co.,Tifton,GAD991275686,10/04/1989,30.26,No
+Mathis Brothers Landfill (South Marble Top Road),Kensington,GAD980838619,03/31/1989,30.78,No
+Peach Orchard Road PCE Ground Water Plume,Augusta,GAN000407449,09/14/2005,50.00,No
+Robins Air Force Base (Landfill #4/Sludge Lagoon),Houston County,GA1570024330,07/22/1987,51.66,Yes
+T.H. Agriculture & Nutrition Co. (Albany Plant),Albany,GAD042101261,03/31/1989,40.93,No
+"Woolfolk Chemical Works, Inc.",Fort Valley,GAD003269578,08/30/1990,42.24,No
+Andersen Air Force Base,Yigo,GU6571999519,10/14/1992,50.00,Yes
+Ordot Landfill,Ordot,GUD980637649,09/08/1983,,No
+Del Monte Corp. (Oahu Plantation),Honolulu County,HID980637631,12/16/1994,50.00,No
+Naval Computer and Telecommunications Area Master Station Eastern Pacific,Oahu,HI0170090054,05/31/1994,50.00,Yes
+Pearl Harbor Naval Complex,Pearl Harbor,HI4170090076,10/14/1992,70.82,Yes
+Bunker Hill Mining & Metallurgical Complex,Smelterville,IDD048340921,09/08/1983,54.76,No
+Eastern Michaud Flats Contamination,Pocatello,IDD984666610,08/30/1990,57.80,No
+Idaho National Engineering Laboratory (USDOE),Idaho Falls,ID4890008952,11/21/1989,51.91,Yes
+Kerr-McGee Chemical Corp. (Soda Springs Plant),Soda Springs,IDD041310707,10/04/1989,51.91,No
+Monsanto Chemical Co. (Soda Springs Plant),Soda Springs,IDD081830994,08/30/1990,54.77,No
+Mountain Home Air Force Base,Mountain Home,ID3572124557,08/30/1990,57.80,Yes
+"Acme Solvents Reclaiming, Inc. (Morristown Plant)",Morristown,ILD053219259,09/08/1983,31.98,No
+Adams County Quincy Landfills 2&3,Quincy,ILD980607055,08/30/1990,34.21,No
+Amoco Chemicals (Joliet Landfill),Joliet,ILD002994259,02/21/1990,39.44,No
+ASARCO Taylor Springs,Taylor Springs,ILN000508170,09/27/2006,30.00,No
+Bautsch-Gray Mine,Galena,ILN000510407,09/18/2012,48.97,No
+Beloit Corp.,Rockton,ILD021440375,08/30/1990,52.08,No
+Byron Salvage Yard,Byron,ILD010236230,09/08/1983,33.93,No
+Central Illinois Public Service Co.,Taylorville,ILD981781065,08/30/1990,28.95,No
+Chemetco,Hartford,ILD048843809,03/04/2010,30.00,No
+Cross Brothers Pail Recycling (Pembroke),Pembroke Township,ILD980792303,09/08/1983,42.04,No
+DePue/New Jersey Zinc/Mobil Chemical Corp.,DePue,ILD062340641,05/10/1999,70.71,No
+DuPage County Landfill/Blackwell Forest,Warrenville,ILD980606305,02/21/1990,35.57,No
+Eagle Zinc Co Div T L Diamond,Hillsboro,ILD980606941,09/19/2007,50.00,No
+Estech General Chemical Company,Calumet City,ILD099213498,09/30/2015,30.00,No
+Galesburg/Koppers Co.,Galesburg,ILD990817991,09/08/1983,34.78,No
+H.O.D. Landfill,Antioch,ILD980605836,02/21/1990,34.68,No
+Hegeler Zinc,Danville,ILN000508134,04/27/2005,50.00,No
+Indian Refinery-Texaco Lawrenceville,Lawrenceville,ILD042671248,12/01/2000,56.67,No
+"Interstate Pollution Control, Inc.",Rockford,ILT180011975,03/31/1989,46.01,No
+Jennison-Wright Corporation,Granite City,ILD006282479,06/17/1996,40.30,No
+Johns-Manville Corp.,Waukegan,ILD005443544,09/08/1983,38.20,No
+Joliet Army Ammunition Plant (Load-Assembly-Packing Area),Joliet,IL0210090049,03/13/1989,35.23,Yes
+Joliet Army Ammunition Plant (Manufacturing Area),Joliet,IL7213820460,07/22/1987,32.08,Yes
+Kerr-McGee (Kress Creek/West Branch of DuPage River),DuPage County,ILD980823991,02/11/1991,39.05,No
+Kerr-McGee (Residential Areas),"DuPage County, West Chicago",ILD980824015,08/30/1990,38.15,No
+Lake Calumet Cluster,Chicago,ILD000716852,03/04/2010,30.00,No
+LaSalle Electric Utilities,La Salle,ILD980794333,09/08/1983,42.06,No
+"Lenz Oil Service, Inc.",Lemont,ILD005451711,10/04/1989,42.33,No
+Matthiessen and Hegeler Zinc Company,La Salle,IL0000064782,09/29/2003,50.00,No
+MIG/Dewane Landfill,Belvidere,ILD980497788,08/30/1990,49.91,No
+NL Industries/Taracorp Lead Smelter,Granite City,ILD096731468,06/10/1986,38.11,No
+Old American Zinc Plant,Fairmont City,IL0000034355,04/07/2016,30.00,No
+Ottawa Radiation Areas,Ottawa,ILD980606750,10/14/1992,50.00,No
+Outboard Marine Corp.,Waukegan,ILD000802827,09/08/1983,,No
+Pagel's Pit,Rockford,ILD980606685,06/10/1986,45.91,No
+Parsons Casket Hardware Co.,Belvidere,ILD005252432,07/22/1987,55.58,No
+Sandoval Zinc Company,Sandoval,ILD053980454,09/16/2011,30.00,No
+Sangamo Electric Dump/Crab Orchard National Wildlife Refuge (USDOI),Carterville,IL8143609487,07/22/1987,43.70,Yes
+Savanna Army Depot Activity,Savanna,IL3210020803,03/13/1989,42.20,Yes
+Schroud Property,Chicago,ILN000505540,11/08/2019,50.00,No
+Southeast Rockford Ground Water Contamination,Rockford,ILD981000417,03/31/1989,42.24,No
+"Tri-County Landfill Co./Waste Management of Illinois, Inc.",South Elgin,ILD048306138,03/31/1989,42.76,No
+Velsicol Chemical Corp. (Marshall Plant),Marshall,ILD000814673,09/08/1983,48.78,No
+Wauconda Sand & Gravel,Wauconda,ILD047019732,09/08/1983,53.42,No
+Woodstock Municipal Landfill,Woodstock,ILD980605943,10/04/1989,50.10,No
+Yeoman Creek Landfill,Waukegan,ILD980500102,03/31/1989,33.23,No
+"American Chemical Service, Inc.",Griffith,IND016360265,09/21/1984,34.98,No
+Beck's Lake,South Bend,IND980904379,12/12/2013,50.00,No
+Bennett Stone Quarry,Bloomington,IND006418651,09/21/1984,32.55,No
+Broadway Street Corridor Groundwater Contamination,Anderson,INN000510915,09/13/2018,50.00,No
+Cam-Or Inc.,Westville,IND005480462,03/06/1998,58.91,No
+Cliff Drive Groundwater Contamination,Logansport,INN000510272,05/15/2019,50.00,No
+Conrail Rail Yard (Elkhart),Elkhart,IND000715490,08/30/1990,42.24,No
+Continental Steel Corp.,Kokomo,IND001213503,03/31/1989,31.85,No
+"Douglass Road/Uniroyal, Inc., Landfill",Mishawaka,IND980607881,03/31/1989,36.61,No
+Elm Street Ground Water Contamination,Terre Haute,INN000509938,03/07/2007,50.00,No
+Envirochem Corp.,Zionsville,IND084259951,09/08/1983,46.44,No
+Fisher-Calo,La Porte,IND074315896,09/08/1983,52.05,No
+Fort Wayne Reduction Dump,Fort Wayne,IND980679542,06/10/1986,42.47,No
+Franklin Street Groundwater Contamination,Spencer,INN000510959,05/17/2018,50.00,No
+Galen Myers Dump/Drum Salvage,Osceola,IND980999635,03/31/1989,42.24,No
+Garden City Ground Water Plume,Garden City,INN000508642,12/12/2013,50.00,No
+Gary Development Landfill,Gary,IND077005916,09/16/2011,30.00,No
+Himco Dump,Elkhart,IND980500292,02/21/1990,42.31,No
+Jacobsville Neighborhood Soil Contamination,Evansville,INN000508142,07/22/2004,35.52,No
+Keystone Corridor Ground Water Contamination,Indianapolis,INN000510399,12/12/2013,50.00,No
+Kokomo Contaminated Ground Water Plume,Kokomo,INN000510479,03/26/2015,50.00,No
+Lake Sandy Jo (M&M Landfill),Gary,IND980500524,09/08/1983,38.21,No
+"Lakeland Disposal Service, Inc.",Claypool,IND064703200,03/31/1989,34.10,No
+Lane Street Ground Water Contamination,Elkhart,INN000510229,09/23/2009,40.53,No
+Lemon Lane Landfill,Bloomington,IND980794341,09/08/1983,29.31,No
+Lusher Street Ground Water Contamination,Elkhart,IND982073785,03/19/2008,50.00,No
+Main Street Well Field,Elkhart,IND980794358,09/08/1983,42.49,No
+Marion (Bragg) Dump,Marion,IND980794366,09/08/1983,35.25,No
+MIDCO I,Gary,IND980615421,09/08/1983,46.44,No
+MIDCO II,Gary,IND980679559,06/10/1986,30.16,No
+Neal's Landfill (Bloomington),Bloomington,IND980614556,09/08/1983,42.93,No
+Ninth Avenue Dump,Gary,IND980794432,09/08/1983,40.32,No
+North Shore Drive,Elkhart,INSFN0507828,09/22/2014,50.00,No
+"Northside Sanitary Landfill, Inc.",Zionsville,IND050530872,09/21/1984,46.04,No
+Pike and Mulberry Streets PCE Plume,Martinsville,INN000508678,05/24/2013,50.00,No
+Prestolite Battery Division,Vincennes,IND006377048,10/04/1989,40.63,No
+Reilly Tar & Chemical Corp. (Indianapolis Plant),Indianapolis,IND000807107,09/21/1984,34.03,No
+Seymour Recycling Corp.,Seymour,IND040313017,09/08/1983,,No
+"Tippecanoe Sanitary Landfill, Inc",Lafayette,IND980997639,08/30/1990,42.24,No
+"U.S. Smelter and Lead Refinery, Inc.",East Chicago,IND047030226,04/09/2009,58.31,No
+Wayne Waste Oil,Columbia City,IND048989479,09/08/1983,42.33,No
+Des Moines TCE,Des Moines,IAD980687933,09/08/1983,42.28,No
+Fairfield Coal Gasification Plant,Fairfield,IAD981124167,08/30/1990,38.05,No
+Iowa Army Ammunition Plant,Middletown,IA7213820445,08/30/1990,29.73,Yes
+Lawrence Todtz Farm,Camanche,IAD000606038,06/10/1986,52.11,No
+Mason City Coal Gasification Plant,Mason City,IAD980969190,12/16/1994,69.33,No
+Midwest Manufacturing/North Farm,Kellogg,IAD069625655,06/10/1986,32.04,No
+PCE Former Dry Cleaner,Atlantic,IAD039954300,04/07/2016,50.00,No
+Peoples Natural Gas Co.,Dubuque,IAD980852578,08/30/1990,46.24,No
+Railroad Avenue Groundwater Contamination,Des Moines,IA0001610963,09/05/2002,50.00,No
+Shaw Avenue Dump,Charles City,IAD980630560,07/22/1987,30.01,No
+Vogel Paint & Wax Co.,Orange City,IAD980630487,06/10/1986,31.45,No
+57th and North Broadway Streets Site,Wichita Heights,KSD981710247,10/14/1992,50.00,No
+Ace Services,Colby,KSD046746731,09/29/1995,50.00,No
+"Chemical Commodities, Inc.",Olathe,KSD031349624,05/31/1994,50.00,No
+Cherokee County,Cherokee County,KSD980741862,09/08/1983,58.15,No
+Doepke Disposal (Holliday),Johnson County,KSD980632301,09/08/1983,47.46,No
+Former United Zinc & Associated Smelters,Iola,KSN000705026,05/24/2013,50.00,No
+Fort Riley,Junction City,KS6214020756,08/30/1990,33.79,Yes
+Obee Road,Hutchinson,KSD980631766,07/22/1987,33.62,No
+Pester Refinery Co.,El Dorado,KSD000829846,03/31/1989,30.16,No
+"Plating, Inc.",Great Bend,KSD065735912,03/19/2008,50.00,No
+Strother Field Industrial Park,Cowley County,KSD980862726,06/10/1986,33.62,No
+Wright Ground Water Contamination,Wright,KSD984985929,06/17/1996,50.00,No
+Airco,Calvert City,KYD041981010,09/21/1984,33.29,No
+B.F. Goodrich,Calvert City,KYD006370167,09/08/1983,33.01,No
+Brantley Landfill,Island,KYD980501019,02/21/1990,52.73,No
+"Caldwell Lace Leather Co., Inc.",Auburn,KYD045738291,08/30/1990,34.21,No
+Distler Brickyard,West Point,KYD980602155,09/08/1983,44.77,No
+Distler Farm,Jefferson County,KYD980601975,09/08/1983,34.62,No
+Fort Hartford Coal Co. Stone Quarry,Olaton,KYD980844625,08/30/1990,43.84,No
+"Green River Disposal, Inc.",Maceo,KYD980501076,08/30/1990,29.12,No
+Maxey Flats Nuclear Disposal,Hillsboro,KYD980729107,06/10/1986,31.71,No
+National Electric Coil Co./Cooper Industries,Dayhoit,KYD985069954,10/14/1992,50.00,No
+Paducah Gaseous Diffusion Plant (USDOE),Paducah,KY8890008982,05/31/1994,56.95,Yes
+Smith's Farm,Brooks,KYD097267413,06/10/1986,32.69,No
+Tri-City Disposal Co.,Shepherdsville,KYD981028350,03/31/1989,33.82,No
+Agriculture Street Landfill,New Orleans,LAD981056997,12/16/1994,50.00,No
+American Creosote DeRidder,DeRidder,LAN000604293,01/18/2018,50.00,No
+"American Creosote Works, Inc. (Winnfield Plant)",Winnfield,LAD000239814,10/14/1992,50.70,No
+Bayou Bonfouca,Slidell,LAD980745632,09/08/1983,29.78,No
+Colonial Creosote,Bogalusa,LAN000607134,09/30/2015,50.00,No
+"Combustion, Inc.",Denham Springs,LAD072606627,08/30/1990,33.79,No
+Delta Shipyard,Houma,LAD058475419,09/22/2014,48.05,No
+EVR-Wood Treating/Evangeline Refining Company,Jennings,LAN000605517,09/18/2012,48.20,No
+Louisiana Army Ammunition Plant,Doyline,LA0213820533,03/13/1989,30.26,Yes
+Madisonville Creosote Works,Madisonville,LAD981522998,12/23/1996,48.01,No
+Marion Pressure Treating,Marion,LAD008473142,02/04/2000,50.00,No
+"Petro-Processors of Louisiana, Inc.",Scotlandville,LAD057482713,09/21/1984,41.44,No
+SBA Shipyard,Jennings,LAD008434185,09/09/2016,50.00,No
+Brunswick Naval Air Station,Brunswick,ME8170022018,07/22/1987,43.38,Yes
+Callahan Mine,Brooksville,MED980524128,09/05/2002,50.00,No
+Eastern Surplus,Meddybemps,MED981073711,06/17/1996,50.00,No
+Eastland Woolen Mill,Corinna,MED980915474,07/22/1999,70.71,No
+Keddy Mill,Windham,MEN000106078,05/12/2014,50.00,No
+Leeds Metal,Leeds,MEN000103584,09/18/2012,32.25,No
+Loring Air Force Base,Limestone,ME9570024522,02/21/1990,34.49,Yes
+McKin Co.,Gray,MED980524078,09/08/1983,60.97,No
+Portsmouth Naval Shipyard,Kittery,ME7170022019,05/31/1994,50.00,Yes
+Saco Municipal Landfill,Saco,MED980504393,02/21/1990,29.49,No
+West Site/Hows Corners,Plymouth,MED985466168,09/29/1995,50.00,No
+Winthrop Landfill,Winthrop,MED980504435,09/08/1983,35.62,No
+Aberdeen Proving Ground (Edgewood Area),Edgewood,MD2210020036,02/21/1990,53.57,Yes
+Aberdeen Proving Ground (Michaelsville Landfill),Aberdeen,MD3210021355,10/04/1989,31.09,Yes
+Andrews Air Force Base,Camp Springs,MD0570024000,05/10/1999,50.00,Yes
+Beltsville Agricultural Research Center (USDA),Beltsville,MD0120508940,05/31/1994,50.00,Yes
+Brandywine DRMO,Brandywine,MD9570024803,05/10/1999,50.15,Yes
+Bush Valley Landfill,Abingdon,MDD980504195,03/31/1989,40.30,No
+Central Chemical (Hagerstown),Hagerstown,MDD003061447,09/25/1997,50.00,No
+Curtis Bay Coast Guard Yard,Anne Arundel County,MD4690307844,09/05/2002,50.00,Yes
+Dwyer Property Ground Water Plume,Elkton,MDD985366756,03/10/2011,50.00,No
+Fort Detrick Area B Ground Water,Fort Detrick,MDD985397249,04/09/2009,49.52,Yes
+Fort George G. Meade,Odenton,MD9210020567,07/28/1998,51.44,Yes
+Indian Head Naval Surface Warfare Center,Indian Head,MD7170024684,09/29/1995,50.00,Yes
+Kane & Lombard Street Drums,Baltimore,MDD980923783,06/10/1986,30.15,No
+Limestone Road,Cumberland,MDD980691588,09/08/1983,30.54,No
+"Ordnance Products, Inc.",Cecil County,MDD982364341,09/25/1997,32.15,No
+Patuxent River Naval Air Station,St. Mary's County,MD7170024536,05/31/1994,50.00,Yes
+"Sand, Gravel and Stone",Elkton,MDD980705164,09/08/1983,41.08,No
+Sauer Dump,Dundalk,MDD981038334,03/15/2012,50.00,No
+"Spectron, Inc.",Elkton,MDD000218008,05/31/1994,51.42,No
+Woodlawn County Landfill,Woodlawn,MDD980504344,07/22/1987,48.13,No
+Atlas Tack Corp.,Fairhaven,MAD001026319,02/21/1990,42.60,No
+Baird & McGuire,Holbrook,MAD001041987,09/08/1983,66.35,No
+BJAT LLC,Franklin,MAN000106144,09/30/2015,41.91,No
+Blackburn and Union Privileges,Walpole,MAD982191363,05/31/1994,50.00,No
+Charles-George Reclamation Trust Landfill,Tyngsborough,MAD003809266,09/08/1983,47.20,No
+Creese & Cook Tannery (Former),Danvers,MAD001031574,05/24/2013,60.57,No
+Fort Devens,Fort Devens,MA7210025154,11/21/1989,42.24,Yes
+Groveland Wells,Groveland,MAD980732317,09/08/1983,40.74,No
+Hanscom Field/Hanscom Air Force Base,Bedford,MA8570024424,05/31/1994,50.00,Yes
+Haverhill Municipal Landfill,Haverhill,MAD980523336,06/10/1986,30.29,No
+Hocomonco Pond,Westborough,MAD980732341,09/08/1983,44.80,No
+Industri-Plex,Woburn,MAD076580950,09/08/1983,72.42,No
+Iron Horse Park,Billerica,MAD051787323,09/21/1984,42.93,No
+"Microfab, Inc. (Former)",Amesbury,MAD001409408,08/03/2017,50.00,No
+"Natick Laboratory Army Research, Development, and Engineering Center",Natick,MA1210020631,05/31/1994,50.00,Yes
+Naval Weapons Industrial Reserve Plant,Bedford,MA6170023570,05/31/1994,50.00,Yes
+New Bedford Site,New Bedford,MAD980731335,09/08/1983,,No
+"Nuclear Metals, Inc.",Concord,MAD062166335,06/14/2001,58.31,No
+Nyanza Chemical Waste Dump,Ashland,MAD990685422,09/08/1983,69.22,No
+Olin Chemical,Wilmington,MAD001403104,04/19/2006,50.00,No
+Otis Air National Guard Base/Camp Edwards,Falmouth,MA2570024487,11/21/1989,45.92,Yes
+PSC Resources,Palmer,MAD980731483,09/08/1983,38.66,No
+"Re-Solve, Inc.",Dartmouth,MAD980520621,09/08/1983,47.71,No
+Rose Disposal Pit,Lanesboro,MAD980524169,06/10/1986,33.03,No
+Silresim Chemical Corp.,Lowell,MAD000192393,09/08/1983,42.72,No
+South Weymouth Naval Air Station,Weymouth,MA2170022022,05/31/1994,50.00,Yes
+Sullivan's Ledge,New Bedford,MAD980731343,09/21/1984,32.77,No
+Sutton Brook Disposal Area,Tewksbury,MAD980520696,06/14/2001,57.12,No
+"W.R. Grace & Co., Inc. (Acton Plant)",Acton,MAD001002252,09/08/1983,59.31,No
+Walton & Lonsbury Inc.,Attleboro,MAD001197755,05/24/2013,58.30,No
+Wells G&H,Woburn,MAD980732168,09/08/1983,42.71,No
+Adam's Plating,Lansing,MID006522791,03/31/1989,29.64,No
+Aircraft Components (D & L Sales),Benton Harbor,MI0001119106,06/17/1996,,No
+Albion-Sheridan Township Landfill,Albion,MID980504450,10/04/1989,33.79,No
+"Allied Paper, Inc./Portage Creek/Kalamazoo River",Kalamazoo,MID006007306,08/30/1990,36.41,No
+"American Anodco, Inc.",Ionia,MID006029102,03/31/1989,57.99,No
+"Auto Ion Chemicals, Inc.",Kalamazoo,MID980794382,09/08/1983,32.07,No
+"Barrels, Inc.",Lansing,MID017188673,10/04/1989,42.24,No
+Bendix Corp./Allied Automotive,St. Joseph,MID005107222,02/21/1990,37.27,No
+"Bofors Nobel, Inc.",Muskegon,MID006030373,03/31/1989,53.42,No
+Butterworth #2 Landfill,Grand Rapids,MID062222997,09/08/1983,50.31,No
+"Cannelton Industries, Inc.",Sault Sainte Marie,MID980678627,08/30/1990,30.16,No
+Chem Central,Wyoming Township,MID980477079,09/08/1983,38.20,No
+Clare Water Supply,Clare,MID980002273,09/21/1984,38.43,No
+DSC McLouth Steel Gibraltar Plant,Gibraltar,MIN000510362,03/26/2015,50.00,No
+Electrovoice,Buchanan,MID005068143,09/21/1984,35.36,No
+Forest Waste Products,Otisville,MID980410740,09/08/1983,38.64,No
+G&H Landfill,Utica,MID980410823,09/08/1983,49.09,No
+Grand Traverse Overall Supply Co.,Greilickville,MID017418559,09/08/1983,35.53,No
+Gratiot County Golf Course,St. Louis,MIN000510389,03/04/2010,29.54,No
+Gratiot County Landfill,St. Louis,MID980506281,09/08/1983,,No
+"H. Brown Co., Inc.",Grand Rapids,MID017075136,06/10/1986,39.88,No
+Hedblum Industries,Oscoda,MID980794408,09/08/1983,37.29,No
+Hi-Mill Manufacturing Co.,Highland,MID005341714,02/21/1990,49.54,No
+Ionia City Landfill,Ionia,MID980794416,09/08/1983,31.31,No
+J & L Landfill,Rochester Hills,MID980609440,03/31/1989,31.65,No
+K&L Avenue Landfill,Oshtemo Township,MID980506463,09/08/1983,38.10,No
+Kaydon Corp.,Muskegon,MID006016703,02/21/1990,34.21,No
+Kentwood Landfill,Kentwood,MID000260281,09/08/1983,35.39,No
+Kysor Industrial Corp.,Cadillac,MID043681840,10/04/1989,33.94,No
+"Liquid Disposal, Inc.",Utica,MID067340711,09/08/1983,63.28,No
+McGraw Edison Corp.,Albion,MID005339676,09/08/1983,33.42,No
+McLouth Steel Corp,Trenton,MID017422304,05/15/2019,50.00,No
+Metamora Landfill,Metamora,MID980506562,09/21/1984,35.51,No
+Michigan Disposal Service (Cork Street Landfill),Kalamazoo,MID000775957,02/21/1990,37.93,No
+"Motor Wheel, Inc.",Lansing,MID980702989,06/10/1986,48.91,No
+Muskegon Chemical Co.,Whitehall,MID072569510,02/21/1990,34.19,No
+North Bronson Industrial Area,Bronson,MID005480900,06/10/1986,33.93,No
+Northernaire Plating,Cadillac,MID020883609,09/08/1983,57.93,No
+"Organic Chemicals, Inc.",Grandville,MID990858003,09/08/1983,32.93,No
+Ott/Story/Cordova Chemical Co.,Dalton Township,MID060174240,09/08/1983,53.41,No
+Packaging Corp. of America,Filer City,MID980794747,09/08/1983,51.91,No
+"Parsons Chemical Works, Inc.",Grand Ledge,MID980476907,03/31/1989,31.32,No
+Peerless Plating Co.,Muskegon,MID006031348,08/30/1990,43.94,No
+Petoskey Municipal Well Field,Petoskey,MID006013049,09/08/1983,42.68,No
+Rasmussen's Dump,Brighton,MID095402210,09/08/1983,31.80,No
+Rockwell International Corp. (Allegan Plant),Allegan,MID006028062,07/22/1987,52.15,No
+Rose Township Dump,Rose Township,MID980499842,09/08/1983,50.92,No
+"Roto-Finish Co., Inc.",Kalamazoo,MID005340088,06/10/1986,40.70,No
+SCA Independent Landfill,Muskegon Heights,MID000724930,09/08/1983,34.75,No
+Shiawassee River,Howell,MID980794473,09/08/1983,31.01,No
+South Macomb Disposal Authority (Landfills #9 and #9A),Macomb Township,MID069826170,06/10/1986,33.67,No
+Southwest Ottawa County Landfill,Park Township,MID980608780,09/08/1983,39.66,No
+Sparta Landfill,Sparta Township,MID000268136,09/08/1983,32.00,No
+Spartan Chemical Co.,Wyoming,MID079300125,09/08/1983,41.05,No
+Springfield Township Dump,Davisburg,MID980499966,09/08/1983,51.97,No
+"State Disposal Landfill, Inc.",Grand Rapids,MID980609341,02/21/1990,42.24,No
+Sturgis Municipal Wells,Sturgis,MID980703011,09/21/1984,42.24,No
+Tar Lake,Mancelona Township,MID980794655,09/08/1983,48.55,No
+Ten-Mile Drain,St. Clair Shores,MIN000510063,09/29/2010,48.88,No
+"Thermo-Chem, Inc.",Muskegon,MID044567162,06/10/1986,53.36,No
+Torch Lake,Houghton County,MID980901946,06/10/1986,46.72,No
+U.S. Aviex,Howard Township,MID980794556,09/08/1983,33.66,No
+Velsicol Chemical Corp.(Michigan),St. Louis,MID000722439,09/08/1983,52.29,No
+Verona Well Field,Battle Creek,MID980793806,09/08/1983,46.86,No
+Wash King Laundry,Pleasant Plains Township,MID980701247,09/08/1983,40.03,No
+Arrowhead Refinery Co.,Hermantown,MND980823975,09/21/1984,43.75,No
+Baytown Township Ground Water Plume,Baytown Township,MND982425209,12/16/1994,35.62,No
+Burlington Northern (Brainerd/Baxter Plant),"Baxter, Brainerd",MND000686196,09/08/1983,46.77,No
+FMC Corp. (Fridley Plant),Fridley,MND006481543,09/08/1983,65.50,No
+Freeway Sanitary Landfill,Burnsville,MND038384004,06/10/1986,45.91,No
+Fridley Commons Park Well Field,Fridley,MND985701309,01/19/1999,50.00,No
+General Mills/Henkel Corp.,Minneapolis,MND051441731,09/21/1984,36.28,No
+Joslyn Manufacturing & Supply Co.,Brooklyn Center,MND044799856,09/21/1984,44.30,No
+Koppers Coke,St. Paul,MND000819359,09/08/1983,55.05,No
+Kurt Manufacturing Co.,Fridley,MND059680165,06/10/1986,31.41,No
+Lehillier/Mankato Site,Lehillier,MND980792469,09/08/1983,42.49,No
+Long Prairie Ground Water Contamination,Long Prairie,MND980904072,06/10/1986,31.94,No
+MacGillis & Gibbs/Bell Lumber & Pole Co.,New Brighton,MND006192694,09/21/1984,48.33,No
+Naval Industrial Reserve Ordnance Plant,Fridley,MN3170022914,11/21/1989,30.83,Yes
+New Brighton/Arden Hills/TCAAP (USARMY),New Brighton,MN7213820908,09/08/1983,59.16,Yes
+Oakdale Dump,Oakdale,MND980609515,09/08/1983,55.71,No
+Perham Arsenic Site,Perham,MND980609572,09/21/1984,37.98,No
+Reilly Tar & Chemical Corp. (St. Louis Park Plant),St. Louis Park,MND980609804,09/08/1983,,No
+Ritari Post & Pole,Sebeka,MND980904064,07/22/1987,29.81,No
+South Andover Site,Andover,MND980609614,09/08/1983,35.41,No
+South Minneapolis Residential Soil Contamination,Minneapolis,MNN000509136,09/19/2007,44.58,No
+Spring Park Municipal Well Field,Spring Park,MNN000502963,05/17/2018,50.00,No
+St. Louis River Site,St. Louis County,MND039045430,09/21/1984,32.08,No
+St. Regis Paper Co.,Cass Lake,MND057597940,09/21/1984,52.88,No
+Waite Park Wells,Waite Park,MND981002249,06/10/1986,31.94,No
+"American Creosote Works, Inc.",Louisville,MSD004006995,09/13/2001,62.20,No
+"Chemfax, Inc.",Gulfport,MSD008154486,03/15/2012,38.40,No
+Kerr-McGee Chemical Corp - Columbus,Columbus,MSD990866329,09/16/2011,52.47,No
+Mississippi Phosphates Corporation,Pascagoula,MSN000403508,01/18/2018,50.00,No
+Picayune Wood Treating,Picayune,MSD065490930,07/22/2004,51.03,No
+Red Panther Chemical Company,Clarksdale,MSD000272385,09/16/2011,39.43,No
+Rockwell International Wheel & Trim,Grenada,MSD007037278,09/13/2018,50.00,No
+Sonford Products,Flowood,MSD086556388,03/07/2007,31.66,No
+Southeastern Wood Preserving,Canton,MSD000828558,03/15/2012,48.03,No
+Annapolis Lead Mine,Annapolis,MO0000958611,07/22/2004,56.67,No
+Armour Road,North Kansas City,MOD046750253,05/10/1999,50.00,No
+Bee Cee Manufacturing Co.,Malden,MOD980860522,06/10/1986,28.59,No
+Big River Mine Tailings/St. Joe Minerals Corp.,Desloge,MOD981126899,10/14/1992,84.91,No
+Compass Plaza Well TCE,Rogersville,MON000706143,03/15/2012,50.00,No
+Conservation Chemical Co.,Kansas City,MOD000829705,10/04/1989,29.85,No
+Ellisville Site,Ellisville,MOD980633010,09/08/1983,,No
+Fulbright Landfill,Springfield,MOD980631139,09/08/1983,40.60,No
+Lake City Army Ammunition Plant (Northwest Lagoon),Independence,MO3213890012,07/22/1987,33.62,Yes
+Lee Chemical,Liberty,MOD980853519,06/10/1986,46.81,No
+Madison County Mines,Fredericktown,MOD098633415,09/29/2003,58.41,No
+Minker/Stout/Romaine Creek,Imperial,MOD980741912,09/08/1983,36.78,No
+Missouri Electric Works,Cape Girardeau,MOD980965982,02/21/1990,31.20,No
+Newton County Mine Tailings,Granby,MOD981507585,09/29/2003,50.00,No
+Newton County Wells,Joplin,MOD985798339,07/27/2000,50.00,No
+Oak Grove Village Well,Oak Grove Village,MOD981717036,09/05/2002,50.00,No
+Oronogo-Duenweg Mining Belt,Jasper County,MOD980686281,08/30/1990,46.20,No
+Pools Prairie,Neosho,MO0000958835,09/17/1999,50.00,No
+Quality Plating,Sikeston,MOD980860555,06/10/1986,40.70,No
+Riverfront,New Haven,MOD981720246,12/01/2000,50.00,No
+"Solid State Circuits, Inc.",Republic,MOD980854111,06/10/1986,37.93,No
+Southwest Jefferson County Mining,Jefferson County,MON000705443,09/23/2009,70.71,No
+Sporlan Valve Plant #1,Washington,MON000703541,05/15/2019,35.15,No
+St. Louis Airport/Hazelwood Interim Storage/Futura Coatings Co.,St. Louis County,MOD980633176,10/04/1989,38.31,No
+Syntex Facility,Verona,MOD007452154,09/08/1983,43.78,No
+Valley Park TCE,Valley Park,MOD980968341,06/10/1986,35.57,No
+Vienna Wells,Vienna,MON000705803,09/29/2010,50.00,No
+Washington County Lead District - Furnace Creek,Caledonia,MON000705842,03/10/2011,50.00,No
+Washington County Lead District - Old Mines,Old Mines,MON000705027,03/19/2008,76.81,No
+Washington County Lead District - Potosi,Potosi,MON000705023,03/19/2008,50.00,No
+Washington County Lead District - Richwoods,Richwoods,MON000705032,03/19/2008,76.81,No
+Weldon Spring Former Army Ordnance Works,St. Charles County,MO5210021288,02/21/1990,30.26,Yes
+Weldon Spring Quarry/Plant/Pits (USDOE/Army),St. Charles County,MO3210090004,07/22/1987,58.60,Yes
+Westlake Landfill,Bridgeton,MOD079900932,08/30/1990,29.85,No
+ACM Smelter and Refinery,Black Eagle,MTD093291599,03/10/2011,54.26,No
+Anaconda Aluminum Co Columbia Falls Reduction Plant,Columbia Falls,MTD057561763,09/09/2016,68.39,No
+Anaconda Co. Smelter,Anaconda,MTD093291656,09/08/1983,58.71,No
+Barker Hughesville Mining District,Barker,MT6122307485,09/13/2001,50.00,No
+Basin Mining Area,Basin,MTD982572562,10/22/1999,61.15,No
+Carpenter Snow Creek Mining District,Neihart,MT0001096353,09/13/2001,50.00,No
+East Helena Site,East Helena,MTD006230346,09/21/1984,61.65,No
+Flat Creek IMM,Superior,MT0012694970,09/23/2009,51.33,No
+Idaho Pole Co.,Bozeman,MTD006232276,06/10/1986,38.29,No
+Libby Asbestos,Libby,MT0009083840,10/24/2002,,No
+Libby Ground Water Contamination,Libby,MTD980502736,09/08/1983,37.67,No
+Lockwood Solvent Ground Water Plume,Billings,MT0007623052,12/01/2000,45.69,No
+Milltown Reservoir Sediments,Milltown,MTD980717565,09/08/1983,43.78,No
+Montana Pole and Treating,Butte,MTD006230635,07/22/1987,33.03,No
+Mouat Industries,Columbus,MTD021997689,06/10/1986,31.66,No
+Silver Bow Creek/Butte Area,Silver Bow Creek,MTD980502777,09/08/1983,63.76,No
+Upper Tenmile Creek Mining Area,"Helena, Rimini",MTSFN7578012,10/22/1999,50.00,No
+10th Street Site,Columbus,NED981713837,08/30/1990,28.90,No
+Bruno Co-op Association/Associated Properties,Bruno,NED981713829,06/17/1996,50.00,No
+Cleburn Street Well,Grand Island,NED981499312,10/14/1992,50.00,No
+Cornhusker Army Ammunition Plant,Hall County,NE2213820234,07/22/1987,51.13,Yes
+Garvey Elevator,Hastings,NEN000704351,09/14/2005,50.00,No
+Hastings Ground Water Contamination,Hastings,NED980862668,06/10/1986,42.24,No
+Iowa-Nebraska Light & Power Co,Norfolk,NED986373678,04/07/2016,40.80,No
+Lindsay Manufacturing Co.,Lindsay,NED068645696,10/04/1989,47.91,No
+Nebraska Ordnance Plant (Former),Mead,NE6211890011,08/30/1990,31.94,No
+Ogallala Ground Water Contamination,Ogallala,NED986369247,12/16/1994,50.00,No
+Old HWY 275 and N 288th Street,Valley,NEN000704272,08/03/2017,50.00,No
+Omaha Lead,Omaha,NESFN0703481,04/30/2003,50.00,No
+Parkview Well,Grand Island,NEN000704456,04/19/2006,50.00,No
+PCE Southeast Contamination,York,NEN000706200,05/12/2014,43.33,No
+PCE/TCE Northeast Contamination,York,NEN000706105,05/12/2014,50.00,No
+Sherwood Medical Co.,Norfolk,NED084626100,10/14/1992,50.00,No
+West Highway 6 & Highway 281,Hastings,NEN000704738,04/19/2006,50.00,No
+Carson River Mercury Site,"Churchill County, Lyon County",NVD980813646,08/30/1990,39.07,No
+Auburn Road Landfill,Londonderry,NHD980524086,09/08/1983,36.30,No
+Beede Waste Oil,Plaistow,NHD018958140,12/23/1996,70.71,No
+Chlor-Alkali Facility (Former),Berlin,NHN000103313,09/14/2005,30.54,No
+Coakley Landfill,North Hampton,NHD064424153,06/10/1986,29.16,No
+Collins & Aikman Plant (Former),Farmington,NHN000105928,12/12/2013,50.00,No
+Dover Municipal Landfill,Dover,NHD980520191,09/08/1983,36.98,No
+Fletcher's Paint Works & Storage,Milford,NHD001079649,03/31/1989,35.39,No
+Kearsarge Metallurgical Corp.,Conway,NHD062002001,09/21/1984,38.45,No
+Keefe Environmental Services,Epping,NHD092059112,09/08/1983,65.19,No
+Mottolo Pig Farm,Raymond,NHD980503361,07/22/1987,40.70,No
+New Hampshire Plating Co.,Merrimack,NHD001091453,10/14/1992,50.00,No
+Ottati & Goss/Kingston Steel Drum,Kingston,NHD990717647,09/08/1983,53.41,No
+Pease Air Force Base,"Newington, Portsmouth",NH7570024847,02/21/1990,39.42,Yes
+Savage Municipal Water Supply,Milford,NHD980671002,09/21/1984,37.52,No
+Somersworth Sanitary Landfill,Somersworth,NHD980520225,09/08/1983,65.56,No
+South Municipal Water Supply Well,Peterborough,NHD980671069,09/21/1984,35.64,No
+Sylvester,Nashua,NHD099363541,09/08/1983,,No
+Tibbetts Road,Barrington,NHD989090469,06/10/1986,41.09,No
+Tinkham Garage,Londonderry,NHD062004569,09/08/1983,43.24,No
+Troy Mills Landfill,Troy,NHD980520217,09/29/2003,50.00,No
+A. O. Polymer,Sparta Township,NJD030253355,09/08/1983,28.91,No
+American Cyanamid Co.,Bound Brook,NJD002173276,09/08/1983,50.28,No
+Atlantic Resources Corporation,Sayreville,NJD981558430,09/05/2002,50.00,No
+Bog Creek Farm,Howell Township,NJD063157150,09/08/1983,43.23,No
+Brick Township Landfill,Brick Township,NJD980505176,09/08/1983,58.13,No
+Bridgeport Rental & Oil Services,Bridgeport,NJD053292652,09/08/1983,60.73,No
+Brook Industrial Park,Bound Brook,NJD078251675,10/04/1989,58.12,No
+Burnt Fly Bog,Marlboro Township,NJD980504997,09/08/1983,59.16,No
+Caldwell Trucking Co.,Fairfield,NJD048798953,09/08/1983,58.30,No
+Chemical Control,Elizabeth,NJD000607481,09/08/1983,47.13,No
+Chemical Insecticide Corp.,Edison Township,NJD980484653,08/30/1990,37.93,No
+"Chemical Leaman Tank Lines, Inc.",Bridgeport,NJD047321443,09/21/1984,47.53,No
+"Chemsol, Inc.",Piscataway,NJD980528889,09/08/1983,42.69,No
+Ciba-Geigy Corp.,Toms River,NJD001502517,09/08/1983,50.33,No
+Cinnaminson Township (Block 702) Ground Water Contamination,Cinnaminson Township,NJD980785638,06/10/1986,37.93,No
+Combe Fill South Landfill,Chester Township,NJD094966611,09/08/1983,45.22,No
+"Cornell Dubilier Electronics, Inc.",South Plainfield,NJD981557879,07/28/1998,50.27,No
+Cosden Chemical Coatings Corp.,Beverly,NJD000565531,07/22/1987,33.86,No
+CPS/Madison Industries,Old Bridge Township,NJD002141190,09/08/1983,69.73,No
+"Curcio Scrap Metal, Inc.",Saddle Brook Township,NJD011717584,07/22/1987,34.37,No
+"Curtis Specialty Papers, Inc.",Milford,NJD057143984,09/23/2009,50.00,No
+D'Imperio Property,Hamilton Township,NJD980529416,09/08/1983,55.79,No
+Dayco Corp./L.E. Carpenter Co.,Wharton Borough,NJD002168748,07/22/1987,46.13,No
+De Rewal Chemical Co.,Kingwood Township,NJD980761373,09/21/1984,35.72,No
+Diamond Alkali Co.,Newark,NJD980528996,09/21/1984,35.40,No
+Diamond Head Oil Refinery Div.,Kearny,NJD092226000,09/05/2002,30.00,No
+Dover Municipal Well 4,Dover,NJD980654131,09/08/1983,28.90,No
+Ellis Property,Evesham Township,NJD980529085,09/08/1983,34.62,No
+Emmell's Septic Landfill,Galloway Township,NJD980772727,07/22/1999,50.00,No
+Evor Phillips Leasing,Old Bridge Township,NJD980654222,09/08/1983,36.64,No
+Ewan Property,Shamong Township,NJD980761365,09/21/1984,50.19,No
+Fair Lawn Well Field,Fair Lawn,NJD980654107,09/08/1983,42.49,No
+Federal Aviation Administration Technical Center,Atlantic County,NJ9690510020,08/30/1990,39.65,Yes
+Former Kil-Tone Company,Vineland,NJN000200874,04/07/2016,65.29,No
+Franklin Burn,Franklin Township,NJD986570992,06/17/1996,40.67,No
+Fried Industries,East Brunswick Township,NJD041828906,06/10/1986,33.61,No
+Garden State Cleaners Co.,Minotola,NJD053280160,03/31/1989,28.90,No
+Garfield Ground Water Contamination,Garfield,NJN000206317,09/16/2011,,No
+GEMS Landfill,Gloucester Township,NJD980529192,09/08/1983,68.53,No
+Global Sanitary Landfill,Old Bridge Township,NJD063160667,03/31/1989,45.92,No
+Goose Farm,Plumstead Township,NJD980530109,09/08/1983,47.71,No
+Helen Kramer Landfill,Mantua Township,NJD980505366,09/08/1983,72.66,No
+"Hercules, Inc. (Gibbstown Plant)",Gibbstown,NJD002349058,09/08/1983,40.36,No
+Higgins Disposal,Franklin Township,NJD053102232,08/30/1990,30.87,No
+Higgins Farm,Franklin Township,NJD981490261,03/31/1989,30.47,No
+Horseshoe Road,Sayreville,NJD980663678,09/29/1995,51.37,No
+Iceland Coin Laundry Area Ground Water Plume,Vineland,NJ0001360882,10/22/1999,30.30,No
+"Imperial Oil Co., Inc./Champion Chemicals",Morganville,NJD980654099,09/08/1983,33.87,No
+JIS Landfill,"Jamesburg, South Brunswick Township",NJD097400998,09/08/1983,45.14,No
+"Kauffman & Minteer, Inc.",Jobstown,NJD002493054,03/31/1989,28.51,No
+Kin-Buc Landfill,Edison Township,NJD049860836,09/08/1983,50.64,No
+King of Prussia,Winslow Township,NJD980505341,09/08/1983,47.19,No
+Landfill & Development Co.,Mount Holly,NJD048044325,09/21/1984,33.62,No
+Lang Property,Pemberton Township,NJD980505382,09/08/1983,48.89,No
+LCP Chemicals Inc.,Linden,NJD079303020,07/28/1998,50.00,No
+Lightman Drum Company,Winslow Township,NJD014743678,10/22/1999,42.03,No
+Lipari Landfill,Pitman,NJD980505416,09/08/1983,75.60,No
+Lone Pine Landfill,Freehold Township,NJD980505424,09/08/1983,66.33,No
+Mansfield Trail Dump,Byram,NJN000206345,03/10/2011,50.00,No
+"Martin Aaron, Inc.",Camden,NJD014623854,07/22/1999,50.00,No
+"Matlack, Inc.",Woolwich Township,NJD043584101,05/24/2013,45.54,No
+"Matteo & Sons, Inc.",Thorofare,NJD011770013,09/27/2006,50.00,No
+Maywood Chemical Co.,"Maywood, Rochelle Park",NJD980529762,09/08/1983,51.19,No
+McGuire Air Force Base #1,Wrightstown,NJ0570024018,10/22/1999,47.20,Yes
+Metaltec/Aerosystems,Franklin Borough,NJD002517472,09/08/1983,48.95,No
+Middlesex Sampling Plant (USDOE),Middlesex,NJ0890090012,01/19/1999,50.00,Yes
+"Monitor Devices, Inc./Intercircuits, Inc.",Wall Township,NJD980529408,06/10/1986,41.93,No
+Montgomery Township Housing Development,Montgomery Township,NJD980654164,09/08/1983,37.93,No
+Myers Property,Franklin Township,NJD980654198,09/08/1983,33.83,No
+Nascolite Corp.,Millville,NJD002362705,09/21/1984,51.13,No
+Naval Air Engineering Center,Lakehurst,NJ7170023744,07/22/1987,50.53,Yes
+Naval Weapons Station Earle (Site A),Colts Neck,NJ0170022172,08/30/1990,29.65,Yes
+NL Industries,Pedricktown,NJD061843249,09/08/1983,52.96,No
+Orange Valley Regional Ground Water Contamination,West Orange/Orange,NJD002148799,09/18/2012,50.00,No
+Picatinny Arsenal (USARMY),Rockaway Township,NJ3210020704,02/21/1990,42.92,Yes
+Pierson's Creek,Newark,NJD002144517,09/22/2014,47.99,No
+PJP Landfill,Jersey City,NJD980505648,09/08/1983,28.73,No
+Pohatcong Valley Ground Water Contamination,Warren County,NJD981179047,03/31/1989,28.90,No
+Price Landfill,Pleasantville,NJD070281175,09/08/1983,,No
+Puchack Well Field,Pennsauken Township,NJD981084767,03/06/1998,50.00,No
+Quanta Resources,Edgewater,NJD000606442,09/05/2002,50.00,No
+"Radiation Technology, Inc.",Rockaway Township,NJD047684451,09/21/1984,42.56,No
+Raritan Bay Slag,"Old Bridge Township, Sayreville",NJN000206276,11/04/2009,50.00,No
+Reich Farms,Pleasant Plains,NJD980529713,09/08/1983,53.48,No
+Ringwood Mines/Landfill,Ringwood Borough,NJD980529739,09/08/1983,52.58,No
+Riverside Industrial Park,Newark,NJSFN0204232,05/24/2013,50.00,No
+Rockaway Borough Well Field,Rockaway Township,NJD980654115,09/08/1983,42.34,No
+Rockaway Township Wells,Rockaway Township,NJD980654214,09/08/1983,28.90,No
+Rocky Hill Municipal Well,Rocky Hill Borough,NJD980654156,09/08/1983,37.93,No
+Roebling Steel Co.,Florence,NJD073732257,09/08/1983,41.02,No
+Rolling Knolls Landfill,Chatham Township,NJD980505192,09/29/2003,58.31,No
+Scientific Chemical Processing,Carlstadt,NJD070565403,09/08/1983,55.97,No
+Sharkey Landfill,"Parsippany, Troy Hills",NJD980505762,09/08/1983,48.85,No
+Sherwin-Williams/Hilliards Creek,Gibbsboro,NJD980417976,03/19/2008,50.00,No
+Shieldalloy Corp.,Newfield Borough,NJD002365930,09/21/1984,58.75,No
+South Jersey Clothing Co.,Minotola,NJD980766828,10/04/1989,42.24,No
+Standard Chlorine,Kearny,NJD002175057,09/19/2007,50.00,No
+Swope Oil & Chemical Co.,Pennsauken Township,NJD041743220,09/08/1983,35.68,No
+Syncon Resins,South Kearny,NJD064263817,09/08/1983,43.43,No
+U.S. Radium Corp.,Orange,NJD980654172,09/08/1983,37.79,No
+Unimatic Manufacturing Corporation,Fairfield,NJD002164796,05/12/2014,50.00,No
+United States Avenue Burn,Gibbsboro,NJ0001120799,07/22/1999,50.00,No
+Universal Oil Products (Chemical Division),East Rutherford,NJD002005106,09/08/1983,54.63,No
+Ventron/Velsicol,Woodridge Borough,NJD980529879,09/21/1984,51.38,No
+"Vineland Chemical Co., Inc.",Vineland,NJD002385664,09/21/1984,59.16,No
+"Waldick Aerospace Devices, Inc.",Wall Township,NJD054981337,06/10/1986,44.86,No
+Welsbach & General Gas Mantle (Camden Radiation),"Camden, Gloucester City",NJD986620995,06/17/1996,41.46,No
+White Chemical Corp.,Newark,NJD980755623,09/25/1991,,No
+White Swan Cleaners/Sun Cleaners Area Ground Water Contamination,Wall Township,NJSFN0204241,09/23/2004,41.63,No
+Williams Property,Swainton,NJD980529945,09/08/1983,40.45,No
+Woodbrook Road Dump,South Plainfield,NJSFN0204260,04/30/2003,50.00,No
+Woodland Route 532 Dump,Woodland Township,NJD980505887,09/21/1984,34.98,No
+Woodland Route 72 Dump,Woodland Township,NJD980505879,09/21/1984,31.17,No
+Zschiegner Refining,Howell Township,NJD986643153,03/06/1998,50.00,No
+AT&SF (Albuquerque),Albuquerque,NMD980622864,12/16/1994,50.00,No
+Chevron Questa Mine,Questa,NMD002899094,09/16/2011,50.00,No
+Cimarron Mining Corp.,Carrizozo,NMD980749378,10/04/1989,38.93,No
+Eagle Picher Carefree Battery,Socorro,NMD001829506,09/19/2007,50.00,No
+Fruit Avenue Plume,Albuquerque,NMD986668911,10/22/1999,50.00,No
+Grants Chlorinated Solvents Plume,Grants,NM0007271768,07/22/2004,50.00,No
+Griggs & Walnut Ground Water Plume,Las Cruces,NM0002271286,06/14/2001,50.00,No
+Homestake Mining Co.,Milan,NMD007860935,09/08/1983,34.21,No
+Jackpile-Paguate Uranium Mine,Laguna Pueblo,NMN000607033,12/12/2013,50.00,No
+Lea and West Second Street,Roswell,NMN000607057,04/07/2016,50.00,No
+Lee Acres Landfill (USDOI),Farmington,NMD980750020,08/30/1990,39.37,Yes
+McGaffey and Main Groundwater Plume,Roswell,NM0000605386,09/05/2002,50.00,No
+North Railroad Avenue Plume,Espanola,NMD986670156,01/19/1999,50.00,No
+Prewitt Abandoned Refinery,Prewitt,NMD980622773,08/30/1990,44.24,No
+South Valley,Albuquerque,NMD980745558,09/08/1983,,No
+United Nuclear Corp.,Church Rock,NMD030443303,09/08/1983,30.36,No
+American Thermostat Co.,South Cairo,NYD002066330,09/08/1983,33.61,No
+Applied Environmental Services,Glenwood Landing,NYD980535652,06/10/1986,41.15,No
+Arsenic Mine,Kent,NYD982531469,11/08/2019,,No
+Black River PCBs,Town of Champion,NYN000206296,09/29/2010,48.03,No
+Brewster Well Field,Brewster,NYD980652275,09/08/1983,37.93,No
+Brookhaven National Laboratory (USDOE),Upton,NY7890008975,11/21/1989,39.92,Yes
+Byron Barrel & Drum,Byron,NYD980780670,06/10/1986,37.27,No
+Carroll & Dubies Sewage Disposal,Port Jervis,NYD010968014,02/21/1990,33.74,No
+Cayuga County Ground Water Contamination,"Aurelius, Fleming, Springport",NYN000204289,09/05/2002,50.00,No
+Circuitron Corp.,East Farmingdale,NYD981184229,03/31/1989,54.27,No
+Claremont Polychemical,Old Bethpage,NYD002044584,06/10/1986,31.62,No
+Colesville Municipal Landfill,Town of Colesville,NYD980768691,06/10/1986,30.26,No
+Computer Circuits,Hauppauge,NYD125499673,05/10/1999,50.00,No
+Cortese Landfill,Village of Narrowsburg,NYD980528475,06/10/1986,32.11,No
+"Crown Cleaners of Watertown, Inc.",Carthage,NYD986965333,09/05/2002,49.00,No
+Dewey Loeffel Landfill,Nassau,NYD000512335,03/10/2011,50.00,No
+Diaz Chemical Corporation,Holley,NYD067532580,07/22/2004,50.00,No
+Eighteenmile Creek,Lockport,NYN000206456,03/15/2012,50.00,No
+Endicott Village Well Field,Village of Endicott,NYD980780746,06/10/1986,35.57,No
+"Facet Enterprises, Inc.",Elmira,NYD073675514,09/08/1983,46.67,No
+FMC Corp. (Dublin Road Landfill),Town of Shelby,NYD000511857,06/10/1986,32.90,No
+Forest Glen Mobile Home Subdivision,Niagara Falls,NYD981560923,11/21/1989,,No
+Fulton Avenue,North Hempstead,NY0000110247,03/06/1998,33.08,No
+GCL Tie and Treating Inc.,Village of Sidney,NYD981566417,05/31/1994,48.54,No
+GE Moreau,South Glens Falls,NYD980528335,09/08/1983,58.21,No
+General Motors (Central Foundry Division),Massena,NYD091972554,09/21/1984,40.71,No
+Genzale Plating Co.,Franklin Square,NYD002050110,07/22/1987,33.79,No
+"Goldisc Recordings, Inc.",Holbrook,NYD980768717,06/10/1986,33.39,No
+Gowanus Canal,Brooklyn,NYN000206222,03/04/2010,50.00,No
+Griffiss Air Force Base,Rome,NY4571924451,07/22/1987,34.20,Yes
+Haviland Complex,Town of Hyde Park,NYD980785661,06/10/1986,33.62,No
+Hertel Landfill,Plattekill,NYD980780779,06/10/1986,33.62,No
+Hooker (S Area),Niagara Falls,NYD980651087,09/08/1983,51.62,No
+Hooker Chemical & Plastics Corp./Ruco Polymer Corp.,Hicksville,NYD002920312,06/10/1986,41.60,No
+Hopewell Precision Area Contamination,Hopewell Junction,NYD066813064,04/27/2005,50.00,No
+Hudson River PCBs,Hudson River,NYD980763841,09/21/1984,54.66,No
+Islip Municipal Sanitary Landfill,Islip,NYD980506901,03/31/1989,33.39,No
+Johnstown City Landfill,Town of Johnstown,NYD980506927,06/10/1986,48.36,No
+"Jones Chemicals, Inc.",Caledonia,NYD000813428,02/21/1990,33.62,No
+Kentucky Avenue Well Field,Horseheads,NYD980650667,09/08/1983,39.65,No
+"Lawrence Aviation Industries, Inc.",Port Jefferson Station,NYD002041531,02/04/2000,50.00,No
+Lehigh Valley Railroad,Le Roy,NYD986950251,01/19/1999,50.00,No
+Li Tungsten Corp.,Glen Cove,NYD986882660,10/14/1992,50.00,No
+Liberty Industrial Finishing,Farmingdale,NYD000337295,06/10/1986,50.65,No
+Little Valley,Little Valley,NY0001233634,06/17/1996,,No
+"MacKenzie Chemical Works, Inc.",Central Islip,NYD980753420,09/13/2001,50.00,No
+Magna Metals,Cortlandt Manor,NYD001394881,05/15/2019,50.00,No
+Malta Rocket Fuel Area,Malta,NYD980535124,07/22/1987,33.62,No
+"Mattiace Petrochemical Co., Inc.",Glen Cove,NYD000512459,03/31/1989,31.90,No
+"Mercury Refining, Inc.",Colonie,NYD048148175,09/08/1983,44.58,No
+Mohonk Road Industrial Plant,High Falls,NYD986950012,01/19/1999,50.00,No
+"Nepera Chemical Co., Inc.",Maybrook,NYD000511451,06/10/1986,39.87,No
+New Cassel/Hicksville Ground Water Contamination,New Cassel/Hicksville,NY0001095363,09/16/2011,50.00,No
+Newtown Creek,"Brooklyn, Queens",NYN000206282,09/29/2010,50.00,No
+Niagara Mohawk Power Corp. (Saratoga Spings Plant),Saratoga Springs,NYD980664361,02/21/1990,35.48,No
+Old Bethpage Landfill,Oyster Bay,NYD980531727,09/08/1983,58.83,No
+Old Roosevelt Field Contaminated Ground Water Area,Garden City,NYSFN0204234,05/11/2000,50.00,No
+Olean Well Field,Olean,NYD980528657,09/08/1983,44.46,No
+Onondaga Lake,Syracuse,NYD986913580,12/16/1994,50.00,No
+Peninsula Boulevard Ground Water Plume,Hewlett,NYN000204407,07/22/2004,50.00,No
+Plattsburgh Air Force Base,Plattsburgh,NY4571924774,11/21/1989,30.34,Yes
+Pollution Abatement Services,Oswego,NYD000511659,09/08/1983,,No
+Port Washington Landfill,Port Washington,NYD980654206,09/08/1983,45.46,No
+Preferred Plating Corp.,Farmingdale,NYD980768774,06/10/1986,35.06,No
+Ramapo Landfill,Ramapo,NYD000511493,09/08/1983,44.73,No
+Richardson Hill Road Landfill/Pond,Sidney Center,NYD980507735,07/22/1987,34.86,No
+"Robintech, Inc./National Pipe Co.",Town of Vestal,NYD002232957,06/10/1986,30.75,No
+Rosen Brothers Scrap Yard/Dump,Cortland,NYD982272734,03/31/1989,51.35,No
+Rowe Industries Ground Water Contamination,"Noyack, Sag Harbor",NYD981486954,07/22/1987,31.94,No
+Saint-Gobain Performance Plastics,Village of Hoosick Falls,NYD004986741,08/03/2017,50.00,No
+Sarney Farm,Amenia,NYD980535165,06/10/1986,33.20,No
+"Sealand Restoration, Inc.",Lisbon,NYD980535181,08/30/1990,29.36,No
+Seneca Army Depot,Romulus,NY0213820830,08/30/1990,35.52,Yes
+Shenandoah Road Ground Water Contamination,East Fishkill,NYSFN0204269,06/14/2001,50.00,No
+Sidney Landfill,Sidney,NYD980507677,03/31/1989,29.36,No
+Sinclair Refinery,Wellsville,NYD980535215,09/08/1983,53.90,No
+Smithtown Ground Water Contamination,Smithtown,NY0002318889,01/19/1999,50.00,No
+Solvent Savers,Lincklaen,NYD980421176,09/08/1983,34.78,No
+Stanton Cleaners Area Ground Water Contamination,Great Neck,NYD047650197,05/10/1999,35.76,No
+"Tri-Cities Barrel Co., Inc.",Port Crane,NYD980509285,10/04/1989,44.06,No
+Vestal Water Supply Well 1-1,Vestal,NYD980763767,09/08/1983,37.93,No
+Volney Municipal Landfill,Town of Volney,NYD980509376,06/10/1986,32.89,No
+Wappinger Creek,Dutchess County,NYN000201758,09/09/2016,50.00,No
+Wolff-Alport Chemical Company,Ridgewood,NYC200400810,05/12/2014,50.00,No
+York Oil Co.,Moira,NYD000511733,09/08/1983,47.70,No
+ABC One Hour Cleaners,Jacksonville,NCD024644494,03/31/1989,29.11,No
+Aberdeen Contaminated Ground Water,Aberdeen,NCN000407447,09/03/2008,50.00,No
+Aberdeen Pesticide Dumps,Aberdeen,NCD980843346,03/31/1989,52.70,No
+Barber Orchard,Waynesville,NCSFN0406989,09/13/2001,70.71,No
+"Benfield Industries, Inc.",Hazelwood,NCD981026479,10/04/1989,31.67,No
+Blue Ridge Plating Company,Arden,NCD044447589,09/14/2005,38.67,No
+Bypass 601 Ground Water Contamination,Concord,NCD044440303,06/10/1986,37.93,No
+Camp Lejeune Military Reservation,Onslow County,NC6170022580,10/04/1989,33.13,Yes
+Cape Fear Wood Preserving,Fayetteville,NCD003188828,07/22/1987,34.09,No
+Carolina Transformer Co.,Fayetteville,NCD003188844,07/22/1987,33.76,No
+Celanese Corp. (Shelby Fiber Operations),Shelby,NCD003446721,06/10/1986,48.98,No
+Charles Macon Lagoon & Drum Storage,Cordova,NCD980840409,07/22/1987,47.10,No
+"Chemtronics, Inc.",Swannanoa,NCD095459392,09/08/1983,30.16,No
+Cherry Point Marine Corps Air Station,Havelock,NC1170027261,12/16/1994,70.71,Yes
+Cristex Drum,Oxford,NC0001606250,12/12/2013,48.00,No
+"CTS of Asheville, Inc.",Asheville,NCD003149556,03/15/2012,38.40,No
+Davis Park Road TCE,Gastonia,NCD986175644,01/19/1999,33.50,No
+"FCX, Inc. (Statesville Plant)",Statesville,NCD095458527,02/21/1990,37.93,No
+"FCX, Inc. (Washington Plant)",Washington,NCD981475932,03/31/1989,40.39,No
+Geigy Chemical Corp. (Aberdeen Plant),Aberdeen,NCD981927502,10/04/1989,33.02,No
+General Electric Co/Shepherd Farm,East Flat Rock,NCD079044426,12/16/1994,70.71,No
+GMH Electronics,Roxboro,NCN000410161,09/23/2009,50.00,No
+Hemphill Road TCE,Gastonia,NC0002374445,12/12/2013,50.00,No
+Holcomb Creosote Co,Yadkinville,NCD024900987,09/18/2012,48.00,No
+Horton Iron and Metal,Wilmington,NCN000407480,09/16/2011,48.03,No
+Jadco-Hughes Facility,Belmont,NCD980729602,06/10/1986,42.00,No
+JFD Electronics/Channel Master,Oxford,NCD122263825,10/04/1989,39.03,No
+Kerr-McGee Chemical Corp - Navassa,Navassa,NCD980557805,03/04/2010,50.00,No
+"Koppers Co., Inc. (Morrisville Plant)",Morrisville,NCD003200383,03/31/1989,41.89,No
+National Starch & Chemical Corp.,Salisbury,NCD991278953,10/04/1989,46.51,No
+North Belmont PCE,North Belmont,NCD986187128,07/22/1999,50.00,No
+"North Carolina State University (Lot 86, Farm Unit #1)",Raleigh,NCD980557656,06/10/1986,48.36,No
+Ore Knob Mine,Ashe County,NCN000409895,09/23/2009,50.00,No
+Potter's Septic Tank Service Pits,Maco,NCD981023260,03/31/1989,29.14,No
+Ram Leather Care,Charlotte,NCD982096653,09/29/2003,40.43,No
+Sigmon's Septic Tank Service,Statesville,NCD062555792,04/27/2005,30.03,No
+Ward Transformer,Raleigh,NCD003202603,04/30/2003,50.00,No
+Wright Chemical Corporation,Riegelwood,NCD024766719,03/10/2011,48.03,No
+Allied Chemical & Ironton Coke,Ironton,OHD043730217,09/08/1983,47.05,No
+Behr Dayton Thermal System VOC Plume,Dayton,OHN000510164,04/09/2009,50.00,No
+Big D Campground,Kingsville,OHD980611735,09/08/1983,30.77,No
+Chem-Dyne,Hamilton,OHD074727793,09/08/1983,,No
+Copley Square Plaza,Copley,OH0000563122,04/27/2005,50.00,No
+Donnelsville Contaminated Aquifer,Donnelsville,OHN000510459,09/13/2018,35.06,No
+E.H. Schilling Landfill,Hamilton Township,OHD980509947,09/08/1983,34.56,No
+East Troy Contaminated Aquifer,Troy,OHSFN0507962,09/03/2008,50.00,No
+Feed Materials Production Center (USDOE),Fernald,OH6890008976,11/21/1989,57.56,Yes
+Fields Brook,Ashtabula,OHD980614572,09/08/1983,44.95,No
+Fultz Landfill,Jackson Township,OHD980794630,09/08/1983,39.42,No
+Industrial Excess Landfill,Uniontown,OHD000377911,06/10/1986,51.13,No
+Lammers Barrel,Beavercreek,OHD981537582,09/29/2003,69.33,No
+Little Scioto River,Marion Township,OHN000509950,09/23/2009,48.03,No
+Miami County Incinerator,Troy,OHD980611800,09/21/1984,57.84,No
+Milford Contaminated Aquifer,Milford,OHSFN0507973,03/10/2011,50.00,No
+Mound Plant (USDOE),Miamisburg,OH6890008984,11/21/1989,34.61,Yes
+Nease Chemical,Salem,OHD980610018,09/08/1983,47.19,No
+New Carlisle Landfill,New Carlisle,OHN000509238,04/09/2009,46.40,No
+New Lyme Landfill,New Lyme,OHD980794614,09/08/1983,31.19,No
+North Sanitary Landfill,Dayton,OHD980611875,05/31/1994,50.00,No
+Old Mill,Rock Creek,OHD980510200,09/08/1983,35.95,No
+Ormet Corp.,Hannibal,OHD004379970,07/22/1987,46.44,No
+Peters Cartridge Factory,Kings Mills,OHD987051083,09/18/2012,50.00,No
+Powell Road Landfill,Dayton,OHD000382663,09/21/1984,31.62,No
+"Pristine, Inc.",Reading,OHD076773712,09/08/1983,35.25,No
+Reilly Tar & Chemical Corp. (Dover Plant),Dover,OHD980610042,08/30/1990,31.38,No
+"Sanitary Landfill Co. (Industrial Waste Disposal Co., Inc.)",Dayton,OHD093895787,06/10/1986,35.57,No
+Skinner Landfill,West Chester,OHD063963714,09/08/1983,30.23,No
+South Point Plant,South Point,OHD071650592,09/21/1984,46.33,No
+Summit National,Deerfield Township,OHD980609994,09/08/1983,52.28,No
+"TRW, Inc. (Minerva Plant)",Minerva,OHD004179339,03/31/1989,38.08,No
+"United Scrap Lead Co., Inc.",Troy,OHD018392928,09/21/1984,58.15,No
+Valley Pike VOCs,Riverside,OHN000510489,09/09/2016,50.00,No
+Van Dale Junkyard,Marietta,OHD980794606,06/10/1986,33.03,No
+West Troy Contaminated Aquifer,Troy,OHN000508132,09/18/2012,50.00,No
+Wright-Patterson Air Force Base,Dayton,OH7571724312,10/04/1989,57.85,Yes
+Zanesville Well Field,Zanesville,OHD980794598,09/08/1983,35.59,No
+Eagle Industries,Midwest City,OKN000607068,01/18/2018,50.00,No
+Hardage/Criner,Criner,OKD000400093,09/08/1983,51.01,No
+Hudson Refinery,Cushing,OKD082471988,07/22/1999,29.34,No
+Oklahoma Refining Co.,Cyril,OKD091598870,02/21/1990,46.01,No
+Tar Creek (Ottawa County),Ottawa County,OKD980629844,09/08/1983,58.15,No
+Tinker Air Force Base (Soldier Creek/Building 3001),Oklahoma City,OK1571724391,07/22/1987,42.24,Yes
+Tulsa Fuel and Manufacturing,Collinsville,OKD987096195,01/19/1999,50.00,No
+Wilcox Oil Company,Creek County,OK0001010917,12/12/2013,50.00,No
+Black Butte Mine,Cottage Grove,OR0000515759,03/04/2010,50.00,No
+Formosa Mine,Riddle,ORN001002616,09/19/2007,50.00,No
+Fremont National Forest/White King and Lucky Lass Uranium Mines (USDA),Lake County,OR7122307658,04/25/1995,50.00,Yes
+McCormick & Baxter Creosoting Co. (Portland Plant),Portland,ORD009020603,05/31/1994,50.00,No
+North Ridge Estates,Klamath Falls,ORN001002476,09/16/2011,,No
+Northwest Pipe & Casing/Hall Process Co,Clackamas,ORD980988307,10/14/1992,51.09,No
+Portland Harbor,Portland,ORSFN1002155,12/01/2000,50.00,No
+Reynolds Metals Company,Troutdale,ORD009412677,12/16/1994,70.71,No
+Taylor Lumber and Treating,Sheridan,ORD009042532,06/14/2001,71.78,No
+Teledyne Wah Chang,Albany,ORD050955848,09/08/1983,54.27,No
+Umatilla Army Depot (Lagoons),Hermiston,OR6213820917,07/22/1987,31.31,Yes
+Union Pacific Railroad Co. Tie-Treating Plant,The Dalles,ORD009049412,08/30/1990,37.93,No
+"United Chrome Products, Inc.",Corvallis,ORD009043001,09/21/1984,31.07,No
+A.I.W. Frank/Mid-County Mustang,Exton,PAD004351003,10/04/1989,42.40,No
+Avco Lycoming (Williamsport Division),Williamsport,PAD003053709,02/21/1990,42.24,No
+Baghurst Drive,Harleysville,PAN000306939,09/22/2014,50.00,No
+Bally Ground Water Contamination,Bally Borough,PAD061105128,07/22/1987,37.93,No
+Bell Landfill,Terry Township,PAD980705107,10/04/1989,34.79,No
+Bendix Flight Systems Division,Bridgewater Township,PAD003047974,07/22/1987,33.74,No
+Berks Sand Pit,Longswamp Township,PAD980691794,09/21/1984,32.02,No
+Blosenski Landfill,West Caln Township,PAD980539985,09/08/1983,30.57,No
+Boarhead Farms,Bridgeton Township,PAD047726161,03/31/1989,39.92,No
+BoRit Asbestos,Ambler,PAD981034887,04/09/2009,50.00,No
+"Breslube-Penn, Inc",Coraopolis,PAD089667695,06/17/1996,50.00,No
+Brown's Battery Breaking,Shoemakersville,PAD980831812,06/10/1986,37.34,No
+Butler Mine Tunnel,Pittston,PAD980508451,07/22/1987,49.51,No
+Butz Landfill,Stroudsburg,PAD981034705,03/31/1989,32.00,No
+Centre County Kepone,State College Borough,PAD000436261,09/08/1983,45.09,No
+Chem-Fab,Doylestown,PAD002323848,03/19/2008,50.00,No
+Commodore Semiconductor Group,Lower Providence Township,PAD093730174,10/04/1989,42.35,No
+"Crater Resources, Inc./Keystone Coke Co./Alan Wood Steel Co.",Upper Merion Township,PAD980419097,10/14/1992,50.00,No
+Crossley Farm,Hereford Township,PAD981740061,10/14/1992,29.66,No
+Croydon TCE,Croydon,PAD981035009,06/10/1986,31.60,No
+"CryoChem, Inc.",Worman,PAD002360444,10/04/1989,28.58,No
+"Delta Quarries & Disposal, Inc./Stotler Landfill","Antis Township, Logan Township",PAD981038052,03/31/1989,41.08,No
+Douglassville Disposal,Douglassville,PAD002384865,09/08/1983,55.18,No
+Drake Chemical,Lock Haven,PAD003058047,09/08/1983,38.52,No
+Dublin TCE Site,Dublin Borough,PAD981740004,08/30/1990,28.90,No
+East Mount Zion,Springettsbury Township,PAD980690549,09/21/1984,41.01,No
+Eastern Diversified Metals,Hometown,PAD980830533,10/04/1989,31.02,No
+Elizabethtown Landfill,Elizabethtown,PAD980539712,03/31/1989,28.98,No
+Fischer & Porter Co.,Warminster,PAD002345817,09/08/1983,29.07,No
+Foote Mineral Co.,East Whiteland Township,PAD077087989,10/14/1992,50.00,No
+Franklin Slag Pile (MDC),Philadelphia,PASFN0305549,09/05/2002,50.20,No
+Havertown PCP,Haverford,PAD002338010,09/08/1983,38.34,No
+Heleva Landfill,North Whitehall Township,PAD980537716,09/08/1983,50.23,No
+Hellertown Manufacturing Co.,Hellertown,PAD002390748,03/31/1989,51.91,No
+Henderson Road,Upper Merion Township,PAD009862939,09/21/1984,41.69,No
+Hunterstown Road,Straban Township,PAD980830897,06/10/1986,48.27,No
+Industrial Lane,Williams Township,PAD980508493,09/21/1984,42.47,No
+"Jacks Creek/Sitkin Smelting & Refining, Inc.",Maitland,PAD980829493,10/04/1989,40.37,No
+Jackson Ceramix,Falls Creek,PAD001222025,09/14/2005,30.22,No
+Keystone Sanitation Landfill,Union Township,PAD054142781,07/22/1987,33.76,No
+Kimberton,Kimberton Borough,PAD980691703,09/08/1983,29.44,No
+Letterkenny Army Depot (PDO Area),Franklin County,PA2210090054,03/13/1989,37.51,Yes
+Letterkenny Army Depot (SE Area),Chambersburg,PA6213820503,07/22/1987,34.21,Yes
+Lindane Dump,Harrison Township,PAD980712798,09/08/1983,51.62,No
+Lord-Shope Landfill,Girard Township,PAD980508931,09/08/1983,38.89,No
+Lower Darby Creek Area,Darby Township,PASFN0305521,06/14/2001,50.00,No
+Malvern TCE,Malvern,PAD014353445,09/08/1983,46.69,No
+Metal Banks,Philadelphia,PAD046557096,09/08/1983,33.23,No
+Metro Container Corporation,Trainer,PAD044545895,03/15/2012,50.00,No
+Mill Creek Dump,Erie,PAD980231690,09/21/1984,49.31,No
+Modern Sanitation Landfill,Lower Windsor Township,PAD980539068,06/10/1986,33.93,No
+MW Manufacturing,Valley Township,PAD980691372,06/10/1986,46.44,No
+Naval Air Development Center (8 Waste Areas),Warminster Township,PA6170024545,10/04/1989,57.93,Yes
+Navy Ships Parts Control Center,Mechanicsburg,PA3170022104,05/31/1994,50.00,Yes
+North Penn - Area 1,Souderton,PAD096834494,03/31/1989,35.57,No
+North Penn - Area 12,Worcester,PAD057152365,02/21/1990,28.90,No
+North Penn - Area 2,Hatfield,PAD002342475,10/04/1989,35.57,No
+North Penn - Area 5,Montgomery Township,PAD980692693,03/31/1989,35.57,No
+North Penn - Area 6,Lansdale,PAD980926976,03/31/1989,35.57,No
+North Penn - Area 7,North Wales,PAD002498632,03/31/1989,35.57,No
+Novak Sanitary Landfill,South Whitehall Township,PAD079160842,10/04/1989,42.31,No
+Occidental Chemical Corp./Firestone Tire & Rubber Co.,Lower Pottsgrove Township,PAD980229298,10/04/1989,45.91,No
+Ohio River Park,Neville Island,PAD980508816,08/30/1990,42.24,No
+Old City of York Landfill,Seven Valleys,PAD980692420,09/08/1983,33.93,No
+Old Wilmington Road Ground Water Contamination,Sadsburyville,PAD981938939,02/04/2000,50.00,No
+Osborne Landfill,Grove City,PAD980712673,09/08/1983,54.60,No
+Palmerton Zinc Pile,Palmerton,PAD002395887,09/08/1983,42.93,No
+Paoli Rail Yard,Paoli,PAD980692594,08/30/1990,32.18,No
+Price Battery,Hamburg,PAN000305679,04/27/2005,37.86,No
+Raymark,Hatboro,PAD039017694,10/04/1989,53.42,No
+Revere Chemical Co.,Nockamixon Township,PAD051395499,07/22/1987,31.31,No
+"Rodale Manufacturing Co., Inc.",Emmaus Borough,PAD981033285,10/14/1992,50.00,No
+Ryeland Road Arsenic,Heidelberg Township,PAD981033459,07/22/2004,60.30,No
+Saegertown Industrial Area,Saegertown,PAD980692487,02/21/1990,33.62,No
+Safety Light Corporation,Bloomsburg,PAD987295276,04/27/2005,70.71,No
+Salford Quarry,Lower Salford Township,PAD980693204,09/23/2009,50.00,No
+Sharon Steel Corp (Farrell Works Disposal Area),Hickory Township,PAD001933175,07/28/1998,50.00,No
+Shriver's Corner,Straban Township,PAD980830889,06/10/1986,46.13,No
+Stanley Kessler,King of Prussia,PAD014269971,09/08/1983,33.89,No
+Tobyhanna Army Depot,Tobyhanna,PA5213820892,08/30/1990,37.93,Yes
+Tonolli Corp.,Nesquehoning,PAD073613663,10/04/1989,46.58,No
+Tysons Dump,Upper Merion Township,PAD980692024,09/21/1984,63.10,No
+UGI Columbia Gas Plant,Columbia,PAD980539126,05/31/1994,50.78,No
+Valmont TCE,West Hazleton,PAD982363970,09/13/2001,43.16,No
+Walsh Landfill,Honeybrook Township,PAD980829527,09/21/1984,33.64,No
+Watson Johnson Landfill,Richland Township,PAD980706824,09/13/2001,70.71,No
+Westinghouse Electric Corp. (Sharon Plant),Sharon,PAD005000575,08/30/1990,41.33,No
+Westinghouse Elevator Co. Plant,Cumberland Township,PAD043882281,06/10/1986,36.37,No
+Whitmoyer Laboratories,Jackson Township,PAD003005014,06/10/1986,46.25,No
+William Dick Lagoons,West Caln Township,PAD980537773,07/22/1987,36.64,No
+Willow Grove Naval Air and Air Reserve Station,Willow Grove,PAD987277837,09/29/1995,50.00,Yes
+Atlantic Fleet Weapons Training Area - Vieques,Vieques,PRN000204694,02/11/2005,,Yes
+Cabo Rojo Ground Water Contamination,Cabo Rojo,PRN000206319,03/10/2011,50.00,No
+Cidra Ground Water Contamination,Cidra,PRN000204538,07/22/2004,50.00,No
+Corozal Well,Corozal,PRN000206452,03/15/2012,50.00,No
+Dorado Ground Water Contamination,Dorado,PRN000201872,09/09/2016,50.00,No
+Fibers Public Supply Wells,Jobos,PRD980763783,09/21/1984,35.34,No
+Hormigas Ground Water Plume,Caguas,PRN000206359,03/10/2011,50.00,No
+Juncos Landfill,Juncos,PRD980512362,09/08/1983,32.57,No
+Maunabo Area Ground Water Contamination,Maunabo,PRN000205831,09/27/2006,50.00,No
+"Papelera Puertorriquena, Inc.",Utuado,PRD090290685,09/23/2009,34.69,No
+Pesticide Warehouse I,Arecibo,PRD987367349,09/27/2006,50.00,No
+Pesticide Warehouse III,Manati,PRD987367299,04/30/2003,50.00,No
+PROTECO,Peñuelas,PRD000831487,05/15/2019,36.33,No
+San German Ground Water Contamination,San German,PRN000205957,03/19/2008,50.00,No
+"Scorpio Recycling, Inc.",Candeleria Ward,PRD987376662,02/04/2000,50.00,No
+The Battery Recycling Company,Bo. Cambalache,PRR000004655,08/03/2017,56.66,No
+Upjohn Facility,Barceloneta,PRD980301154,09/21/1984,41.92,No
+Vega Alta Public Supply Wells,Vega Alta,PRD980763775,09/21/1984,42.24,No
+Vega Baja Solid Waste Disposal,Rio Abajo Ward,PRD980512669,07/22/1999,50.37,No
+Central Landfill,Johnston,RID980520183,06/10/1986,46.71,No
+Centredale Manor Restoration Project,North Providence,RID981203755,02/04/2000,70.71,No
+Davis Liquid Waste,Smithfield,RID980523070,09/08/1983,47.25,No
+Davisville Naval Construction Battalion Center,North Kingstown,RI6170022036,11/21/1989,34.52,Yes
+"Landfill & Resource Recovery, Inc. (L&RR)",North Smithfield,RID093212439,09/08/1983,49.58,No
+Newport Naval Education/Training Center,Newport,RI6170085470,11/21/1989,32.25,Yes
+"Peterson/Puritan, Inc.","Cumberland, Lincoln",RID055176283,09/08/1983,40.10,No
+Picillo Farm,Coventry,RID980579056,09/08/1983,,No
+Rose Hill Regional Landfill,South Kingstown,RID980521025,10/04/1989,38.11,No
+"Stamina Mills, Inc.",North Smithfield,RID980731442,09/08/1983,34.07,No
+West Kingston Town Dump/URI Disposal Area,South Kingstown,RID981063993,10/14/1992,50.00,No
+Western Sand & Gravel,Burrillville,RID009764929,09/08/1983,51.35,No
+Aqua-Tech Environmental Inc. (Groce Laboratories),Greer,SCD058754789,12/16/1994,50.00,No
+Barite Hill/Nevada Goldfields,McCormick,SCN000407714,04/09/2009,50.00,No
+Beaunit Corp. (Circular Knit & Dye),Fountain Inn,SCD000447268,02/21/1990,32.44,No
+Brewer Gold Mine,Jefferson,SCD987577913,04/27/2005,50.00,No
+Burlington Industries Cheraw,Cheraw,SCN000404896,05/17/2018,48.00,No
+"Carolawn, Inc.",Fort Lawn,SCD980558316,09/08/1983,32.04,No
+Elmore Waste Disposal,Greer,SCD980839542,03/31/1989,31.45,No
+Helena Chemical Co. Landfill,Fairfax,SCD058753971,02/21/1990,33.89,No
+Kalama Specialty Chemicals,Beaufort,SCD094995503,09/21/1984,57.90,No
+"Koppers Co., Inc. (Charleston Plant)",Charleston,SCD980310239,12/16/1994,50.00,No
+"Leonard Chemical Co., Inc.",Rock Hill,SCD991279324,09/21/1984,47.10,No
+Lexington County Landfill Area,Cayce,SCD980558043,10/04/1989,37.93,No
+Macalloy Corporation,North Charleston,SCD003360476,02/04/2000,50.00,No
+Medley Farm Drum Dump,Gaffney,SCD980558142,03/31/1989,31.58,No
+Palmetto Wood Preserving,Dixiana,SCD003362217,09/21/1984,38.43,No
+"Para-Chem Southern, Inc.",Simpsonville,SCD002601656,08/30/1990,32.94,No
+Parris Island Marine Corps Recruit Depot,Parris Island,SC6170022762,12/16/1994,50.00,Yes
+Rock Hill Chemical Co.,Rock Hill,SCD980844005,02/21/1990,40.29,No
+"Sangamo Weston, Inc./Twelve-Mile Creek/Lake Hartwell PCB Contamination",Pickens,SCD003354412,02/21/1990,37.63,No
+Savannah River Site (USDOE),Aiken,SC1890008989,11/21/1989,47.70,Yes
+SCRDI Bluff Road,Columbia,SCD000622787,09/08/1983,,No
+SCRDI Dixiana,Cayce,SCD980711394,09/08/1983,40.70,No
+Shuron Inc.,Barnwell,SCD003357589,12/23/1996,68.26,No
+Townsend Saw Chain Co.,Pontiac,SCD980558050,02/21/1990,35.94,No
+US Finishing/Cone Mills,Greenville,SCD003358744,09/16/2011,50.00,No
+"Wamchem, Inc.",Burton,SCD037405362,09/21/1984,47.70,No
+Ellsworth Air Force Base,Rapid City,SD2571924644,08/30/1990,33.62,Yes
+Gilt Edge Mine,Lead,SDD987673985,12/01/2000,50.00,No
+Alamo Contaminated Ground Water,Alamo,TNN000410203,09/16/2011,50.00,No
+"American Creosote Works, Inc. (Jackson Plant)",Jackson,TND007018799,06/10/1986,35.22,No
+Arlington Blending & Packaging,Arlington,TND980468557,07/22/1987,39.03,No
+Carrier Air Conditioning Co.,Collierville,TND044062222,02/21/1990,48.91,No
+Clinch River Corporation,Harriman,TND987768587,05/24/2013,48.03,No
+Former Custom Cleaners,Memphis,TNN000402275,08/03/2017,50.00,No
+Mallory Capacitor Co.,Waynesboro,TND075453688,10/04/1989,29.44,No
+Memphis Defense Depot (DLA),Memphis,TN4210020570,10/14/1992,58.06,Yes
+Milan Army Ammunition Plant,Milan,TN0210020582,07/22/1987,58.15,Yes
+Murray-Ohio Dump,Lawrenceburg,TND980728836,09/08/1983,46.44,No
+Oak Ridge Reservation (USDOE),Oak Ridge,TN1890090003,11/21/1989,51.13,Yes
+Ross Metals Inc.,Rossville,TND096070396,04/01/1997,37.65,No
+Smalley-Piper,Collierville,TNN000407378,04/27/2005,50.00,No
+Smokey Mountain Smelters,Knoxville,TND098071061,09/29/2010,50.00,No
+Southside Chattanooga Lead,Chattanooga,TNN000410686,09/13/2018,50.00,No
+Velsicol Chemical Corp. (Hardeman County),Toone,TND980559033,09/08/1983,47.71,No
+"Walker Machine Products, Inc.",Collierville,TNN000410124,05/12/2014,50.00,No
+Wrigley Charcoal Plant,Wrigley,TND980844781,03/31/1989,36.14,No
+Air Force Plant #4 (General Dynamics),Fort Worth,TX7572024605,08/30/1990,39.92,Yes
+ALCOA (Point Comfort)/Lavaca Bay,Point Comfort,TXD008123168,02/23/1994,50.00,No
+Bandera Road Ground Water Plume,Leon Valley,TXN000606565,03/07/2007,50.00,No
+Brine Service Company,Corpus Christi,TX0000605264,09/05/2002,50.00,No
+Circle Court Ground Water Plume,Willow Park,TXN000606965,09/18/2012,50.00,No
+City of Perryton Well No. 2,Perryton,TX0001399435,01/19/1999,50.00,No
+Conroe Creosoting Company,Conroe,TXD008091951,09/29/2003,48.00,No
+Crystal Chemical Co.,Houston,TXD990707010,09/08/1983,60.90,No
+Delfasco Forge,Grand Prairie,TXD988034328,09/13/2018,50.00,No
+Donna Reservoir and Canal System,Donna,TX0000605363,03/19/2008,50.00,No
+East 67th Street Ground Water Plume,Odessa,TXN000606614,03/07/2007,50.00,No
+"Eldorado Chemical Co., Inc.",Live Oak,TXD057567216,09/09/2016,38.85,No
+Falcon Refinery,Ingleside,TXD086278058,09/16/2011,50.00,No
+"French, Ltd.",Crosby,TXD980514814,09/08/1983,63.33,No
+Garland Creosoting,Longview,TXD007330053,10/22/1999,49.10,No
+Geneva Industries/Fuhrmann Energy,Houston,TXD980748453,09/21/1984,59.46,No
+Gulfco Marine Maintenance,Freeport,TXD055144539,04/30/2003,50.00,No
+Hart Creosoting Company,Jasper,TXD050299577,07/22/1999,48.00,No
+Highlands Acid Pit,Highlands,TXD980514996,09/08/1983,37.77,No
+Highway 18 Ground Water,Kermit,TXN000606716,08/03/2017,50.00,No
+Jasper Creosoting Company Inc.,Jasper,TXD008096240,07/28/1998,50.00,No
+Jones Road Ground Water Plume,Houston,TXN000605460,09/29/2003,46.50,No
+"Koppers Co., Inc. (Texarkana Plant)",Texarkana,TXD980623904,06/10/1986,31.31,No
+"Lane Plating Works, Inc.",Dallas,TXN000605240,05/17/2018,50.00,No
+Lone Star Army Ammunition Plant,Texarkana,TX7213821831,07/22/1987,31.85,Yes
+Longhorn Army Ammunition Plant,Karnack,TX6213820529,08/30/1990,39.83,Yes
+Main Street Ground Water Plume,Burnet,TXN000607441,09/30/2015,50.00,No
+"Malone Service Company, Inc.",Texas City,TXD980864789,06/14/2001,50.00,No
+"Many Diversified Interests, Inc.",Houston,TXD008083404,01/19/1999,32.07,No
+Midessa Ground Water Plume,Odessa,TXN000606668,03/19/2008,50.00,No
+"Motco, Inc.",La Marque,TXD980629851,09/08/1983,,No
+North Cavalcade Street,Houston,TXD980873343,06/10/1986,37.08,No
+North East 2nd Street (formerly Attebury Grain Storage Facility),Happy,TXN000606760,04/09/2009,32.33,No
+Odessa Chromium #1,Odessa,TXD980867279,06/10/1986,42.24,No
+Pantex Plant (USDOE),Pantex Village,TX4890110527,05/31/1994,51.22,Yes
+Patrick Bayou,Deer Park,TX0000605329,09/05/2002,47.83,No
+"Petro-Chemical Systems, Inc. (Turtle Bayou)",Liberty County,TXD980873350,06/10/1986,29.94,No
+River City Metal Finishing,San Antonio,TXN000606915,05/17/2018,50.00,No
+Rockwool Industries Inc.,Bell County,TXD066379645,09/29/1998,48.00,No
+RSR Corp.,Dallas,TXD079348397,09/29/1995,50.00,No
+San Jacinto River Waste Pits,Channelview,TXN000606611,03/19/2008,50.00,No
+Sandy Beach Road Ground Water Plume,Azle,TXN000605649,09/14/2005,50.00,No
+Sheridan Disposal Services,Hempstead,TXD062132147,03/31/1989,30.16,No
+Sikes Disposal Pits,Crosby,TXD980513956,09/08/1983,61.62,No
+Sol Lynn/Industrial Transformers,Houston,TXD980873327,03/31/1989,39.65,No
+South Cavalcade Street,Houston,TXD980810386,06/10/1986,38.69,No
+Sprague Road Ground Water Plume,Odessa,TX0001407444,09/25/1997,43.21,No
+Star Lake Canal,Port Neches,TX0001414341,07/27/2000,50.00,No
+State Road 114 Ground Water Plume,Levelland,TXSFN0605177,10/22/1999,42.41,No
+Tex-Tin Corp.,Texas City,TXD062113329,09/18/1998,50.00,No
+Texarkana Wood Preserving Co.,Texarkana,TXD008056152,06/10/1986,40.19,No
+United Creosoting Co.,Conroe,TXD980745574,09/21/1984,37.29,No
+US Oil Recovery,Pasadena,TXN000607093,09/18/2012,50.00,No
+Van der Horst USA Corporation,Terrell,TXD007357932,03/04/2010,48.00,No
+West County Road 112 Ground Water,Midland,TXN000606992,03/10/2011,50.00,No
+700 South 1600 East PCE Plume,Salt Lake City,UTD981548985,05/24/2013,50.00,Yes
+Bountiful/Woods Cross 5th South PCE Plume,"Bountiful, Woods Cross",UT0001119296,09/13/2001,50.00,No
+Five Points PCE Plume,Woods Cross,UTN000802654,09/19/2007,50.00,No
+Hill Air Force Base,Ogden,UT0571724350,07/22/1987,49.94,Yes
+Jacobs Smelter,Stockton,UT0002391472,02/04/2000,50.00,No
+Monticello Mill Tailings (USDOE),Monticello,UT3890090035,11/21/1989,35.86,Yes
+Ogden Defense Depot (DLA),Ogden,UT9210020922,07/22/1987,45.10,Yes
+Portland Cement (Kiln Dust 2 & 3),Salt Lake City,UTD980718670,06/10/1986,54.40,No
+Tooele Army Depot (North Area),Tooele,UT3213820894,08/30/1990,53.95,Yes
+U.S. Magnesium,Tooele County,UTN000802704,11/04/2009,59.18,No
+Utah Power & Light/American Barrel Co.,Salt Lake City,UTD980667240,10/04/1989,37.93,No
+Wasatch Chemical Co. (Lot 6),Salt Lake City,UTD000716399,02/11/1991,49.91,No
+Bennington Municipal Sanitary Landfill,Bennington,VTD981064223,03/31/1989,49.07,No
+BFI Sanitary Landfill (Rockingham),Rockingham,VTD980520092,10/04/1989,41.92,No
+Burgess Brothers Landfill,Woodford,VTD003965415,03/31/1989,52.58,No
+Commerce Street Plume,Williston,VTD098352545,04/27/2005,48.48,No
+Elizabeth Mine,Strafford,VTD988366621,06/14/2001,50.00,No
+Ely Copper Mine,Vershire,VTD988366571,09/13/2001,50.00,No
+"Jard Company, Inc.",Bennington,VTD048141741,09/22/2014,58.31,No
+Old Springfield Landfill,Springfield,VTD000860239,09/08/1983,34.79,No
+Parker Sanitary Landfill,Lyndon,VTD981062441,02/21/1990,52.29,No
+Pike Hill Copper Mine,Corinth,VTD988366720,07/22/2004,50.00,No
+Pine Street Canal,Burlington,VTD980523062,09/08/1983,,No
+Pownal Tannery,Pownal,VTD069910354,01/19/1999,50.00,No
+Tutu Wellfield,Tutu,VID982272569,09/29/1995,50.00,No
+Abex Corp.,Portsmouth,VAD980551683,08/30/1990,36.53,No
+"Arrowhead Associates, Inc./Scovill Corp.",Montross,VAD042916361,02/21/1990,37.15,No
+"Atlantic Wood Industries, Inc.",Portsmouth,VAD990710410,02/21/1990,37.14,No
+"Avtex Fibers, Inc.",Front Royal,VAD070358684,06/10/1986,35.39,No
+Buckingham County Landfill,Buckingham,VAD089027973,10/04/1989,40.70,No
+"C & R Battery Co., Inc.",Chesterfield County,VAD049957913,07/22/1987,46.44,No
+Chisman Creek,York County,VAD980712913,09/08/1983,47.19,No
+"Culpeper Wood Preservers, Inc.",Culpeper,VAD059165282,10/04/1989,45.91,No
+Defense General Supply Center (DLA),Chesterfield County,VA3971520751,07/22/1987,33.85,Yes
+First Piedmont Corp. Rock Quarry (Route 719),Pittsylvania County,VAD980554984,07/22/1987,30.16,No
+Former Nansemond Ordnance Depot,Suffolk,VAD123933426,07/22/1999,70.71,No
+Fort Eustis (US Army),Newport News,VA6210020321,12/16/1994,50.00,Yes
+Greenwood Chemical Co.,Newtown,VAD003125374,07/22/1987,53.17,No
+"H & H Inc., Burn Pit",Farrington,VAD980539878,03/31/1989,33.71,No
+Hidden Lane Landfill,Sterling,VAD980829030,03/19/2008,50.00,No
+Kim-Stan Landfill,Selma,VAD077923449,07/22/1999,50.00,No
+L.A. Clarke & Son,Spotsylvania County,VAD007972482,06/10/1986,34.24,No
+Langley Air Force Base/NASA Langley Research Center,Hampton,VA2800005033,05/31/1994,50.00,Yes
+Marine Corps Combat Development Command,Quantico,VA1170024722,05/31/1994,50.00,Yes
+Naval Amphibious Base Little Creek,Virginia Beach,VA5170022482,05/10/1999,50.00,Yes
+Naval Surface Warfare - Dahlgren,Dahlgren,VA7170024684,10/14/1992,50.03,Yes
+Naval Weapons Station - Yorktown,Yorktown,VA8170024170,10/14/1992,50.00,Yes
+Naval Weapons Station Yorktown - Cheatham Annex,Williamsburg,VA3170024605,12/01/2000,49.27,Yes
+Norfolk Naval Base (Sewells Point Naval Complex),Norfolk,VA6170061463,04/01/1997,50.00,Yes
+Norfolk Naval Shipyard,Portsmouth,VA1170024813,07/22/1999,50.00,Yes
+Peck Iron and Metal,Portsmouth,VAN000306115,11/04/2009,48.52,No
+"Rentokil, Inc. (Virginia Wood Preserving Division)",Richmond,VAD071040752,03/31/1989,30.34,No
+Saltville Waste Disposal Ponds,Saltville,VAD003127578,09/08/1983,29.52,No
+Saunders Supply Co.,Chuckatuck,VAD003117389,10/04/1989,36.88,No
+St. Juliens Creek Annex (U.S. Navy),Chesapeake,VA5170000181,07/27/2000,50.00,Yes
+U.S. Titanium,Piney River,VAD980705404,09/08/1983,34.78,No
+American Crossarm & Conduit Co.,Chehalis,WAD057311094,10/04/1989,30.44,No
+American Lake Gardens/McChord AFB,Tacoma,WAD980833065,09/21/1984,28.90,Yes
+Bangor Naval Submarine Base,Silverdale,WA5170027291,08/30/1990,55.91,Yes
+Bangor Ordnance Disposal (USNAVY),Bremerton,WA7170027265,07/22/1987,30.42,Yes
+Boomsnub/Airco,Vancouver,WAD009624453,04/25/1995,,No
+Bremerton Gasworks,Bremerton,WAN001002907,05/10/2012,50.00,No
+Centralia Municipal Landfill,Centralia,WAD980836662,08/30/1990,36.36,No
+Colbert Landfill,Spokane,WAD980514541,09/08/1983,41.59,No
+"Commencement Bay, Near Shore/Tide Flats",Pierce County,WAD980726368,09/08/1983,42.20,No
+"Commencement Bay, South Tacoma Channel",Tacoma,WAD980726301,09/08/1983,54.63,No
+Fairchild Air Force Base (4 Waste Areas),Spokane County,WA9571924647,03/13/1989,31.98,Yes
+FMC Corp. (Yakima),Yakima,WAD000643577,09/08/1983,38.80,No
+Fort Lewis Logistics Center,Tillicum,WA7210090067,11/21/1989,35.48,Yes
+General Electric Co. (Spokane Shop),Spokane,WAD001865450,10/04/1989,57.80,No
+Grain Handling Facility at Freeman,Freeman,WAN001003081,09/30/2015,50.00,No
+Greenacres Landfill,Spokane County,WAD980514608,09/21/1984,28.90,No
+Hamilton/Labree Roads Ground Water Contamination,Chehalis,WASFN1002174,07/27/2000,37.65,No
+Hanford 100-Area (USDOE),Benton County,WA3890090076,10/04/1989,46.38,Yes
+Hanford 200-Area (USDOE),Benton County,WA1890090078,10/04/1989,69.05,Yes
+Hanford 300-Area (USDOE),Benton County,WA2890090077,10/04/1989,65.23,Yes
+Harbor Island (Lead),Seattle,WAD980722839,09/08/1983,34.60,No
+Hidden Valley Landfill (Thun Field),Pierce County,WAD980511539,03/31/1989,37.93,No
+Jackson Park Housing Complex (USNAVY),Kitsap County,WA3170090044,05/31/1994,50.00,Yes
+Kaiser Aluminum (Mead Works),Mead,WAD000065508,09/08/1983,38.07,No
+Lakewood,Lakewood,WAD050075662,09/08/1983,42.49,No
+Lockheed West Seattle,Seattle,WAN001002655,03/07/2007,50.00,No
+Lower Duwamish Waterway,Seattle,WA0002329803,09/13/2001,50.00,No
+Makah Reservation Warmhouse Beach Dump,Neah Bay,WAN001002857,12/12/2013,50.00,No
+Mica Landfill,Mica,WAD980511661,06/10/1986,34.64,No
+Midnite Mine,Wellpinit,WAD980978753,05/11/2000,50.00,No
+Midway Landfill,Kent,WAD980638910,06/10/1986,54.27,No
+Moses Lake Wellfield Contamination,Moses Lake,WAD988466355,10/14/1992,50.00,No
+"Naval Air Station, Whidbey Island (Ault Field)",Whidbey Island,WA5170090059,02/21/1990,47.58,Yes
+Naval Undersea Warfare Station (4 Areas),Keyport,WA1170023419,10/04/1989,33.60,Yes
+North Market Street,Spokane,WAD000641548,08/30/1990,32.61,No
+Northside Landfill,Spokane,WAD980511778,06/10/1986,28.90,No
+Oeser Co,Bellingham,WAD008957243,09/25/1997,69.34,No
+Old Navy Dump/Manchester Laboratory (USEPA/NOAA),Manchester,WA8680030931,05/31/1994,50.00,Yes
+Pacific Car & Foundry Co.,Renton,WAD009249210,02/21/1990,42.33,No
+Pacific Sound Resources,Seattle,WAD009248287,05/31/1994,70.71,No
+Palermo Well Field Ground Water Contamination,Tumwater,WA0000026534,04/01/1997,50.00,No
+Pasco Sanitary Landfill,Pasco,WAD991281874,02/21/1990,44.46,No
+Puget Sound Naval Shipyard Complex,Bremerton,WA2170023418,05/31/1994,50.00,Yes
+Queen City Farms,Maple Valley,WAD980511745,09/21/1984,34.38,No
+Quendall Terminals,Renton,WAD980639215,04/19/2006,50.00,No
+Seattle Municipal Landfill (Kent Highlands),Kent,WAD980639462,08/30/1990,52.19,No
+"Western Processing Co., Inc.",Kent,WAD009487513,09/08/1983,58.63,No
+Wyckoff Co./Eagle Harbor,Bainbridge Island,WAD009248295,07/22/1987,32.55,No
+Allegany Ballistics Laboratory (USNAVY),Mineral County,WV0170023691,05/31/1994,50.00,Yes
+Big John Salvage - Hoult Road,Fairmont,WVD054827944,07/27/2000,48.57,No
+"Fike Chemical, Inc.",Nitro,WVD047989207,09/08/1983,36.30,No
+Hanlin-Allied-Olin,Moundsville,WVD024185373,07/22/1999,53.98,No
+North 25th Street Glass and Zinc,Clarksburg,WVN000306876,09/09/2016,48.03,No
+Ravenswood PCE Ground Water Plume,Ravenswood,WVSFN0305428,09/23/2004,50.00,No
+Shaffer Equipment/Arbuckle Creek Area,Minden,WVD988768909,05/15/2019,50.54,No
+Sharon Steel Corp (Fairmont Coke Works),Fairmont,WVD000800441,12/23/1996,57.08,No
+Vienna Tetrachloroethene,Vienna,WVD988798401,10/22/1999,50.00,No
+West Virginia Ordnance (USARMY),Point Pleasant,WVD980713036,09/08/1983,,Yes
+Algoma Municipal Landfill,Algoma,WID980610380,07/22/1987,39.99,No
+Amcast Industrial Corporation,Cedarburg,WIN000510210,09/23/2009,46.86,No
+Ashland/Northern States Power Lakefront,Ashland,WISFN0507952,09/05/2002,50.00,No
+Better Brite Plating Chrome & Zinc Shops,DePere,WIT560010118,08/30/1990,48.91,No
+City Disposal Corp. Landfill,Dunn,WID980610646,09/21/1984,36.84,No
+Delavan Municipal Well #4,Delavan,WID980820062,09/21/1984,28.90,No
+Hagen Farm,Stoughton,WID980610059,07/22/1987,32.06,No
+Hechimovich Sanitary Landfill,Williamstown,WID052906088,03/31/1989,47.91,No
+Hunts Disposal Landfill,Caledonia,WID980511919,07/22/1987,31.02,No
+Janesville Ash Beds,Janesville,WID000712950,09/21/1984,57.90,No
+Janesville Old Landfill,Janesville,WID980614044,09/21/1984,57.93,No
+Kohler Co. Landfill,Kohler,WID006073225,09/21/1984,42.93,No
+Lauer I Sanitary Landfill,Menomonee Falls,WID058735994,09/21/1984,42.69,No
+"Lemberger Landfill, Inc.",Whitelaw,WID980901243,06/10/1986,34.07,No
+Lemberger Transport & Recycling,Franklin Township,WID056247208,09/21/1984,34.58,No
+Madison Metropolitan Sewerage District Lagoons,Blooming Grove,WID078934403,02/21/1990,32.65,No
+Master Disposal Service Landfill,Brookfield,WID980820070,09/21/1984,47.49,No
+"Mid-State Disposal, Inc. Landfill",Cleveland Township,WID980823082,09/21/1984,35.23,No
+"Moss-American Co., Inc. (Kerr-McGee Oil Co.)",Milwaukee,WID039052626,09/21/1984,32.14,No
+Muskego Sanitary Landfill,Muskego,WID000713180,09/21/1984,51.91,No
+"N.W. Mauthe Co., Inc.",Appleton,WID083290981,03/31/1989,,No
+"National Presto Industries, Inc.",Eau Claire,WID006196174,06/10/1986,42.39,No
+"Oconomowoc Electroplating Co., Inc.",Ashippun,WID006100275,09/21/1984,31.86,No
+Onalaska Municipal Landfill,Onalaska,WID980821656,09/21/1984,42.47,No
+Penta Wood Products,Daniels,WID006176945,06/17/1996,50.00,No
+Refuse Hideaway Landfill,Middleton,WID980610604,10/14/1992,34.67,No
+Ripon City Landfill,Fond Du Lac County,WID980610190,05/31/1994,39.04,No
+Sauk County Landfill,Excelsior,WID980610141,10/04/1989,34.21,No
+Schmalz Dump,Harrison,WID980820096,09/21/1984,48.92,No
+"Scrap Processing Co., Inc.",Medford,WID046536785,09/21/1984,34.24,No
+Sheboygan Harbor & River,Sheboygan,WID980996367,06/10/1986,33.79,No
+Spickler Landfill,Spencer,WID980902969,07/22/1987,44.24,No
+Stoughton City Landfill,Stoughton,WID980901219,06/10/1986,35.79,No
+Tomah Municipal Sanitary Landfill,Tomah,WID980610307,03/31/1989,45.91,No
+"Waste Management of Wisconsin, Inc. (Brookfield Sanitary Landfill)",Brookfield,WID980901235,08/30/1990,28.90,No
+Wausau Ground Water Contamination,Wausau,WID980993521,06/10/1986,28.91,No
+F.E. Warren Air Force Base,Cheyenne,WY5571924179,02/21/1990,39.23,Yes
