@@ -1,10 +1,18 @@
 # Georgetown Data Science and Analytics Mini Project
 
 
-### Raw Data Source Folder Contains the Raw Data Source From Downloading or Web Scraping 
+#### Raw Data Source Folder 
 
-### Processed Data Sets Folder Contains the Modified Data Set Using Python Script 
+Contains the Raw Data Source From Downloading or Web Scraping 
 
-### Python Script Folder Contains All the Python Code File Used For this Project
+#### Processed Data Sets Folder 
 
-### Rshiny Folder Contains a Shiney App Code for this Project 
+Contains the Modified Data Set Using Python Script 
+
+#### Python Script Folder 
+
+Contains All the Python Code File Used For this Project
+
+#### Rshiny Folder 
+
+Contains a Shiney App Code for this Project 
