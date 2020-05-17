@@ -1,1 +1,3 @@
-# ANLY_SECONDYEAR
+# Georgetown Data Science and Analytics Mini Project
+
+
