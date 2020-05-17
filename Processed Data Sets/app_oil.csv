@@ -1,0 +1,817 @@
+name,latitude,longitude,primary_fuel,state,normalized_county,Fips
+191 Peachtree Tower,33.7583,-84.3869,Oil,Georgia,Fulton,13121
+74th Street,40.768,-73.9515,Oil,New York,New York,36061
+Adrian,43.6371,-95.9328,Oil,Minnesota,Nobles,27105
+Airport Industrial,38.2844,-104.5308,Oil,Colorado,Pueblo,8101
+Albany,40.245,-94.339,Oil,Missouri,Gentry,29075
+Albemarle Hospital Unit,35.3636,-80.1939,Oil,North Carolina,Stanly,37167
+Albemarle Prime Power Park,35.4072,-80.1518,Oil,North Carolina,Stanly,37167
+Albertville,34.3634,-86.2239,Oil,Alabama,Marshall,1095
+Alexandria,45.8892,-95.3797,Oil,Minnesota,Douglas,27041
+Algona,43.0733,-94.2392,Oil,Iowa,Kossuth,19109
+Alliant SBD 8501 Aegon LI,42.0243,-91.704,Oil,Iowa,Linn,19113
+Alliant SBD 8601 Quad Graphics,41.7958,-92.0592,Oil,Iowa,Iowa,19095
+Alliant SBD 8602 Marion Sub,42.0289,-91.5975,Oil,Iowa,Linn,19113
+Alliant SBD 9106 Rockwell CR,42.0356,-91.6458,Oil,Iowa,Linn,19113
+Alliant SBD 9107 JBS USA,42.056,-92.8971,Oil,Iowa,Marshall,19127
+Alliant SBD 9201 Norplex,43.0906,-91.5542,Oil,Iowa,Allamakee,19005
+Alliant SBD 9203 Profol,41.935,-91.6361,Oil,Iowa,Linn,19113
+Alliant SBD 9205 A Y McDonald,42.4906,-90.745,Oil,Iowa,Dubuque,19061
+Alliant SBD 9206 Donaldson,43.3744,-92.1331,Oil,Iowa,Howard,19089
+Alliant SBD 9301 Prairie Farms,42.53,-90.6847,Oil,Iowa,Dubuque,19061
+Alliant SBD 9302 Aegon NP,42.0264,-91.7042,Oil,Iowa,Linn,19113
+Alliant SBD 9403 Aegon DC,41.9167,-91.6542,Oil,Iowa,Linn,19113
+Alliant SBD 9502 Eaton,42.8381,-93.6033,Oil,Iowa,Wright,19197
+Alliant SBD 9901 Wells Fargo,41.9244,-91.6385,Oil,Iowa,Linn,19113
+Alliant SBD0201 Ingredion,41.9701,-91.6662,Oil,Iowa,Linn,19113
+Alta Municipal Utilities,42.6736,-95.3026,Oil,Iowa,Buena Vista,19021
+Altamont,39.0687,-88.7555,Oil,Illinois,Effingham,17049
+Amana Society Service Company,41.7932,-91.8918,Oil,Iowa,Benton,19011
+Ambler,67.08800000000001,-157.8567,Oil,Alaska,North Slope,2185
+Ames GT,42.0272,-93.5828,Oil,Iowa,Story,19169
+Anadarko,39.757,-81.1155,Oil,Ohio,Monroe,39111
+Anderson Erickson,41.6014,-93.5765,Oil,Iowa,Polk,19153
+Anderson Power Products Division,42.4714,-71.7433,Oil,Massachusetts,Worcester,25027
+Angoon,57.4992,-134.5861,Oil,Alaska,Juneau,2110
+Aniak,61.5807,-159.5356,Oil,Alaska,Bethel,2050
+Anita,41.4442,-94.7665,Oil,Iowa,Cass,19029
+Arcadia Electric,44.2524,-91.5034,Oil,Wisconsin,Trempealeau,55121
+Arcanum,39.9861,-84.5503,Oil,Ohio,Darke,39037
+Arcanum Peaking,39.9867,-84.5513,Oil,Ohio,Darke,39037
+Argyle,42.7019,-89.8697,Oil,Illinois,Jo Daviess,17085
+Arnold,41.4219,-100.1956,Oil,Nebraska,Logan,31113
+Ascutney,43.4011,-72.4203,Oil,New Hampshire,Sullivan,33019
+Ashland,37.1938,-99.7631,Oil,Kansas,Clark,20025
+Athens Regional Medical Center,33.9625,-83.3981,Oil,Georgia,Clarke,13059
+Atlanta Gift Mart LP,33.7611,-84.3892,Oil,Georgia,Fulton,13121
+Auke Bay,58.3875,-134.6446,Oil,Alaska,Juneau,2110
+Avenue A Generator Sets,41.7807,-89.6894,Oil,Illinois,White,17193
+Avon Park,27.5794,-81.4928,Oil,Florida,Highlands,12055
+B L England,39.2908,-74.6364,Oil,New Jersey,Atlantic,34001
+Backus Microgrid Project,41.5428,-72.0936,Oil,Connecticut,New London,9011
+Baldwin City Plant No 1,38.7745,-95.1867,Oil,Kansas,Douglas,20045
+Baldwin City Plant No 2,38.7649,-95.192,Oil,Kansas,Douglas,20045
+Bancroft,43.2926,-94.2171,Oil,Iowa,Kossuth,19109
+Bank of America Plaza,33.7708,-84.3861,Oil,Georgia,Fulton,13121
+Barron,45.4019,-91.8404,Oil,Wisconsin,Barron,55005
+Bassett Medical Center,42.6944,-74.9242,Oil,New York,Otsego,36077
+Bayboro,27.7581,-82.6353,Oil,Florida,Pinellas,12103
+Bayview,37.2717,-75.9682,Oil,Virginia,Northampton,51131
+Bayville Central Facility,39.9094,-74.178,Oil,New Jersey,Ocean,34029
+Beaver Island,45.7291,-85.5244,Oil,Michigan,Charlevoix,26029
+Belle Haven Diesel Generation Facility,37.5486,-75.7908,Oil,Virginia,Northampton,51131
+Bellefonte,34.7092,-85.9278,Oil,Alabama,Jackson,1071
+Belleville,39.8328,-97.632,Oil,Kansas,Republic,20157
+Bellevue,42.25,-90.4167,Oil,Iowa,Jackson,19097
+Beloit,39.4578,-98.1122,Oil,Kansas,Mitchell,20123
+Benson City of,45.3144,-95.6028,Oil,Minnesota,Swift,27151
+Berlin,38.3278,-75.2172,Oil,Maryland,Worcester,24047
+Berlin 5,44.25100000000001,-72.6027,Oil,Vermont,Washington,50023
+Bethel,60.7897,-161.7878,Oil,Alaska,Bethel,2050
+Biotech LS 0836,46.7331,-117.1583,Oil,Washington,Whitman,53075
+Bird City,39.7581,-101.5319,Oil,Kansas,Cheyenne,20023
+Blewett,34.9833,-79.8775,Oil,North Carolina,Richmond,37153
+Block Island,41.1756,-71.5711,Oil,Rhode Island,Washington,44009
+Blooming Prairie,43.86600000000001,-93.0504,Oil,Minnesota,Steele,27147
+Bloomington Power Plant,37.042,-113.6267,Oil,Utah,Washington,49053
+Blue Earth,43.6375,-94.1017,Oil,Minnesota,Faribault,27043
+Boomer Lake Station,36.1438,-97.0681,Oil,Oklahoma,Payne,40119
+Bostic Delivery No 2,35.3619,-81.8344,Oil,North Carolina,Rutherford,37161
+Boulevard,32.0411,-81.145,Oil,Georgia,Chatham,13051
+Bowling Green,41.3822,-83.6113,Oil,Ohio,Wood,39173
+Boydton Plank Road Cogen Plant,37.1936,-77.4672,Oil,Virginia,Chesterfield,51041
+Branford,41.2925,-72.7942,Oil,Connecticut,New Haven,9009
+Breese,38.6075,-89.5245,Oil,Illinois,Clinton,17027
+Brevig Mission,65.3317,-166.4795,Oil,Alaska,Nome,2180
+Bridge Street 1 & 2,41.3628,-72.0825,Oil,Connecticut,New London,9011
+Brooklyn,41.7278,-92.4479,Oil,Iowa,Poweshiek,19157
+Brooklyn City North Plant,41.7394,-92.4394,Oil,Iowa,Poweshiek,19157
+Brunswick,39.1522,-119.7478,Oil,Nevada,Carson City,32510
+Bryan Peaking,41.4609,-84.527,Oil,Ohio,Williams,39171
+Burlington (CO),39.3561,-102.2431,Oil,Colorado,Kit Carson,8063
+Burlington GT,44.4814,-73.2239,Oil,Vermont,Chittenden,50007
+Burwell,41.7803,-99.1361,Oil,Nebraska,Garfield,31071
+Bushnell,40.5486,-90.5138,Oil,Illinois,McDonough,17109
+Butler Municipal Power Plant,38.2644,-94.3444,Oil,Missouri,Bates,29013
+Buxton,35.2672,-75.5347,Oil,North Carolina,Dare,37055
+CNN Center,33.7592,-84.395,Oil,Georgia,Fulton,13121
+Cambridge,40.2862,-100.1768,Oil,Nebraska,Furnas,31065
+Campbell Village,40.2992,-98.7331,Oil,Nebraska,Kearney,31099
+Cana Gas Processing Plant,35.5331,-98.1011,Oil,Oklahoma,Canadian,40017
+Canal,41.7694,-70.5097,Oil,Massachusetts,Barnstable,25001
+Cape Gas Turbine,43.6436,-70.2544,Oil,Maine,Cumberland,23005
+Capitol Heat and Power,43.0785,-89.3773,Oil,Wisconsin,Dane,55025
+Caribou Generation Station,46.848,-68.0026,Oil,Maine,Aroostook,23003
+Carleton College,44.4619,-93.1564,Oil,Minnesota,Rice,27131
+Carlyle,38.6106,-89.3583,Oil,Illinois,Clinton,17027
+Carmi,38.0967,-88.1631,Oil,Illinois,White,17193
+Caro,43.4659,-83.3278,Oil,Michigan,Tuscola,26157
+Cascade,42.2982,-91.012,Oil,Iowa,Dubuque,19061
+Casey City of,39.3106,-87.9926,Oil,Illinois,Clark,17023
+Cashton,43.7429,-90.7803,Oil,Wisconsin,Monroe,55081
+Catawba River Pollution Control,35.7766,-81.6643,Oil,North Carolina,Burke,37023
+Caterpillar,40.4175,-86.8447,Oil,Indiana,Tippecanoe,18157
+Centennial Generating Station,46.8661,-96.7464,Oil,Minnesota,Clay,27027
+Center,37.7536,-106.1047,Oil,Colorado,Saguache,8109
+Central Plant,34.8718,-82.366,Oil,South Carolina,Greenville,45045
+Central Power Plant,41.745,-71.4584,Oil,Rhode Island,Providence,44007
+CenturyLink Regional HQ,36.0205,-78.516,Oil,North Carolina,Wake,37183
+Chappell,41.0926,-102.4715,Oil,Nebraska,Deuel,31049
+Cherry Street,42.3886,-71.56,Oil,Massachusetts,Middlesex,25017
+Cherryville City Hall,35.3778,-81.38,Oil,North Carolina,Gaston,37071
+Chesapeake,36.7711,-76.3019,Oil,Virginia,Chesapeake City,51550
+Chester Generating Station,39.8301,-75.3837,Oil,Pennsylvania,Delaware,42045
+Chevak,61.5253,-165.5902,Oil,Alaska,Wade Hampton,2270
+Childrens Hospital,32.7992,-117.1517,Oil,California,San Diego,6073
+Christiana,39.7302,-75.5371,Oil,Delaware,New Castle,10003
+Church Street Plant,38.7523,-77.4629,Oil,Virginia,Manassas City,51683
+City Light & Water,40.328,-98.4503,Oil,Nebraska,Webster,31181
+City West Diesel Plant,34.7225,-81.6469,Oil,South Carolina,Union,45087
+City of Shelby Electric Distribution,40.8961,-82.6656,Oil,Ohio,Richland,39139
+Clark (SD),44.8765,-97.7321,Oil,South Dakota,Clark,46025
+Cleveland Peaking,41.5567,-81.5882,Oil,Ohio,Cuyahoga,39035
+Coggon,42.2808,-91.5327,Oil,Iowa,Linn,19113
+Colby City of,39.3944,-101.0584,Oil,Kansas,Thomas,20193
+Colchester 16,44.4906,-73.1703,Oil,Vermont,Chittenden,50007
+Colfax,42.6587,-84.0952,Oil,Michigan,Livingston,26093
+Commonwealth Chesapeake,37.9892,-75.54,Oil,Virginia,Accomack,51001
+Connersville,39.6561,-85.1758,Oil,Indiana,Fayette,18041
+Coon Rapids II,41.871,-94.6808,Oil,Iowa,Carroll,19027
+CoreSite Real Estate 1656 McCarthy  L.P.,37.4057,-121.9162,Oil,California,Santa Clara,6085
+CoreSite Real Estate 2901 Coronado  L.P.,37.3751,-121.9717,Oil,California,Santa Clara,6085
+CoreSite Real Estate 2972 Stender  L.P.,37.3762,-121.9707,Oil,California,Santa Clara,6085
+CoreSite Real Estate 3032 Coronado  L.P.,37.3762,-121.9731,Oil,California,Santa Clara,6085
+CoreSite Real Estate 55 S. Market Street,37.3342,-121.8916,Oil,California,Santa Clara,6085
+Cornelius Delivery No 1,35.4833,-80.8569,Oil,North Carolina,Mecklenburg,37119
+Corning,40.9871,-94.7352,Oil,Iowa,Adams,19003
+Cos Cob,41.0289,-73.5989,Oil,Connecticut,Fairfield,9001
+Crestwood Dothan,31.2624,-85.4027,Oil,Alabama,Houston,1069
+Crisfield,37.9941,-75.8377,Oil,Maryland,Somerset,24039
+Croswell,43.2719,-82.6139,Oil,Michigan,Sanilac,26151
+Crotched Mountain Rehabilitation Center,42.9717,-71.8727,Oil,New Hampshire,Hillsborough,33011
+Croydon CT Generating Station,40.08,-74.8917,Oil,Pennsylvania,Bucks,42017
+Crystal Mountain,46.9535,-121.4752,Oil,Washington,King,53033
+Cushing,35.9826,-96.7757,Oil,Oklahoma,Payne,40119
+DSM Pharmaceuticals,35.666,-77.3574,Oil,North Carolina,Pitt,37147
+Dafter,46.3744,-84.4172,Oil,Michigan,Chippewa,26033
+Dakota Magic,45.9386,-96.8358,Oil,South Dakota,Roberts,46109
+Danbury Diesel,46.0028,-92.3714,Oil,Wisconsin,Burnett,55013
+Danville Kentuck Road Plant,36.6533,-79.2906,Oil,Virginia,Danville City,51590
+Danville New Design Plant,36.6308,-79.3894,Oil,Virginia,Danville City,51590
+Danville Westover Plant,36.6114,-79.4631,Oil,Virginia,Danville City,51590
+Dartmouth College Heating Plant,43.7019,-72.2867,Oil,New Hampshire,Grafton,33009
+David City,41.2547,-97.1192,Oil,Nebraska,Butler,31023
+Dayton (IA),42.2602,-94.0692,Oil,Iowa,Boone,19015
+DeBary,28.9039,-81.3323,Oil,Florida,Volusia,12127
+Dean Drive Area Electric Generators,38.7486,-77.4908,Oil,Virginia,Manassas City,51683
+Deer Island Treatment Plant,42.3533,-70.9628,Oil,Massachusetts,Suffolk,25025
+Delano,45.0414,-93.7905,Oil,Minnesota,Wright,27171
+Delaware City 10,39.6004,-75.6268,Oil,Delaware,New Castle,10003
+Delaware Generating Station,39.968,-75.1252,Oil,Pennsylvania,Philadelphia,42101
+Delta Power,64.0281,-145.7194,Oil,Alaska,Southeast Fairbanks,2240
+Deshler,40.1408,-97.7239,Oil,Nebraska,Thayer,31169
+Detroit Lakes,46.8175,-95.8433,Oil,Minnesota,Becker,27005
+Devon Station,41.2098,-73.109,Oil,Connecticut,Fairfield,9001
+Diesel Generators,43.0802,-89.3747,Oil,Wisconsin,Dane,55025
+Dike City Power Plant,42.4622,-92.6264,Oil,Iowa,Grundy,19075
+Dillingham,59.0429,-158.4686,Oil,Alaska,Dillingham,2070
+Dodge Park Engine No 1,39.9524,-83.0144,Oil,Ohio,Franklin,39049
+Dominion/Lo Mar,38.7443,-77.4974,Oil,Virginia,Manassas City,51683
+Doreen,42.4433,-73.2058,Oil,Massachusetts,Berkshire,25003
+Douglas,31.3641,-109.5538,Oil,Arizona,Cochise,4003
+Dover Peaking,40.5416,-81.4985,Oil,Ohio,Tuscarawas,39157
+Downtown,36.6803,-76.9219,Oil,Virginia,Franklin,51067
+Drexel Operations Center,35.7481,-81.6072,Oil,North Carolina,Burke,37023
+Durant,41.5998,-90.912,Oil,Iowa,Cedar,19031
+Dutch Harbor,53.8925,-166.5382,Oil,Alaska,Aleutians West,2016
+Dynegy Oakland Power Plant,37.7968,-122.2819,Oil,California,Alameda,6001
+Earlville,42.4942,-91.2725,Oil,Iowa,Dubuque,19061
+East Campus Utility Plant,39.1379,-84.5049,Oil,Ohio,Hamilton,39061
+East Hampton,40.9617,-72.2103,Oil,New York,Suffolk,36103
+Easton,38.7786,-76.0769,Oil,Maryland,Talbot,24041
+Easton 2,38.795,-76.07,Oil,Maryland,Talbot,24041
+Eastport,44.9136,-67.0033,Oil,Maine,Washington,23029
+Eastside WWTP,35.9428,-79.9089,Oil,North Carolina,Guilford,37081
+Edenton Generators,36.0286,-76.5719,Oil,North Carolina,Chowan,37041
+Edgerton,41.45,-84.7672,Oil,Ohio,Williams,39171
+Electric Avenue Facility,38.28,-77.59,Oil,Virginia,Spotsylvania,51177
+Elim,64.6166,-162.2637,Oil,Alaska,Northwest Arctic,2188
+Elk River City of,45.3158,-93.5781,Oil,Minnesota,Sherburne,27141
+Ellinwood,38.3545,-98.5834,Oil,Kansas,Barton,20009
+Elm Street Substation Generators,37.7814,-90.4156,Oil,Missouri,St Francois,29187
+Elroy,43.7395,-90.2675,Oil,Wisconsin,Juneau,55057
+Emmonak,62.7777,-164.5315,Oil,Alaska,Nome,2180
+Engle,41.1428,-81.4706,Oil,Ohio,Summit,39153
+Erie,37.5668,-95.2375,Oil,Kansas,Neosho,20133
+Erie Energy Center,37.5742,-95.2372,Oil,Kansas,Neosho,20133
+Essex Junction 19,44.4821,-73.1164,Oil,Vermont,Chittenden,50007
+Evonik Industries AG,40.3872,-86.9391,Oil,Indiana,Tippecanoe,18157
+Exelon Framingham LLC,42.2672,-71.3983,Oil,Massachusetts,Middlesex,25017
+Exelon Medway LLC,42.14,-71.4464,Oil,Massachusetts,Norfolk,25021
+Factory,39.8259,-89.6373,Oil,Illinois,Sangamon,17167
+Fairbanks,64.8542,-147.7194,Oil,Alaska,Fairbanks North Star,2090
+Fairbanks Morse Engine,42.5185,-89.0287,Oil,Wisconsin,Rock,55105
+Fairfax,44.5259,-94.7188,Oil,Minnesota,Renville,27129
+Fairfield,38.3807,-88.366,Oil,Illinois,Wayne,17191
+Fairgrounds,38.5935,-92.2206,Oil,Missouri,Cole,29051
+Falls,40.1765,-74.79,Oil,Pennsylvania,Bucks,42017
+Farmer City,40.2461,-88.6388,Oil,Illinois,De Witt,17039
+Faulkton,45.0367,-99.1202,Oil,South Dakota,Faulk,46049
+Fayette,39.1406,-92.68,Oil,Missouri,Howard,29089
+Fennimore,42.9828,-90.6558,Oil,Wisconsin,Grant,55043
+Fergus Control Ctr,46.2807,-96.0704,Oil,Minnesota,Otter Tail,27111
+Field Street,29.0213,-80.9949,Oil,Florida,Volusia,12127
+FirstEnergy Eastlake,41.6711,-81.4425,Oil,Ohio,Lake,39085
+Fishers Island 1,41.2686,-72.01,Oil,Connecticut,New London,9011
+Fisk Street,41.8508,-87.6533,Oil,Illinois,Cook,17031
+Flora Site A,38.6693,-88.4635,Oil,Illinois,Clay,17025
+Flora Site B,38.6714,-88.4894,Oil,Illinois,Clay,17025
+Florence,43.7089,-73.0631,Oil,Vermont,Rutland,50021
+Flos Inn Diesel,46.71,-67.9556,Oil,Maine,Aroostook,23003
+Forest City Light Plant,43.2632,-93.6354,Oil,Iowa,Winnebago,19189
+Fort Greely Power Plant,63.9736,-145.7166,Oil,Alaska,Southeast Fairbanks,2240
+Fort Hill 1  2  3 & 4,41.4711,-72.1022,Oil,Connecticut,New London,9011
+Framingham State University Plant,42.2979,-71.4361,Oil,Massachusetts,Middlesex,25017
+Frank Jenkins,42.8686,-84.8956,Oil,Michigan,Ionia,26067
+Franklin Drive,41.7989,-73.1163,Oil,Connecticut,Litchfield,9005
+Frederic Diesel,45.6548,-92.4651,Oil,Wisconsin,Polk,55095
+Freeburg,38.4256,-89.9144,Oil,Illinois,St Clair,17163
+Freeport McMoRan,32.6618,-108.3628,Oil,New Mexico,Grant,35017
+Freeport McMoRan Cobre Mining,32.8561,-108.0847,Oil,New Mexico,Grant,35017
+French Island,43.8292,-91.2597,Oil,Wisconsin,La Crosse,55063
+Front Street,42.1483,-72.5911,Oil,Massachusetts,Hampden,25013
+Ft. Pierre,44.3681,-100.3808,Oil,South Dakota,Stanley,46117
+Fuyao Glass Illinois Inc.,39.779,-88.9016,Oil,Illinois,Macon,17115
+Galena Electric Utility,64.7442,-156.8736,Oil,Alaska,Dillingham,2070
+Galion,40.7303,-82.7939,Oil,Ohio,Crawford,39033
+Gallatin (MO),39.9172,-93.9539,Oil,Missouri,Daviess,29061
+Garnett Municipal,38.2697,-95.2447,Oil,Kansas,Anderson,20003
+Gary Court 1 & 2,41.3367,-72.02,Oil,Connecticut,New London,9011
+Gaston Memorial Hospital,35.2747,-81.1383,Oil,North Carolina,Gaston,37071
+Gastonia  Tulip Drive,35.2891,-81.2052,Oil,North Carolina,Gaston,37071
+Gastonia Prime Power Park,35.3017,-81.2092,Oil,North Carolina,Gaston,37071
+Gateway Gen,38.7253,-77.5097,Oil,Virginia,Manassas City,51683
+GenConn Devon LLC,41.2108,-73.1075,Oil,Connecticut,Fairfield,9001
+GenConn Middletown LLC,41.5544,-72.5767,Oil,Connecticut,Middlesex,9007
+General Electric Diesel Engine Plant,41.1694,-80.1055,Oil,Pennsylvania,Mercer,42085
+Genoa Diesel Generating Station,41.5092,-83.3606,Oil,Ohio,Ottawa,39123
+Georgia Pacific Center,33.7575,-84.3869,Oil,Georgia,Fulton,13121
+Germantown,43.1952,-88.1496,Oil,Wisconsin,Waukesha,55133
+Gilliam South,41.4961,-94.3272,Oil,Iowa,Guthrie,19077
+Gladstone,45.8475,-87.0036,Oil,Michigan,Delta,26041
+Glencoe,44.7709,-94.1582,Oil,Minnesota,McLeod,27085
+Glennallen,62.1104,-145.5325,Oil,Alaska,Valdez-Cordova,2261
+Glenwood,40.8271,-73.6475,Oil,New York,Nassau,36059
+Godwin Drive Plant,38.7405,-77.5081,Oil,Virginia,Manassas City,51683
+Gold Creek,58.3107,-134.4174,Oil,Alaska,Juneau,2110
+Good Samaritan Hospital,41.1115,-74.1354,Oil,New York,Rockland,36087
+Gordon,46.2367,-91.7855,Oil,Wisconsin,Douglas,55031
+Gowrie,42.2828,-94.289,Oil,Iowa,Webster,19187
+Graettinger,43.2397,-94.7498,Oil,Iowa,Palo Alto,19147
+Grafton,48.43,-97.4033,Oil,North Dakota,Walsh,38099
+Grand Junction,42.0296,-94.3699,Oil,Iowa,Greene,19073
+Grand Marais,47.7503,-90.3572,Oil,Minnesota,Cook,27031
+Granite Falls 2,44.8047,-95.557,Oil,Minnesota,Yellow Medicine,27173
+Granite Falls Walmart,35.7811,-81.3928,Oil,North Carolina,Caldwell,37027
+Grantsburg Diesel,45.7792,-92.678,Oil,Wisconsin,Burnett,55013
+Greenfield,41.3039,-94.4606,Oil,Iowa,Adair,19001
+Greenport,41.1055,-72.3758,Oil,New York,Suffolk,36103
+Grundy Center City Light Plant,42.3631,-92.7723,Oil,Iowa,Grundy,19075
+Gwitchyaa Zhee,66.5663,-145.2531,Oil,Alaska,Fairbanks North Star,2090
+Haines,59.2359,-135.4462,Oil,Alaska,Haines,2100
+Halstad,47.3501,-96.8319,Oil,North Dakota,Traill,38097
+Hamakua Energy Plant,20.0939,-155.4711,Oil,Hawaii,Hawaii,15001
+Hamilton (PA),39.9087,-76.9885,Oil,Pennsylvania,Adams,42001
+Hana Substation,20.7658,-155.9961,Oil,Hawaii,Maui,15009
+Hardeeville,32.2988,-81.0739,Oil,South Carolina,Jasper,45053
+Harlan,41.6445,-95.3153,Oil,Iowa,Shelby,19165
+Harris Lake,43.9719,-74.1861,Oil,New York,Franklin,36033
+Hart,43.7041,-86.3663,Oil,Michigan,Oceana,26127
+Hastings,44.7,-92.8936,Oil,Minnesota,Dakota,27037
+Hawaii Cogen,21.3117,-158.1139,Oil,Hawaii,Honolulu,15003
+Hawkeye Energy Greenport LLC,41.106,-72.3762,Oil,New York,Suffolk,36103
+Hebron,40.1879,-97.5779,Oil,Nebraska,Thayer,31169
+Hendricks Regional Health,39.7615,-86.5016,Oil,Indiana,Hendricks,18063
+Herington,38.6658,-96.9492,Oil,Kansas,Dickinson,20041
+Hewlett Packard Enterprise,34.0864,-84.2677,Oil,Georgia,Fulton,13121
+High Point  Fairfield,35.9244,-79.9901,Oil,North Carolina,Randolph,37151
+High Point  POLO,35.97,-79.96,Oil,North Carolina,Guilford,37081
+High Point  Pump Station Rd,35.9861,-79.9497,Oil,North Carolina,Guilford,37081
+Highland,38.7412,-89.6849,Oil,Illinois,Madison,17119
+Hillsboro,47.3969,-97.0606,Oil,North Dakota,Traill,38097
+Hilton Head,32.2089,-80.6988,Oil,South Carolina,Beaufort,45013
+Holly,38.0327,-102.0737,Oil,Kansas,Hamilton,20075
+Holton,39.4735,-95.7315,Oil,Kansas,Jackson,20085
+Holtsville,40.817,-73.0663,Oil,New York,Suffolk,36103
+Honea Path,34.4413,-82.3652,Oil,South Carolina,Anderson,45007
+Hoonah,58.1064,-135.4307,Oil,Alaska,Juneau,2110
+Hooper Bay,61.5309,-166.1019,Oil,Alaska,Wade Hampton,2270
+Hopkinton,42.3435,-91.2471,Oil,Iowa,Jones,19105
+Hugoton 2,37.1642,-101.3401,Oil,Kansas,Stevens,20189
+Hunterstown,39.8662,-77.1648,Oil,Pennsylvania,Adams,42001
+Huntersville Delivery No 2,35.3832,-80.8329,Oil,North Carolina,Mecklenburg,37119
+Hurricane Creek Lift Station,39.5879,-86.1858,Oil,Indiana,Johnson,18081
+IBM West,44.0587,-92.5119,Oil,Minnesota,Olmsted,27109
+IMEA Flora,38.6658,-88.4625,Oil,Illinois,Clay,17025
+IMEA Highland,38.7417,-89.6847,Oil,Illinois,Madison,17119
+IRC Generator Facility,36.9708,-112.5264,Oil,Arizona,Coconino,4005
+Indianola,41.3595,-93.5633,Oil,Iowa,Warren,19181
+Industrial Park,41.7682,-89.6744,Oil,Illinois,White,17193
+Industrial Plant,58.3676,-134.608,Oil,Alaska,Juneau,2110
+Inforum,33.7533,-84.3889,Oil,Georgia,Fulton,13121
+Iola,37.9231,-95.4256,Oil,Kansas,Allen,20001
+Jackson (MO),37.3847,-89.6606,Oil,Missouri,Cape Girardeau,29031
+Jackson (OH),39.0441,-82.6101,Oil,Ohio,Jackson,39079
+Jackson Cntr Peaking,40.4597,-84.0401,Oil,Ohio,Shelby,39149
+Jackson Square,39.0946,-94.4115,Oil,Missouri,Jackson,29095
+Jamaica Bay Peaking,40.6097,-73.7622,Oil,New York,Nassau,36059
+Jamestown,46.9057,-98.6622,Oil,North Dakota,Stutsman,38093
+Janesville,44.1172,-93.7073,Oil,Minnesota,Waseca,27161
+Jarvis Street,57.0497,-135.3128,Oil,Alaska,Sitka,2220
+Jefferson Street Substation,37.7694,-90.4258,Oil,Missouri,St Francois,29187
+Jetmore,38.0803,-99.8936,Oil,Kansas,Hodgeman,20083
+Jewett City 1,41.6041,-71.9825,Oil,Connecticut,New London,9011
+John Deere Dubuque Works,42.5734,-90.6926,Oil,Iowa,Dubuque,19061
+John Street 1  3  4 & 5,41.4458,-72.8364,Oil,Connecticut,New Haven,9009
+Johnson,37.5669,-101.7511,Oil,Kansas,Stanton,20187
+Jones Street,41.2515,-95.9227,Oil,Nebraska,Douglas,31055
+Julesburg,40.9505,-102.2795,Oil,Colorado,Sedgwick,8115
+Kahe,21.3564,-158.1289,Oil,Hawaii,Honolulu,15003
+Kahoka,40.4225,-91.7206,Oil,Missouri,Clark,29045
+Kahului,20.8969,-156.4627,Oil,Hawaii,Maui,15009
+Kake,56.963,-133.9226,Oil,Alaska,Wrangell-Petersburg,2280
+Kalaeloa Cogen Plant,21.3021,-158.0963,Oil,Hawaii,Honolulu,15003
+Kanoelehua,19.7052,-155.0625,Oil,Hawaii,Hawaii,15001
+Kasigluk,60.8731,-162.5197,Oil,Alaska,Bethel,2050
+Keahole,19.7317,-156.0283,Oil,Hawaii,Hawaii,15001
+Kenyon Municipal,44.2718,-92.9848,Oil,Minnesota,Goodhue,27049
+Kiana,66.9739,-160.4286,Oil,Alaska,Northwest Arctic,2188
+Kimball,41.2382,-103.6667,Oil,Nebraska,Kimball,31105
+Kindred School,46.6497,-97.0095,Oil,North Dakota,Cass,38017
+King Cove,55.0617,-162.3103,Oil,Alaska,Aleutians East,2013
+Kings Beach,39.2458,-120.0272,Oil,California,Placer,6061
+Kivalina,67.7266,-164.5384,Oil,Alaska,Northwest Arctic,2188
+Knoxville Industrial,41.316,-93.061,Oil,Iowa,Marion,19125
+Kodiak Microgrid,57.79,-152.39700000000005,Oil,Alaska,Kodiak Island,2150
+Kotlik,63.0322,-163.5531,Oil,Alaska,Nome,2180
+Kotzebue,66.8378,-162.5569,Oil,Alaska,Northwest Arctic,2188
+Koyuk,64.9321,-161.1671,Oil,Alaska,Northwest Arctic,2188
+LNG 1 & 2,41.5694,-72.1175,Oil,Connecticut,New London,9011
+La Crosse,38.5317,-99.3083,Oil,Kansas,Rush,20165
+La Farge,43.5722,-90.6391,Oil,Wisconsin,Monroe,55081
+La Junta,37.9876,-103.5468,Oil,Colorado,Otero,8089
+La Plata,40.0244,-92.4896,Oil,Missouri,Macon,29121
+La Porte,42.3159,-92.1928,Oil,Iowa,Black Hawk,19013
+Lake (WY),44.415,-110.5739,Oil,Montana,Gallatin,30031
+Lake Crystal,44.1069,-94.2197,Oil,Minnesota,Blue Earth,27013
+Lake Marion,44.6003,-93.2939,Oil,Minnesota,Scott,27139
+Lake Mills,43.4172,-93.5322,Oil,Iowa,Winnebago,19189
+Lake Park,43.4301,-95.3153,Oil,Iowa,Dickinson,19059
+Lake Preston,44.3649,-97.3811,Oil,South Dakota,Kingsbury,46077
+Lakefield Utilities,43.6742,-95.1706,Oil,Minnesota,Jackson,27063
+Lakeside,39.7573,-89.6005,Oil,Illinois,Sangamon,17167
+Lamoni Municipal Utilities,40.622,-93.9326,Oil,Iowa,Decatur,19053
+Landis Delivery No 2,35.542,-80.6123,Oil,North Carolina,Rowan,37159
+Lanesboro,43.72,-91.9777,Oil,Minnesota,Fillmore,27045
+Larned,38.1762,-99.1,Oil,Kansas,Pawnee,20145
+Las Animas,38.0647,-103.2159,Oil,Colorado,Bent,8011
+Laurens,42.8486,-94.8506,Oil,Iowa,Pocahontas,19151
+Laverne Diesel Generating Plant,36.7106,-99.8906,Oil,Oklahoma,Harper,40059
+Lebanon,39.4322,-84.2109,Oil,Ohio,Warren,39165
+Lebanon Pines 1 & 2,41.5683,-72.2322,Oil,Connecticut,New London,9011
+Lemon Creek,58.3536,-134.4953,Oil,Alaska,Juneau,2110
+Lenox,40.88,-94.5589,Oil,Iowa,Taylor,19173
+Lexington,35.7736,-80.2594,Oil,North Carolina,Davidson,37057
+Lexington Health Center,35.8309,-80.2422,Oil,North Carolina,Davidson,37057
+Lilly Technical Center,39.7475,-86.1831,Oil,Indiana,Marion,18097
+Lime Creek,43.2481,-93.205,Oil,Iowa,Worth,19195
+Lincoln,39.0372,-98.153,Oil,Kansas,Lincoln,20105
+Lincolnton High School,35.4774,-81.2623,Oil,North Carolina,Lincoln,37109
+Litchfield,45.1282,-94.5352,Oil,Minnesota,Meeker,27093
+Long Creek Waste Water Plant,35.3119,-81.1414,Oil,North Carolina,Gaston,37071
+Lost Nation,44.5951,-71.4944,Oil,New Hampshire,Coos,33007
+Low Moor,37.777,-79.892,Oil,Virginia,Alleghany,51005
+Luverne,43.6544,-96.2019,Oil,Minnesota,Rock,27133
+Lyons,41.9374,-96.4668,Oil,Nebraska,Burt,31021
+M Street Jet,42.3394,-71.0314,Oil,Massachusetts,Suffolk,25025
+MNDOT Standby Generation,44.953,-93.1057,Oil,Minnesota,Ramsey,27123
+MPEA Energy Center,41.8527,-87.6185,Oil,Illinois,Cook,17031
+Maalaea,20.8012,-156.493,Oil,Hawaii,Maui,15009
+Macon,39.7378,-92.4689,Oil,Missouri,Macon,29121
+Madison Utilities,41.8298,-97.4563,Oil,Nebraska,Madison,31119
+Maiden Community Center,35.5772,-81.2081,Oil,North Carolina,Catawba,37035
+Malden,36.5531,-89.9682,Oil,Missouri,Dunklin,29069
+Manatee,27.6058,-82.3456,Oil,Florida,Hillsborough,12057
+Manistique,45.955,-86.2563,Oil,Michigan,Schoolcraft,26153
+Manning,41.9067,-95.0347,Oil,Iowa,Carroll,19027
+Maple Lake,45.2291,-94.0097,Oil,Minnesota,Wright,27171
+Maquoketa 2,42.07,-90.66,Oil,Iowa,Jackson,19097
+Marathon Electric,44.9783,-89.6328,Oil,Wisconsin,Marathon,55073
+Marathon Generating Plant,24.7108,-81.0927,Oil,Florida,Monroe,12087
+Marceline,39.7169,-92.9458,Oil,Missouri,Linn,29115
+Marshall,61.8782,-162.0851,Oil,Alaska,Bethel,2050
+Marshall (IL),39.3921,-87.6851,Oil,Illinois,Clark,17023
+Marshall (MN),44.4466,-95.7921,Oil,Minnesota,Lyon,27083
+McClure,37.6294,-120.9314,Oil,California,Stanislaus,6099
+McCook,40.2214,-100.6508,Oil,Nebraska,Red Willow,31145
+McGrath,62.957,-155.595,Oil,Alaska,Dillingham,2070
+McGregor,43.0237,-91.1749,Oil,Wisconsin,Crawford,55023
+McLeansboro,38.0947,-88.5413,Oil,Illinois,Hamilton,17065
+McManus,31.2136,-81.5462,Oil,Georgia,Glynn,13127
+McMinnville,35.705,-85.7439,Oil,Tennessee,Warren,47177
+Melrose,45.675,-94.8153,Oil,Minnesota,Stearns,27145
+Melrose 2,45.6764,-94.8019,Oil,Minnesota,Stearns,27145
+Memphis,40.4578,-92.181,Oil,Missouri,Scotland,29199
+Mercy Medical Center,40.6883,-73.6308,Oil,New York,Nassau,36059
+Meridian,32.5508,-88.6067,Oil,Mississippi,Lauderdale,28075
+Mexico,39.1481,-91.8306,Oil,Missouri,Audrain,29007
+Miami Wabash,40.7884,-85.8178,Oil,Indiana,Wabash,18169
+Middletown,41.5549,-72.5791,Oil,Connecticut,Middlesex,9007
+Miki Basin,20.79,-156.9342,Oil,Hawaii,Maui,15009
+Milford,43.3261,-95.1483,Oil,Iowa,Dickinson,19059
+Missouri S&T - Power Plant,37.9539,-91.7744,Oil,Missouri,Phelps,29161
+Moberly,39.4244,-92.4837,Oil,Missouri,Randolph,29175
+Mobile,40.883,-97.6014,Oil,Nebraska,York,31185
+Mobile Unit,44.3784,-98.4629,Oil,South Dakota,Beadle,46005
+Monroe (MO),39.6525,-91.7325,Oil,Missouri,Marion,29127
+Monroe Middle School,34.9733,-80.54,Oil,North Carolina,Union,37179
+Montefiore - Westchester Square,40.8406,-73.8484,Oil,New York,Bronx,36005
+Monterey Diesel Generation Facility,38.4214,-79.5914,Oil,Virginia,Highland,51091
+Montezuma,41.58600000000001,-92.5228,Oil,Iowa,Poweshiek,19157
+Montpelier,41.5855,-84.5794,Oil,Ohio,Williams,39171
+Montville Station,41.4281,-72.1019,Oil,Connecticut,New London,9011
+Monument,39.7667,-84.1739,Oil,Ohio,Montgomery,39113
+Moose Lake,46.4541,-92.7606,Oil,Minnesota,Carlton,27017
+Mora,45.8771,-93.2951,Oil,Minnesota,Kanabec,27065
+Moreau,38.5557,-92.1023,Oil,Missouri,Cole,29051
+Morganton  Parker Road,35.7208,-81.6624,Oil,North Carolina,Burke,37023
+Morganton Station 5,35.729,-81.7481,Oil,North Carolina,Burke,37023
+Moser Generating Station,40.2352,-75.6193,Oil,Pennsylvania,Chester,42029
+Mount Clinton,38.4681,-78.865,Oil,Virginia,Harrisonburg City,51660
+Mount Sinai Hospital,40.79,-73.9537,Oil,New York,New York,36061
+Mountain,40.1229,-77.1723,Oil,Pennsylvania,Cumberland,42041
+Mountain Home Energy Center,36.3096,-82.3775,Oil,Tennessee,Washington,47179
+Mountain Lake,43.9405,-94.9434,Oil,Minnesota,Cottonwood,27033
+Mountain Village,62.0856,-163.7291,Oil,Alaska,Bethel,2050
+Mt Pleasant,40.9718,-91.5512,Oil,Iowa,Henry,19087
+Mulvane 2,37.4908,-97.2216,Oil,Kansas,Sumner,20191
+Municipal Light,36.3858,-90.1867,Oil,Arkansas,Clay,5021
+Murphy-Brown LLC,34.9944,-78.1583,Oil,North Carolina,Duplin,37061
+Myrtle Beach,33.7083,-78.9241,Oil,South Carolina,Horry,45051
+NCAH Central Utility Plant,42.0461,-93.5794,Oil,Iowa,Story,19169
+NSB Anaktuvuk Pass,68.138,-151.741,Oil,Alaska,North Slope,2185
+NSB Atqasuk Utility,70.4826,-157.4252,Oil,Alaska,North Slope,2185
+NSB Kaktovik Utility,70.1256,-143.619,Oil,Alaska,North Slope,2185
+NSB Nuiqsut Utility,70.2206,-150.9935,Oil,Alaska,North Slope,2185
+NSB Point Hope Utility,68.3484,-166.7372,Oil,Alaska,Nome,2180
+NSB Point Lay Utility,69.7408,-163.0058,Oil,Alaska,Northwest Arctic,2188
+NSB Wainwright Utility,70.6429,-160.0205,Oil,Alaska,North Slope,2185
+NY - Presbyt. Hospital - 525 E 68TH St,40.7644,-73.9539,Oil,New York,Queens,36081
+NY Times Daily Production Facility,40.7754,-73.8309,Oil,New York,Bronx,36005
+NYC-HH - CONEY ISLAND HOSPITAL,40.5855,-73.9656,Oil,New York,Kings,36047
+NYU LANGONE HEALTH,40.7468,-73.9722,Oil,New York,Queens,36081
+NYU Luthern Medical Center,40.6467,-74.0211,Oil,New York,Kings,36047
+Naknek,58.7304,-157.0072,Oil,Alaska,Dillingham,2070
+Nantucket,41.2583,-70.0517,Oil,Massachusetts,Nantucket,25019
+Napoleon,41.4106,-84.0967,Oil,Ohio,Henry,39069
+Napoleon Peaking,41.4079,-84.1095,Oil,Ohio,Henry,39069
+Naval Submarine Base Kings Bay,30.7917,-81.5333,Oil,Georgia,Camden,13039
+Nevada,37.8503,-94.3444,Oil,Missouri,Vernon,29217
+New Knoxville,40.4994,-84.3092,Oil,Ohio,Auglaize,39011
+New Lisbon,43.8797,-90.1645,Oil,Wisconsin,Juneau,55057
+New Stuyahok,59.4484,-157.3255,Oil,Alaska,Dillingham,2070
+New Ulm,44.3159,-94.4581,Oil,Minnesota,Brown,27015
+New York Methodist Hospital,40.6679,-73.9787,Oil,New York,Kings,36047
+New York Presbyterian Hospital-168th St,40.8409,-73.9414,Oil,New York,New York,36061
+Newberry,46.352,-85.5064,Oil,Michigan,Luce,26095
+Newhalen,59.8991,-154.6987,Oil,Alaska,Kenai Peninsula,2122
+Niles,41.168,-80.7529,Oil,Ohio,Trumbull,39155
+Niles Power Plant,41.1669,-80.7477,Oil,Ohio,Trumbull,39155
+Noatak,67.5709,-162.9657,Oil,Alaska,Northwest Arctic,2188
+Noorvik,66.8345,-161.0387,Oil,Alaska,Northwest Arctic,2188
+Norden 1-3,41.1117,-73.3928,Oil,Connecticut,Fairfield,9001
+North,41.3164,-94.455,Oil,Iowa,Adair,19001
+North Branch (MN),45.5106,-92.979,Oil,Minnesota,Chisago,27025
+North Main Street,41.5268,-72.0649,Oil,Connecticut,New London,9011
+North Pole,64.7356,-147.3481,Oil,Alaska,Fairbanks North Star,2090
+North Road Peak,33.5452,-80.9109,Oil,South Carolina,Orangeburg,45075
+Northeast (MO),39.1228,-94.5606,Oil,Missouri,Clay,29047
+Northern Neck,37.95,-76.711,Oil,Virginia,Richmond,51159
+Northern Westchester Hospital,41.1968,-73.7257,Oil,New York,Westchester,36119
+Northway,62.9617,-141.9372,Oil,Alaska,Southeast Fairbanks,2240
+Norwich WWTP,41.5256,-72.0833,Oil,Connecticut,New London,9011
+Nottoway Diesel Generating Facility,36.6972,-77.105,Oil,Virginia,Southampton,51175
+Nymans Plant Microgrid,57.7316,-152.507,Oil,Alaska,Kodiak Island,2150
+Oak Bluffs Diesel Generating Facility,41.4258,-70.6083,Oil,Massachusetts,Dukes,25007
+Oakwood Hospital & Medical Center,42.2917,-83.2119,Oil,Michigan,Wayne,26163
+Ocracoke,35.1094,-75.9797,Oil,North Carolina,Hyde,37095
+Ogden,42.0372,-94.0462,Oil,Iowa,Boone,19015
+Old Faithful,44.4533,-110.8347,Oil,Montana,Gallatin,30031
+Oliver,43.8264,-83.2383,Oil,Michigan,Huron,26063
+Onancock Diesel Generation Facility,37.7454,-75.7205,Oil,Virginia,Accomack,51001
+Orca,60.5559,-145.753,Oil,Alaska,Valdez-Cordova,2261
+Ord,41.6042,-98.9261,Oil,Nebraska,Valley,31175
+Orme Park Water Treatment Plant,39.6195,-86.2071,Oil,Indiana,Johnson,18081
+Orrtanna,39.8442,-77.3508,Oil,Pennsylvania,Adams,42001
+Orrville Peaking,40.86,-81.7586,Oil,Ohio,Wayne,39169
+Osawatomie City of,38.5017,-94.9601,Oil,Kansas,Miami,20121
+Osawatomie Power Plant South Sub,38.4956,-94.9526,Oil,Kansas,Miami,20121
+Osborne,39.442,-98.6903,Oil,Kansas,Osborne,20141
+Osceola (AR),35.6893,-89.994,Oil,Arkansas,Mississippi,5093
+Oswego Harbor Power,43.4586,-76.5319,Oil,New York,Oswego,36075
+Overall Road Station,37.7608,-90.4526,Oil,Missouri,St Francois,29187
+Oxford (KS),37.2758,-97.1636,Oil,Kansas,Sumner,20191
+PPG Industries Works 4,34.0035,-98.5535,Oil,Texas,Wichita,48485
+PPG Monroeville Chemicals Center,40.4422,-79.7311,Oil,Pennsylvania,Westmoreland,42129
+PRC-Desoto Intl/PPG Aerospace,34.9897,-118.1506,Oil,California,Kern,6029
+PS ST-8 Engine No 1,39.9614,-83.0491,Oil,Ohio,Franklin,39049
+Pacolet Diesel Generation Facility,34.8986,-81.7397,Oil,South Carolina,Spartanburg,45083
+Palaau Power,21.106,-157.0647,Oil,Hawaii,Maui,15009
+Panora,41.6947,-94.3676,Oil,Iowa,Guthrie,19077
+Paris (KY),38.2049,-84.2383,Oil,Kentucky,Bourbon,21017
+Paulding,32.0302,-89.0855,Oil,Mississippi,Jasper,28061
+Pawhuska,36.6694,-96.3474,Oil,Oklahoma,Osage,40113
+Pearl Station,39.4492,-90.6141,Oil,Illinois,Greene,17061
+Pebbly Beach,33.3331,-118.3103,Oil,California,Los Angeles,6037
+Pelican,57.9572,-136.2201,Oil,Alaska,Sitka,2220
+Pella Peaking,41.4106,-92.9378,Oil,Iowa,Marion,19125
+Perdue Diesel Generation Facility,37.742,-75.656,Oil,Virginia,Accomack,51001
+Peru (IN),40.7551,-86.0575,Oil,Indiana,Miami,18103
+Petersburg,56.81100000000001,-132.9571,Oil,Alaska,Wrangell-Petersburg,2280
+Philadelphia,39.2986,-76.5636,Oil,Maryland,Baltimore,24005
+Pilot Station,61.9365,-162.8807,Oil,Alaska,Bethel,2050
+Pineville Delivery 1,35.0767,-80.8816,Oil,North Carolina,Mecklenburg,37119
+Piqua Power Plant,40.1338,-84.2373,Oil,Ohio,Miami,39109
+Placid 12,42.7106,-83.4569,Oil,Michigan,Oakland,26125
+Plainview Muncipal Power,42.35,-97.7906,Oil,Nebraska,Pierce,31139
+Plant Four,46.576,-87.4036,Oil,Michigan,Marquette,26103
+Plant No 1 Freeport,40.6561,-73.5922,Oil,New York,Nassau,36059
+Pleasant Valley (VA),38.4006,-78.8983,Oil,Virginia,Rockingham,51165
+Plymouth State College Cogeneration,43.7644,-71.6881,Oil,New Hampshire,Grafton,33009
+Poet Biorefining Lake Crystal,44.0933,-94.2767,Oil,Minnesota,Blue Earth,27013
+Ponton Diesel Generating Facility,37.2953,-77.9862,Oil,Virginia,Amelia,51007
+Port Allen (HI),21.8996,-159.585,Oil,Hawaii,Kauai,15007
+Portable Generator 1,47.8333,-103.6436,Oil,North Dakota,Williams,38105
+Portable Generator 2,48.145,-103.6375,Oil,North Dakota,Williams,38105
+Portable Generator 3,48.145,-103.6375,Oil,North Dakota,Williams,38105
+Portage,47.0808,-88.6472,Oil,Michigan,Houghton,26061
+Portland (PA),40.9102,-75.0794,Oil,New Jersey,Warren,34041
+Possum Point,38.5367,-77.2806,Oil,Virginia,Prince William,51153
+Powell Valley,36.5748,-83.0321,Oil,Virginia,Lee,51105
+Presence Saint Mary of Nazareth Hospital,41.9031,-87.6831,Oil,Illinois,Cook,17031
+Pretlow,36.6592,-76.9267,Oil,Virginia,Franklin,51067
+Princeton (MN),45.5695,-93.5872,Oil,Minnesota,Mille Lacs,27095
+Princeton Energy Center  LLC,40.3398,-74.6239,Oil,New Jersey,Mercer,34021
+Prospect Municipal,40.4411,-83.1883,Oil,Ohio,Marion,39101
+Pueblo,38.2667,-104.6144,Oil,Colorado,Pueblo,8101
+Puna,19.6316,-155.0313,Oil,Hawaii,Hawaii,15001
+Putnam (MI),42.7108,-83.4561,Oil,Michigan,Oakland,26125
+Quay County,35.1828,-103.7311,Oil,New Mexico,Quay,35037
+Quinhagak,59.7474,-161.9106,Oil,Alaska,Bethel,2050
+Rantoul,40.3122,-88.1594,Oil,Illinois,Champaign,17019
+Rayne,30.2346,-92.2722,Oil,Louisiana,Acadia,22001
+Red Bud,38.2165,-89.9992,Oil,Illinois,Randolph,17157
+Red Cloud,40.098,-98.519,Oil,Nebraska,Webster,31181
+Renick Run Pumping Station 03-04,39.9294,-83.012,Oil,Ohio,Franklin,39049
+Reynolds,39.8069,-89.6417,Oil,Illinois,Sangamon,17167
+Richmond Generating Station,39.9845,-75.0752,Oil,New Jersey,Camden,34007
+Riverside (MD),39.2369,-76.5133,Oil,Maryland,Baltimore,24005
+Riverwood 100 Building,33.8775,-84.4603,Oil,Georgia,Cobb,13067
+Robbins Lumber,44.3331,-69.2019,Oil,Maine,Waldo,23027
+Rock Lake CT,45.8054,-92.9718,Oil,Minnesota,Pine,27115
+Rock Rapids,43.4294,-96.1692,Oil,Iowa,Lyon,19119
+Rockford,43.0489,-92.9468,Oil,Iowa,Floyd,19067
+Rockville 1 & 2,37.7036,-77.6639,Oil,Virginia,Henrico,51087
+Rockwood,32.9553,-115.5364,Oil,California,Imperial,6025
+Rocky Ford,38.0492,-103.7136,Oil,Colorado,Otero,8089
+Rutland,43.603,-72.9923,Oil,Vermont,Rutland,50021
+S W Bailey,55.3574,-131.697,Oil,Alaska,Ketchikan Gateway,2130
+SC 1 Data Center  Phase 2,37.3617,-121.9436,Oil,California,Santa Clara,6085
+ST-1/1A Engine No 1,39.95,-83.0158,Oil,Ohio,Franklin,39049
+Sabetha Power Plant,39.9049,-95.8034,Oil,Kansas,Nemaha,20131
+Salem Electric Department,37.2894,-80.07,Oil,Virginia,Salem City,51775
+Salem Street Dept,37.2794,-80.0447,Oil,Virginia,Salem City,51775
+Salem Water Plant,37.2875,-80.0771,Oil,Virginia,Salem City,51775
+Salisbury City of,39.4236,-92.8028,Oil,Missouri,Chariton,29041
+Salmon Diesel,45.1834,-113.8853,Oil,Idaho,Lemhi,16059
+Sargent,41.6416,-99.3698,Oil,Nebraska,Loup,31115
+Scammon Bay,61.843,-165.5815,Oil,Alaska,Wade Hampton,2270
+Schuylkill Generating Station,39.9419,-75.1883,Oil,Pennsylvania,Philadelphia,42101
+Seaside Heights Power Plant,39.9433,-74.0786,Oil,New Jersey,Ocean,34029
+Sediver,34.9653,-81.1872,Oil,South Carolina,York,45091
+Selawik,66.6068,-160.0148,Oil,Alaska,Northwest Arctic,2188
+Seldovia,59.4395,-151.7134,Oil,Alaska,Kenai Peninsula,2122
+Seneca City of,34.6875,-82.9525,Oil,South Carolina,Oconee,45073
+Seville,41.0317,-81.8714,Oil,Ohio,Medina,39103
+Seward (AK),60.1309,-149.435,Oil,Alaska,Kenai Peninsula,2122
+Sharpe,38.275,-95.6839,Oil,Kansas,Coffey,20031
+Shawnee (PA),41.0612,-75.0582,Oil,Pennsylvania,Pike,42103
+Shelbina Power #1,39.6948,-92.047,Oil,Missouri,Shelby,29205
+Shelbina Power #2,39.6948,-92.0467,Oil,Missouri,Shelby,29205
+Shelbina Power #3,39.6975,-92.0535,Oil,Missouri,Shelby,29205
+Shelby  NC,35.3264,-81.6292,Oil,North Carolina,Cleveland,37045
+Shelby  Toms Street,35.3036,-81.5225,Oil,North Carolina,Cleveland,37045
+Shelby Municipal Light Plant,40.88,-82.6567,Oil,Ohio,Richland,39139
+Shelby North,40.8969,-82.6625,Oil,Ohio,Richland,39139
+Shelby South,40.9089,-82.6533,Oil,Ohio,Richland,39139
+Shenandoah,40.7707,-95.3768,Oil,Iowa,Page,19145
+Shepherd Center,33.8111,-84.3928,Oil,Georgia,Fulton,13121
+Shishmaref,66.2551,-166.0736,Oil,Alaska,Nome,2180
+Shoreham,40.9616,-72.865,Oil,New York,Suffolk,36103
+Shoreham Energy LLC,40.9571,-72.8659,Oil,New York,Suffolk,36103
+Shrewsbury,42.2747,-71.7172,Oil,Massachusetts,Worcester,25027
+Shungnak,66.8881,-157.1402,Oil,Alaska,North Slope,2185
+Sibley No Two,43.3969,-95.7497,Oil,Iowa,Osceola,19143
+Sibley One,43.405,-95.7261,Oil,Iowa,Osceola,19143
+Sidney (OH),40.2792,-84.191,Oil,Ohio,Shelby,39149
+Sixth Street Gas Turbine,42.7926,-86.1036,Oil,Michigan,Ottawa,26139
+Skagway,59.4545,-135.3131,Oil,Alaska,Haines,2100
+Slana Generating Station,62.5928,-143.5889,Oil,Alaska,Southeast Fairbanks,2240
+Sleepy Eye,44.2981,-94.7252,Oil,Minnesota,Brown,27015
+Slocum,42.1225,-83.185,Oil,Michigan,Wayne,26163
+Smith Island,37.9955,-76.0389,Oil,Maryland,Somerset,24039
+Smithfield Farmland Corp Bladen,34.7463,-78.8073,Oil,North Carolina,Robeson,37155
+Smithfield Farmland Kinston,35.2683,-77.6592,Oil,North Carolina,Lenoir,37107
+Smithfield Packaged Meats Corp.,35.6943,-77.9192,Oil,North Carolina,Wilson,37195
+Snake River,64.5053,-165.4298,Oil,Alaska,Nome,2180
+Solon Diesel,46.359,-91.8236,Oil,Wisconsin,Douglas,55031
+South Cairo,42.2913,-73.9865,Oil,New York,Greene,36039
+South Generation,44.5331,-95.1122,Oil,Minnesota,Redwood,27127
+South Georgia Medical Center,30.8625,-83.2894,Oil,Georgia,Lowndes,13185
+South Hampton,40.9,-72.382,Oil,New York,Suffolk,36103
+South Main Street,41.9092,-89.0504,Oil,Illinois,Ogle,17141
+South Meadow,41.7495,-72.6524,Oil,Connecticut,Hartford,9003
+South Plant,42.7317,-92.4711,Oil,Iowa,Bremer,19017
+South Strawberry,42.7114,-91.5469,Oil,Iowa,Clay,19041
+Southold,41.1059,-72.3761,Oil,New York,Suffolk,36103
+Southwark,39.9144,-75.135,Oil,New Jersey,Camden,34007
+Southwestern Bell Telephone,38.6276,-90.1934,Oil,Missouri,St Louis,29189
+Spalding,41.6814,-98.3676,Oil,Nebraska,Greeley,31077
+Spartanburg Water System,35.1103,-81.9675,Oil,South Carolina,Spartanburg,45083
+Spencer Gas Turbine,43.1446,-95.1443,Oil,Iowa,Clay,19041
+Spirit Mound,42.8977,-96.9905,Oil,South Dakota,Clay,46027
+Spring Valley,43.6873,-92.3894,Oil,Minnesota,Fillmore,27045
+Springfield (CO),37.4028,-102.6217,Oil,Colorado,Baca,8009
+Springfield (MN),44.2395,-94.9763,Oil,Minnesota,Brown,27015
+St Bonifacius,44.905,-93.8208,Oil,Minnesota,Carver,27019
+St Francis,39.7709,-101.8101,Oil,Kansas,Cheyenne,20023
+St George Red Rock,37.1137,-113.5689,Oil,Utah,Washington,49053
+St James,43.9882,-94.6156,Oil,Minnesota,Watonwan,27165
+St John,37.9953,-98.7602,Oil,Kansas,Stafford,20185
+St Louis,43.4019,-84.6014,Oil,Michigan,Gratiot,26057
+St Marys,40.5458,-84.3889,Oil,Ohio,Auglaize,39011
+St Marys IC,62.0515,-163.1726,Oil,Alaska,Bethel,2050
+St. Charles Power Plant,43.9742,-92.0597,Oil,Minnesota,Winona,27169
+St. Olaf StandBy Generators,44.4611,-93.1808,Oil,Minnesota,Rice,27131
+Stafford,37.9561,-98.5993,Oil,Kansas,Stafford,20185
+State Auto Insurance,45.2207,-96.6168,Oil,South Dakota,Grant,46051
+State Center,42.0167,-93.1633,Oil,Iowa,Marshall,19127
+State Farm,40.4535,-88.9605,Oil,Illinois,McLean,17113
+State Farm Insur Support Center Central,32.9192,-96.9894,Oil,Texas,Dallas,48113
+State Farm Support Center East,34.086,-84.245,Oil,Georgia,Fulton,13121
+Statesville  Highway 64,35.7985,-80.9427,Oil,North Carolina,Iredell,37097
+Statesville Delivery No 3,35.7972,-80.8542,Oil,North Carolina,Iredell,37097
+Station I,39.056,-94.393,Oil,Missouri,Jackson,29095
+Stebbins,63.521,-162.2863,Oil,Alaska,Bethel,2050
+Sterling,38.2143,-98.2071,Oil,Kansas,Rice,20159
+Stevens Community Medical Center,45.585,-95.9042,Oil,Minnesota,Stevens,27149
+Stillwater Water Treatment Plant,36.2039,-97.0739,Oil,Oklahoma,Payne,40119
+Stock Island,24.5633,-81.7342,Oil,Florida,Monroe,12087
+Stony Brook,42.1978,-72.5106,Oil,Massachusetts,Hampden,25013
+Story City,42.1861,-93.6005,Oil,Iowa,Story,19169
+Stryker,41.5014,-84.4283,Oil,Ohio,Williams,39171
+Stuart (IA),41.5039,-94.3172,Oil,Iowa,Guthrie,19077
+Stuart (NE),42.5994,-99.1437,Oil,Nebraska,Holt,31089
+Sub 2 Generating Station,39.7503,-92.5,Oil,Missouri,Macon,29121
+Sub 3 Generating Station,39.7614,-92.4533,Oil,Missouri,Macon,29121
+Sullivan (IL),39.5967,-88.6119,Oil,Illinois,Moultrie,17139
+Sumner,42.8464,-92.0978,Oil,Iowa,Bremer,19017
+Sun Trust Plaza,33.7625,-84.3872,Oil,Georgia,Fulton,13121
+Sunbury Generation LP,40.8361,-76.825,Oil,Pennsylvania,Snyder,42109
+Superior,42.2639,-83.6422,Oil,Michigan,Washtenaw,26161
+Swampy Acres,57.7756,-152.4803,Oil,Alaska,Kodiak Island,2150
+TSGT Mobile Generator #15,36.934,-106.9865,Oil,New Mexico,Rio Arriba,35039
+TalenEnergy Martin Creek LLC Allentown,40.6084,-75.456,Oil,Pennsylvania,Lehigh,42077
+TalenEnergy Martins Creek LLC Fishbach,40.6891,-76.2196,Oil,Pennsylvania,Schuylkill,42107
+TalenEnergy Martins Creek LLC Harrisburg,40.2579,-76.8579,Oil,Pennsylvania,Dauphin,42043
+TalenEnergy Martins Creek LLC Harwood,40.9353,-76.0284,Oil,Pennsylvania,Luzerne,42079
+TalenEnergy Martins Creek LLC Jenkins,41.2824,-75.8164,Oil,Pennsylvania,Luzerne,42079
+TalenEnergy Martins Creek LLC Lock Haven,41.1189,-77.4709,Oil,Pennsylvania,Clinton,42035
+TalenEnergy Martins Creek LLC West Shore,40.1908,-76.9458,Oil,Pennsylvania,Cumberland,42041
+TalenEnergy Martins Creek LLC Williamsport,41.2361,-77.0075,Oil,Pennsylvania,Lycoming,42081
+Tangier,37.8277,-75.9915,Oil,Maryland,Somerset,24039
+Tasley,37.7061,-75.7031,Oil,Virginia,Accomack,51001
+Tecumseh,40.3664,-96.19,Oil,Nebraska,Johnson,31097
+Tesoro Hawaii,21.3032,-158.0914,Oil,Hawaii,Honolulu,15003
+The Allen Hospital,40.8733,-73.913,Oil,New York,New York,36061
+Thermal Kem,34.8894,-81.0725,Oil,South Carolina,York,45091
+Thief River Falls,48.1143,-96.1792,Oil,Minnesota,Pennington,27113
+Thomson Reuters Campus Bldg A-D,44.8196,-93.1156,Oil,Minnesota,Dakota,27037
+Thomson Reuters Data Center Bldg ES101,44.8244,-93.1139,Oil,Minnesota,Dakota,27037
+Thomson Reuters Data Center Bldg H,44.8289,-93.1167,Oil,Minnesota,Dakota,27037
+Titus,40.3056,-75.9081,Oil,Pennsylvania,Berks,42011
+Togiak,59.0597,-160.3803,Oil,Alaska,Dillingham,2070
+Tok,63.3355,-143.0,Oil,Alaska,Southeast Fairbanks,2240
+Toksook Bay,60.5301,-165.1086,Oil,Alaska,Wade Hampton,2270
+Tolna,39.7606,-76.6353,Oil,Pennsylvania,York,42133
+Torrington Terminal,41.7761,-73.1209,Oil,Connecticut,Litchfield,9005
+Tower,45.3628,-84.295,Oil,Michigan,Cheboygan,26031
+Traer East,42.1817,-92.4663,Oil,Iowa,Tama,19171
+Traer Main,42.1926,-92.4636,Oil,Iowa,Tama,19171
+Traer South,42.1925,-92.4747,Oil,Iowa,Tama,19171
+Trenton North,40.0786,-93.635,Oil,Missouri,Grundy,29079
+Trenton South,40.0672,-93.6044,Oil,Missouri,Grundy,29079
+Trinidad (CO),37.179,-104.4875,Oil,Colorado,Las Animas,8071
+Truman,43.8284,-94.4369,Oil,Minnesota,Martin,27091
+Tunnel,41.5554,-72.0418,Oil,Connecticut,New London,9011
+Ubly,43.7217,-82.9388,Oil,Michigan,Huron,26063
+Unalakleet,63.8768,-160.7904,Oil,Alaska,Bethel,2050
+Unalaska Power Module,53.864,-166.5126,Oil,Alaska,Aleutians West,2016
+Unionville,40.4593,-93.0218,Oil,Missouri,Putnam,29171
+Unionville City of,40.4767,-93.01,Oil,Missouri,Putnam,29171
+Unisea G 2,53.8796,-166.5532,Oil,Alaska,Aleutians West,2016
+United Hospital,44.9425,-93.1072,Oil,Minnesota,Ramsey,27123
+University of Washington Power Plant,47.6539,-122.3036,Oil,Washington,King,53033
+Upper Kalskag,61.5269,-160.3481,Oil,Alaska,Bethel,2050
+VMEA 1 Credit Gen,38.7405,-77.5081,Oil,Virginia,Manassas City,51683
+VMEA Peaking Gen,38.7405,-77.5081,Oil,Virginia,Manassas City,51683
+Valdez,61.1303,-146.3647,Oil,Alaska,Valdez-Cordova,2261
+Valdez Cogen,61.0839,-146.2529,Oil,Alaska,Valdez-Cordova,2261
+Valdosta Water Treatment Plant,30.9136,-83.2529,Oil,Georgia,Lowndes,13185
+Valenite,34.6572,-83.0383,Oil,South Carolina,Oconee,45073
+Valley Queen Cheese,45.2211,-96.6372,Oil,South Dakota,Grant,46051
+Vergennes 9,44.1664,-73.2575,Oil,Vermont,Addison,50001
+Vernon,33.9986,-118.2219,Oil,California,Los Angeles,6037
+Versailles Peaking,40.2247,-84.4769,Oil,Ohio,Darke,39037
+Vienna Operations,38.4878,-75.8208,Oil,Maryland,Dorchester,24019
+Villisca Municipal Power Plant,40.9315,-94.9855,Oil,Iowa,Montgomery,19137
+Vinton,42.1697,-92.0222,Oil,Iowa,Benton,19011
+Viola,43.507,-90.669,Oil,Wisconsin,Vernon,55123
+Vitro Architectural Glass (PA),40.1264,-77.1644,Oil,Pennsylvania,Cumberland,42041
+Vitro Flat Glass LLC,36.69,-119.72,Oil,California,Fresno,6019
+W H Hill,19.7041,-155.0607,Oil,Hawaii,Hawaii,15001
+W H Weatherspoon,34.5875,-78.9755,Oil,North Carolina,Robeson,37155
+WPPI Hartford DG,43.3358,-88.4097,Oil,Wisconsin,Washington,55131
+Wading River,40.9569,-72.8774,Oil,New York,Suffolk,36103
+Wadsworth,41.0039,-81.7622,Oil,Ohio,Wayne,39169
+Waiau,21.389,-157.9615,Oil,Hawaii,Honolulu,15003
+Waimea,20.0252,-155.6955,Oil,Hawaii,Hawaii,15001
+Walton Bainbridge Power Facility,30.911,-84.5473,Oil,Georgia,Decatur,13087
+Walton Street Substation,37.7881,-90.4336,Oil,Missouri,St Francois,29187
+Wapsie Valley Creamery Back Up Generator,42.4778,-91.8911,Oil,Iowa,Buchanan,19019
+Ward WTP,35.9678,-79.9708,Oil,North Carolina,Guilford,37081
+Warner Lambert,42.2993,-83.7053,Oil,Michigan,Washtenaw,26161
+Warren,41.8359,-79.1887,Oil,Pennsylvania,Warren,42123
+Washington,39.7306,-96.9795,Oil,Kansas,Washington,20201
+Washington Island,45.3709,-86.9308,Oil,Michigan,Delta,26041
+Waste Water Plant Generator,37.2278,-96.9897,Oil,Kansas,Cowley,20035
+Water Filter Plant #2,35.7377,-81.7278,Oil,North Carolina,Burke,37023
+Water Treatment 1 & 2,41.3469,-72.0411,Oil,Connecticut,New London,9011
+Water Treatment Plant Generators,38.7607,-77.6209,Oil,Virginia,Prince William,51153
+Waterloo,38.3348,-90.1589,Oil,Illinois,Monroe,17133
+Waterloo Lundquist,42.5062,-92.3456,Oil,Iowa,Black Hawk,19013
+Waterside Power  LLC,41.0372,-73.5564,Oil,Connecticut,Fairfield,9001
+Watertown Power Plant,44.9017,-97.1083,Oil,South Dakota,Codington,46029
+Waupun Correctional Central Heating Plt,43.6233,-88.7297,Oil,Wisconsin,Fond du Lac,55039
+Waverly Municipal Electric North Plant,42.7317,-92.4711,Oil,Iowa,Bremer,19017
+Wayne IC,42.2278,-97.0183,Oil,Nebraska,Wayne,31179
+Webb Forging,34.5567,-81.4919,Oil,South Carolina,Newberry,45071
+Webster City,42.471,-93.815,Oil,Iowa,Hamilton,19079
+Wellington,41.1631,-82.2272,Oil,Ohio,Lorain,39093
+Wells IC,43.7445,-93.7241,Oil,Minnesota,Faribault,27043
+West Babylon,40.6955,-73.3486,Oil,New York,Suffolk,36103
+West Bend,42.9612,-94.4456,Oil,Iowa,Kossuth,19109
+West Diesel Generation Unit,42.7303,-94.6644,Oil,Iowa,Pocahontas,19151
+West Group Data Center,44.8256,-93.1139,Oil,Minnesota,Dakota,27037
+West Group Data Center F,44.8283,-93.1167,Oil,Minnesota,Dakota,27037
+West Liberty,41.5691,-91.264,Oil,Iowa,Muscatine,19139
+West Receiving,42.0217,-95.3633,Oil,Iowa,Crawford,19047
+West Station (DE),39.7283,-75.6289,Oil,Delaware,New Castle,10003
+West Station (NJ),39.4912,-75.0486,Oil,New Jersey,Cumberland,34011
+West Tisbury Generating Facility,41.3925,-70.6201,Oil,Massachusetts,Dukes,25007
+Westbrook,44.0399,-95.4429,Oil,Minnesota,Murray,27101
+Westside WWTP,35.9403,-80.1106,Oil,North Carolina,Davidson,37057
+Westward Seafoods,53.8585,-166.5529,Oil,Alaska,Aleutians West,2016
+White Lake,43.8478,-71.2069,Oil,New Hampshire,Carroll,33003
+Whittemore,43.0644,-94.4219,Oil,Iowa,Kossuth,19109
+Wilber,40.4797,-96.9604,Oil,Nebraska,Saline,31151
+Wilkins Station,42.5131,-70.8583,Oil,Massachusetts,Essex,25009
+William Beaumont Hospital,42.5175,-83.1919,Oil,Michigan,Oakland,26125
+William F Wyman,43.7508,-70.1567,Oil,Maine,Cumberland,23005
+Williams College - Campus CHP,42.7097,-73.2022,Oil,Massachusetts,Berkshire,25003
+Willmar Municipal East Substation,45.1272,-95.025,Oil,Minnesota,Kandiyohi,27067
+Willmar Municipal SW Substation,45.105,-95.0844,Oil,Minnesota,Kandiyohi,27067
+Wilmot,43.4566,-83.1889,Oil,Michigan,Tuscola,26157
+Wilson,33.1377,-81.7483,Oil,South Carolina,Aiken,45003
+Wilton,41.5877,-91.0195,Oil,Iowa,Muscatine,19139
+Windom,43.8681,-95.1144,Oil,Minnesota,Cottonwood,27033
+Winston,28.0274,-82.0164,Oil,Florida,Polk,12105
+Winter,45.8367,-90.9735,Oil,Wisconsin,Rusk,55107
+Winterset,41.3372,-94.0126,Oil,Iowa,Madison,19121
+Wisner,41.9881,-96.916,Oil,Nebraska,Cuming,31039
+Woodhull Hospital,40.7048,-73.9419,Oil,New York,Queens,36081
+Woodland Road,42.3362,-73.2355,Oil,Massachusetts,Berkshire,25003
+Works 53,35.755,-80.2778,Oil,North Carolina,Davidson,37057
+Worthington,43.6335,-95.6092,Oil,Minnesota,Nobles,27105
+YKK USA Chestney,32.8061,-83.5456,Oil,Georgia,Bibb,13021
+Yorktown,37.2144,-76.4611,Oil,Virginia,Gloucester,51073

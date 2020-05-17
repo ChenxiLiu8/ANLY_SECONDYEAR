@@ -1,0 +1,61 @@
+name,latitude,longitude,primary_fuel,state,normalized_county,Fips
+Arkansas Nuclear One,35.311,-93.2351,Nuclear,Arkansas,Pope,5115
+Beaver Valley,40.6219,-80.4336,Nuclear,Pennsylvania,Beaver,42007
+Braidwood Generation Station,41.2435,-88.2286,Nuclear,Illinois,Will,17197
+Browns Ferry,34.7042,-87.1189,Nuclear,Alabama,Morgan,1103
+Brunswick Nuclear,33.9597,-78.0114,Nuclear,North Carolina,Brunswick,37019
+Byron Generating Station,42.0742,-89.2819,Nuclear,Illinois,Ogle,17141
+Callaway,38.7589,-91.7788,Nuclear,Missouri,Callaway,29027
+Calvert Cliffs Nuclear Power Plant,38.4344,-76.4417,Nuclear,Maryland,Calvert,24009
+Catawba,35.0514,-81.0694,Nuclear,South Carolina,York,45091
+Clinton Power Station,40.1719,-88.8339,Nuclear,Illinois,De Witt,17039
+Columbia Generating Station,46.4711,-119.3339,Nuclear,Washington,Benton,53005
+Comanche Peak,32.2984,-97.7855,Nuclear,Texas,Somervell,48425
+Cooper Nuclear Station,40.3628,-95.6408,Nuclear,Missouri,Atchison,29005
+Davis Besse,41.5967,-83.0861,Nuclear,Ohio,Ottawa,39123
+Diablo Canyon,35.2115,-120.8555,Nuclear,California,San Luis Obispo,6079
+Donald C Cook,41.9756,-86.5652,Nuclear,Michigan,Berrien,26021
+Dresden Generating Station,41.39,-88.27,Nuclear,Illinois,Will,17197
+Duane Arnold Energy Center,42.1011,-91.7781,Nuclear,Iowa,Linn,19113
+Edwin I Hatch,31.9342,-82.3447,Nuclear,Georgia,Appling,13001
+Fermi,41.9631,-83.2581,Nuclear,Michigan,Monroe,26115
+Grand Gulf,32.0081,-91.0478,Nuclear,Mississippi,Claiborne,28021
+H B Robinson,34.4017,-80.1589,Nuclear,South Carolina,Darlington,45031
+Harris,35.6334,-78.9556,Nuclear,North Carolina,Wake,37183
+Indian Point 2,41.2706,-73.9527,Nuclear,New York,Westchester,36119
+Indian Point 3,41.2706,-73.9526,Nuclear,New York,Westchester,36119
+James A Fitzpatrick,43.5214,-76.4084,Nuclear,New York,Oswego,36075
+Joseph M Farley,31.2231,-85.1116,Nuclear,Alabama,Houston,1069
+Limerick,40.2243,-75.5874,Nuclear,Pennsylvania,Montgomery,42091
+McGuire,35.4331,-80.9486,Nuclear,North Carolina,Lincoln,37109
+Millstone,41.3107,-72.1677,Nuclear,Connecticut,New London,9011
+Monticello Nuclear Facility,45.3338,-93.8493,Nuclear,Minnesota,Wright,27171
+Nine Mile Point Nuclear Station,43.5211,-76.41,Nuclear,New York,Oswego,36075
+North Anna,38.06,-77.7897,Nuclear,Virginia,Louisa,51109
+Oconee,34.7939,-82.8986,Nuclear,South Carolina,Oconee,45073
+Oyster Creek,39.8143,-74.2062,Nuclear,New Jersey,Ocean,34029
+PSEG Hope Creek Generating Station,39.4666,-75.5377,Nuclear,Delaware,New Castle,10003
+PSEG Salem Generating Station,39.4625,-75.5358,Nuclear,Delaware,New Castle,10003
+Palisades,42.323,-86.3146,Nuclear,Michigan,Van Buren,26159
+Palo Verde,33.3881,-112.8617,Nuclear,Arizona,Maricopa,4013
+Peach Bottom,39.7589,-76.2687,Nuclear,Pennsylvania,York,42133
+Perry,41.8006,-81.1439,Nuclear,Ohio,Lake,39085
+Pilgrim Nuclear Power Station,41.9438,-70.578,Nuclear,Massachusetts,Plymouth,25023
+Point Beach Nuclear Plant,44.2806,-87.5369,Nuclear,Wisconsin,Manitowoc,55071
+Prairie Island,44.622,-92.6333,Nuclear,Minnesota,Goodhue,27049
+Quad Cities Generating Station,41.7261,-90.3103,Nuclear,Iowa,Clinton,19045
+R E Ginna Nuclear Power Plant,43.2777,-77.3099,Nuclear,New York,Wayne,36117
+River Bend,30.757,-91.3327,Nuclear,Louisiana,West Feliciana,22125
+Seabrook,42.8992,-70.8489,Nuclear,New Hampshire,Rockingham,33015
+Sequoyah,35.2267,-85.0917,Nuclear,Tennessee,Hamilton,47065
+South Texas Project,28.795,-96.0481,Nuclear,Texas,Matagorda,48321
+St Lucie,27.3486,-80.2464,Nuclear,Florida,St Lucie,12111
+Surry,37.1661,-76.6986,Nuclear,Virginia,Isle of Wight,51093
+TalenEnergy Susquehanna,41.0919,-76.1462,Nuclear,Pennsylvania,Luzerne,42079
+Three Mile Island,40.1515,-76.7232,Nuclear,Pennsylvania,Dauphin,42043
+Turkey Point,25.4356,-80.3308,Nuclear,Florida,Miami-Dade,12086
+V C Summer,34.2983,-81.3153,Nuclear,South Carolina,Lexington,45063
+Vogtle,33.1427,-81.7625,Nuclear,South Carolina,Aiken,45003
+Waterford 3,29.9953,-90.4716,Nuclear,Louisiana,St Charles,22089
+Watts Bar Nuclear Plant,35.6021,-84.7895,Nuclear,Tennessee,Meigs,47121
+Wolf Creek Generating Station,38.2393,-95.6898,Nuclear,Kansas,Coffey,20031

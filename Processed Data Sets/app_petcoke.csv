@@ -1,0 +1,13 @@
+name,latitude,longitude,primary_fuel,state,normalized_county,Fips
+Brame Energy Center,31.395,-92.7167,Petcoke,Louisiana,Rapides,22079
+Chester Operations,39.8437,-75.3588,Petcoke,Pennsylvania,Delaware,42045
+FirstEnergy Bay Shore,41.6917,-83.4378,Petcoke,Ohio,Lucas,39095
+LaFarge Alpena,45.0699,-83.4082,Petcoke,Michigan,Alpena,26007
+Manitowoc,44.082,-87.6558,Petcoke,Wisconsin,Manitowoc,55071
+PRSI FCC Generator,29.7233,-95.2103,Petcoke,Texas,Harris,48201
+Phillips 66 Carbon Plant,38.0181,-122.2344,Petcoke,California,Contra Costa,6013
+Savannah River Mill,32.3313,-81.2015,Petcoke,Georgia,Effingham,13103
+Seadrift Coke LP,28.5139,-96.7942,Petcoke,Texas,Calhoun,48057
+Toledo Ref Power Recovery Train,41.6325,-83.5042,Petcoke,Ohio,Lucas,39095
+Valero Refinery Corpus Christi West,27.8175,-97.4814,Petcoke,Texas,Nueces,48355
+Yellowstone Energy LP,45.8117,-108.4278,Petcoke,Montana,Yellowstone,30111

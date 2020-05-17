@@ -1,0 +1,35 @@
+name,latitude,longitude,primary_fuel,state,normalized_county,Fips
+ADA Carbon Solutions Red River,32.0039,-93.3911,Cogeneration,Louisiana,Red River,22081
+BP Chemicals Green Lake Plant,28.5707,-96.8333,Cogeneration,Texas,Victoria,48469
+Bayway Refinery,40.6376,-74.2212,Cogeneration,New Jersey,Union,34039
+CII Carbon LLC,29.9327,-89.9782,Cogeneration,Louisiana,St Bernard,22087
+District 70 Transco Gas Pipe Line,31.2479,-90.1991,Cogeneration,Mississippi,Walthall,28147
+Dominguez Plant,33.8431,-118.2347,Cogeneration,California,Los Angeles,6037
+East Kansas Agri-Energy  LLC,38.2725,-95.2403,Cogeneration,Kansas,Anderson,20003
+Glen Ullin Station 6,46.8214,-101.7564,Cogeneration,North Dakota,Mercer,38057
+Goodsprings Waste Heat Recovery,35.8094,-115.4114,Cogeneration,Nevada,Clark,32003
+Heat Recovery Coke Facility,41.6789,-87.42,Cogeneration,Indiana,Lake,18089
+Houston Plant,29.7198,-95.2706,Cogeneration,Texas,Harris,48201
+J.R. Simplot Company,37.8069,-121.2775,Cogeneration,California,San Joaquin,6077
+Lake Charles Plant,30.1489,-93.3356,Cogeneration,Louisiana,Calcasieu,22019
+Martinez Sulfuric Acid Regeneration Plt,38.0314,-122.1139,Cogeneration,California,Contra Costa,6013
+Mosaic Co Bartow Facility,27.908,-81.9185,Cogeneration,Florida,Polk,12105
+Mosaic Co Tampa Facility,27.8605,-82.3903,Cogeneration,Florida,Hillsborough,12057
+Mosaic New Wales Operations,27.8336,-82.0519,Cogeneration,Florida,Polk,12105
+Mosaic Phosphates Uncle Sam,30.0386,-90.8283,Cogeneration,Louisiana,St James,22093
+Mosaic South Pierce Operations,27.7652,-81.9388,Cogeneration,Florida,Polk,12105
+OREG 1 Inc,48.2139,-104.3975,Cogeneration,Montana,Richland,30083
+OREG 2 Inc,48.2142,-104.3975,Cogeneration,Montana,Richland,30083
+OREG 3 Inc,43.76,-94.7514,Cogeneration,Minnesota,Martin,27091
+OREG 4 Peetz,40.9925,-102.8531,Cogeneration,Nebraska,Cheyenne,31033
+PCS Nitrogen Fertilizer LP,30.227,-91.0551,Cogeneration,Louisiana,Iberville,22047
+PCS Phosphate,35.3763,-76.7799,Cogeneration,North Carolina,Beaufort,37013
+Port Arthur Steam Energy,29.835,-93.9622,Cogeneration,Texas,Jefferson,48245
+Rentech Nitrogen Pasadena Cogeneration,29.7394,-95.1947,Cogeneration,Texas,Harris,48201
+Simplot Leasing Don Plant,42.9084,-112.5294,Cogeneration,Idaho,Bannock,16005
+Tesoro Wilmington Calciner,33.777,-118.2282,Cogeneration,California,Los Angeles,6037
+The Mosaic Company  Plant City Facility,28.1663,-82.1388,Cogeneration,Florida,Pasco,12101
+Torrance Refining Company  LLC,33.8534,-118.33,Cogeneration,California,Los Angeles,6037
+Veyo Heat Recovery Project,37.348,-113.765,Cogeneration,Utah,Washington,49053
+Williams Ignacio Natural Gas Plant,37.1456,-107.7847,Cogeneration,Colorado,La Plata,8067
+Wilmington Hydrogen Plant,33.7803,-118.24,Cogeneration,California,Los Angeles,6037

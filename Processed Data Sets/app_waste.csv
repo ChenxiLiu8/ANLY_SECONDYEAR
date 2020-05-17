@@ -1,0 +1,561 @@
+name,latitude,longitude,primary_fuel,state,normalized_county,Fips
+AC Landfill Energy LLC,39.4175,-74.5422,Waste,New Jersey,Atlantic,34001
+ADS Renewable Energy-Wolf Creek LLC,32.7755,-83.4348,Waste,Georgia,Twiggs,13289
+Adrian Energy Associates LLC,41.89100000000001,-83.9929,Waste,Michigan,Lenawee,26091
+Agrilectric Power Partners Ltd,30.2012,-93.1269,Waste,Louisiana,Calcasieu,22019
+Al Turi,41.4043,-74.3767,Waste,New York,Orange,36071
+Albany Green Energy,31.5559,-84.1103,Waste,Georgia,Dougherty,13095
+Allendale Biomass,32.995,-81.2819,Waste,South Carolina,Allendale,45005
+Allenwood,41.1511,-76.9178,Waste,Pennsylvania,Lycoming,42081
+Alpha Ridge LFG,39.305,-76.9019,Waste,Maryland,Howard,24027
+Altamont Gas Recovery,37.7493,-121.6499,Waste,California,San Joaquin,6077
+Altavista Power Station,37.1187,-79.2736,Waste,Virginia,Campbell,51031
+Amelia,37.3097,-78.0589,Waste,Virginia,Amelia,51007
+Ameresco Butte County,39.674,-121.73,Waste,California,Butte,6007
+Ameresco Chicopee Energy,42.1626,-72.5367,Waste,Massachusetts,Hampden,25013
+Ameresco Chiquita Canyon,34.4317,-118.6429,Waste,California,Los Angeles,6037
+Ameresco Dallas LLC,32.6486,-96.6444,Waste,Texas,Dallas,48113
+Ameresco Delaware Central,39.0339,-75.7233,Waste,Maryland,Caroline,24011
+Ameresco Delaware South,38.5992,-75.4342,Waste,Delaware,Sussex,10005
+Ameresco Forward,37.8834,-121.1851,Waste,California,San Joaquin,6077
+Ameresco Janesville,42.7083,-89.0208,Waste,Wisconsin,Rock,55105
+Ameresco Jefferson City,38.5524,-92.0449,Waste,Missouri,Callaway,29027
+Ameresco Johnson Canyon,36.5342,-121.4086,Waste,California,Monterey,6053
+Ameresco Keller Canyon,38.0039,-121.9345,Waste,California,Contra Costa,6013
+Ameresco Ox Mountain,37.5,-122.4,Waste,California,San Mateo,6081
+Ameresco San Joaquin,38.0297,-120.9297,Waste,California,Calaveras,6009
+Ameresco Santa Cruz Energy,36.9178,-121.8156,Waste,California,Santa Cruz,6087
+Ameresco Stafford,38.3842,-77.4131,Waste,Virginia,Stafford,51179
+Ameresco Vasco Road,37.7544,-121.7289,Waste,California,Alameda,6001
+Ampersand Chowchilla Biomass LLC,37.1067,-120.2485,Waste,California,Madera,6039
+Anderson Regional Landfill,34.5739,-82.4621,Waste,South Carolina,Anderson,45007
+Apple Campus 2 Fuel Cell,37.33,-122.01,Waste,California,Santa Clara,6085
+Apple Data Center - Fuel Cell 1&2,35.5883,-81.2667,Waste,North Carolina,Catawba,37035
+Atascosita,29.9522,-95.2422,Waste,Texas,Harris,48201
+Athens Energy,44.9455,-69.6607,Waste,Maine,Somerset,23025
+Auburn LFG Energy Facility,42.9441,-76.5939,Waste,New York,Cayuga,36011
+Austin Gas Recovery,30.3344,-97.6217,Waste,Texas,Travis,48453
+BC Landfill Energy LLC,40.0742,-74.6656,Waste,New Jersey,Burlington,34005
+BJ Gas Recovery,33.93,-84.2378,Waste,Georgia,Gwinnett,13135
+BMW Manufacturing Co,34.8942,-82.1783,Waste,South Carolina,Spartanburg,45083
+Bannock County LFG to Energy,42.7878,-112.3656,Waste,Idaho,Bannock,16005
+Bavarian LFGTE,38.8608,-84.6556,Waste,Kentucky,Boone,21015
+Bay County Waste to Energy,30.2661,-85.5207,Waste,Florida,Bay,12005
+Bay Front,46.5872,-90.9017,Waste,Wisconsin,Ashland,55003
+Bay View Cogeneration Facility,41.6883,-83.4847,Waste,Ohio,Lucas,39095
+Beecher Gas Recovery,41.3811,-87.6375,Waste,Illinois,Will,17197
+Bellefontaine Gas Producers LLC,40.4108,-83.7179,Waste,Ohio,Logan,39091
+Benson Power Biomass Plant,45.3224,-95.6295,Waste,Minnesota,Swift,27151
+Berkeley County Landfill,33.1211,-80.0294,Waste,South Carolina,Berkeley,45015
+Berlin Landfill Gas,43.9603,-88.9158,Waste,Wisconsin,Green,55045
+Bethlehem Renewable Energy LLC,40.6216,-75.3102,Waste,Pennsylvania,Northampton,42095
+Bi-County Gas Producers,36.5406,-87.5444,Waste,Kentucky,Christian,21047
+Big Valley Power LLC,41.1325,-121.1372,Waste,California,Shasta,6089
+Biomass One LP,42.4361,-122.85,Waste,Oregon,Jackson,41029
+Biomass to Energy Facility  Kauai,21.9653,-159.4606,Waste,Hawaii,Kauai,15007
+Black Oak Power Producers,37.2319,-92.4539,Waste,Missouri,Wright,29229
+Blackburn Landfill Co-Generation,35.6067,-81.3006,Waste,North Carolina,Catawba,37035
+Blue Lake Power LLC,40.8786,-123.9942,Waste,California,Humboldt,6023
+Blue Ridge Generating,37.7411,-83.9889,Waste,Kentucky,Estill,21065
+Blue Ridge Landfill,39.9619,-77.5611,Waste,Pennsylvania,Franklin,42055
+Blue Water Renewables Inc,42.9158,-82.5945,Waste,Michigan,St Clair,26147
+Bowerman Power LFG  LLC,33.7189,-117.7022,Waste,California,Orange,6059
+Brea Expansion Plant,33.931999999999995,-117.8402,Waste,California,Orange,6059
+Brent Run Generating Station,43.1764,-83.848,Waste,Michigan,Genesee,26049
+Brevard,28.3926,-80.8287,Waste,Florida,Brevard,12009
+Bridgewater Power LP,43.7155,-71.6585,Waste,New Hampshire,Grafton,33009
+Bristol Plant,36.6019,-82.1431,Waste,Tennessee,Sullivan,47163
+Broad Mountain,40.6696,-76.3807,Waste,Pennsylvania,Schuylkill,42107
+Brown County LFGTE Power Station,38.895,-83.90299999999998,Waste,Ohio,Brown,39015
+Brunswick Landfill Gas,36.7639,-77.8108,Waste,Virginia,Brunswick,51025
+Buena Vista Biomass Power,38.2778,-120.9136,Waste,California,Amador,6005
+Burgess BioPower,44.4719,-71.1753,Waste,New Hampshire,Coos,33007
+Burney Forest Products,40.8797,-121.7203,Waste,California,Shasta,6089
+CC Landfill Energy  LLC,36.3587,-114.8748,Waste,Nevada,Clark,32003
+CID Gas Recovery,41.6588,-87.5777,Waste,Illinois,Cook,17031
+CII Methane Management III LFG Plant,33.9256,-83.2639,Waste,Georgia,Clarke,13059
+CII Methane Management IV  LLC,35.5119,-78.4338,Waste,North Carolina,Johnston,37101
+COC Surry LFG  LLC,36.4386,-80.5683,Waste,North Carolina,Surry,37171
+CPI USA NC Roxboro,36.435,-78.9619,Waste,North Carolina,Person,37145
+CPI USA NC Southport,33.9444,-78.0118,Waste,North Carolina,Brunswick,37019
+CSL Gas Recovery,26.288,-80.1665,Waste,Florida,Broward,12011
+CT Resource Rec Authority Facility,41.7505,-72.653,Waste,Connecticut,Hartford,9003
+Cadillac Renewable Energy,44.2617,-85.4352,Waste,Michigan,Wexford,26165
+Calabasas Gas to Energy Facility,34.1511,-118.7236,Waste,California,Los Angeles,6037
+Camden Resource Recovery Facility,39.9092,-75.1169,Waste,New Jersey,Camden,34007
+Carbon Limestone,40.9975,-80.5208,Waste,Pennsylvania,Lawrence,42073
+Cedar Hills,47.4558,-122.0428,Waste,Washington,King,53033
+Chaffee Gas Recovery,42.5831,-78.4864,Waste,New York,Cattaraugus,36009
+Charles City,37.4389,-77.1286,Waste,Virginia,Charles City,51036
+Chautauqua LFGTE Facility,42.1989,-79.3186,Waste,New York,Chautauqua,36013
+Chesterfield Landfill Gas,37.3517,-77.4969,Waste,Virginia,Chesterfield,51041
+Chestnut Ridge Gas Recovery,36.1172,-84.0317,Waste,Tennessee,Anderson,47001
+Cinnamon Bay Edgeboro Landfill,40.4653,-74.3939,Waste,New Jersey,Middlesex,34023
+Clark-Floyd Landfill Gas Generating,38.4564,-85.8375,Waste,Indiana,Clark,18019
+Clewiston Sugar House,26.7351,-80.9377,Waste,Florida,Hendry,12051
+Clinton LFGTE,40.1208,-88.9611,Waste,Illinois,De Witt,17039
+Clinton LFGTE Facility,44.6917,-73.5944,Waste,New York,Clinton,36019
+Co-Gen II LLC,42.9611,-123.3591,Waste,Oregon,Douglas,41019
+Co-Gen LLC,44.4587,-118.7206,Waste,Oregon,Grant,41023
+Coastal Plains,29.4275,-95.1876,Waste,Texas,Brazoria,48039
+Coffin Butte,44.6969,-123.2234,Waste,Oregon,Linn,41043
+Cold Canyon 1,35.1867,-120.5994,Waste,California,San Luis Obispo,6079
+Collins Pine Project,40.3034,-121.2444,Waste,California,Plumas,6063
+Colonie LFGTE Facility,42.8033,-73.7267,Waste,New York,Albany,36001
+Columbia Flooring Melbourne,36.0605,-91.9198,Waste,Arkansas,Izard,5065
+Commerce Refuse To Energy,33.9949,-118.1538,Waste,California,Los Angeles,6037
+Concord Energy,35.346,-80.6704,Waste,North Carolina,Cabarrus,37025
+Cosmo Specialty Fibers Plant,46.9541,-123.7611,Waste,Washington,Grays Harbor,53027
+Countyside Genco LLC,42.3211,-88.0319,Waste,Illinois,Lake,17097
+Covanta Alexandria/Arlington Energy,38.8014,-77.1288,Waste,Virginia,Fairfax,51059
+Covanta Babylon Inc,40.7348,-73.3868,Waste,New York,Suffolk,36103
+Covanta Bristol Energy,41.6492,-72.9153,Waste,Connecticut,Hartford,9003
+Covanta Delano Energy,35.7144,-119.2337,Waste,California,Kern,6029
+Covanta Delaware Valley,39.8265,-75.3882,Waste,Pennsylvania,Delaware,42045
+Covanta Essex Company,40.7376,-74.1255,Waste,New Jersey,Hudson,34017
+Covanta Fairfax Energy,38.695,-77.2411,Waste,Virginia,Fairfax,51059
+Covanta Haverhill,42.765,-71.1242,Waste,Massachusetts,Essex,25009
+Covanta Hempstead,40.7389,-73.5906,Waste,New York,Nassau,36059
+Covanta Hennepin Energy,44.9833,-93.2804,Waste,Minnesota,Hennepin,27053
+Covanta Indianapolis Energy,39.7345,-86.1891,Waste,Indiana,Marion,18097
+Covanta Lake County Energy,28.7402,-81.8892,Waste,Florida,Lake,12069
+Covanta Marion Inc,45.0485,-122.9628,Waste,Oregon,Marion,41047
+Covanta Mendota,36.7559,-120.3654,Waste,California,Fresno,6019
+Covanta Niagara I  LLC,43.0839,-79.0056,Waste,New York,Niagara,36063
+Covanta Plymouth Renewable Energy,40.0967,-75.3103,Waste,Pennsylvania,Montgomery,42091
+Covanta Southeastern Connecticut Company,41.475,-72.0688,Waste,Connecticut,New London,9011
+Covanta Stanislaus Energy,37.3853,-121.141,Waste,California,Stanislaus,6099
+Covanta Tulsa Renewable Energy LLC,36.1319,-96.0181,Waste,Oklahoma,Tulsa,40143
+Covanta Warren Energy,40.8205,-75.0112,Waste,New Jersey,Warren,34041
+Covel Gardens Gas Recovery,29.3467,-98.6536,Waste,Texas,Bexar,48029
+Covington Facility,37.7997,-79.9947,Waste,Virginia,Covington City,51580
+Cox Waste to Energy,37.3208,-85.3611,Waste,Kentucky,Taylor,21217
+Craven County Wood Energy LP,35.1302,-77.1679,Waste,North Carolina,Craven,37049
+Croda Atlas Point CHP,39.6933,-75.5431,Waste,Delaware,New Castle,10003
+Cumberland County PA LFG Recovery,40.1356,-77.5072,Waste,Pennsylvania,Cumberland,42041
+Cumberland County Solid Waste Complex,39.4494,-75.0928,Waste,New Jersey,Cumberland,34011
+DADS Gas Recovery,39.6522,-104.7161,Waste,Colorado,Arapahoe,8005
+DANC LFGTE Facility,43.82,-75.9175,Waste,New York,Jefferson,36045
+DFW Gas Recovery,33.0196,-96.962,Waste,Texas,Denton,48121
+DG Whitefield LLC,44.358,-71.5449,Waste,New Hampshire,Coos,33007
+Dane County Landfill #2 Rodefeld,43.0453,-89.2539,Waste,Wisconsin,Dane,55025
+Darrington,48.2697,-121.6,Waste,Washington,Snohomish,53061
+Dart Container Corp,40.0865,-76.176,Waste,Pennsylvania,Lancaster,42071
+Davidson Gas Producers LLC,35.8413,-80.1835,Waste,North Carolina,Davidson,37057
+Decatur-Morgan Co LFG Recovery Project,34.6236,-87.1011,Waste,Alabama,Morgan,1103
+Deertrack Park Gas Recovery,43.09,-88.7397,Waste,Wisconsin,Jefferson,55055
+Denton Power LLC,33.1919,-97.0761,Waste,Texas,Denton,48121
+Des Plaines Gas Recovery,42.0671,-87.8862,Waste,Illinois,Cook,17031
+Desert View Power,33.586,-116.0873,Waste,California,Riverside,6065
+Dillard Complex,43.0895,-123.4156,Waste,Oregon,Douglas,41019
+Dinuba Energy,36.5715,-119.4192,Waste,California,Fresno,6019
+Domtar Paper Co LLC Plymouth NC,35.8628,-76.7831,Waste,North Carolina,Washington,37187
+Dorchester Biomass,33.2386,-80.4503,Waste,South Carolina,Orangeburg,45075
+Douglas County Forest Products,43.2898,-123.3616,Waste,Oregon,Douglas,41019
+Dry Creek LFG to Energy Project,42.3844,-122.7718,Waste,Oregon,Jackson,41029
+Dutchess Cnty Resource Recovery Facility,41.647,-73.943,Waste,New York,Dutchess,36027
+EKS Landfill,44.7806,-93.3094,Waste,Minnesota,Scott,27139
+Eagle Valley (MI),42.7225,-83.2631,Waste,Michigan,Oakland,26125
+Eagle Valley Clean Energy LLC Biomass,39.6481,-106.9431,Waste,Colorado,Eagle,8037
+Earthmovers LFGTE,41.6229,-85.9752,Waste,Indiana,Elkhart,18039
+East Millinocket Mill,45.6219,-68.5756,Waste,Maine,Penobscot,23019
+Eastern Correctional Institute,38.159,-75.704,Waste,Maryland,Somerset,24039
+Eastern Landfill Gas LLC,39.3897,-76.392,Waste,Maryland,Baltimore,24005
+El Nido Facility,37.1867,-120.4903,Waste,California,Merced,6047
+Elk City Station,41.3839,-96.2544,Waste,Nebraska,Douglas,31055
+Enderlin,46.6144,-97.5765,Waste,North Dakota,Ransom,38073
+Enoree Phase II Landfill Gas Recovery,34.8008,-82.1847,Waste,South Carolina,Greenville,45045
+Enterprise Sugar Factory,29.9036,-91.7256,Waste,Louisiana,Iberia,22045
+Evergreen BioPower LLC,44.7708,-122.612,Waste,Oregon,Linn,41043
+Evergreen Community Power,40.3256,-75.9228,Waste,Pennsylvania,Berks,42011
+FC Landfill Energy,39.3678,-77.3489,Waste,Maryland,Frederick,24021
+Fairhaven Power,40.7995,-124.2028,Waste,California,Humboldt,6023
+Fairless Hills,40.1405,-74.7506,Waste,New Jersey,Burlington,34005
+Farmers Branch Renewable Energy Facility,33.0311,-96.9572,Waste,Texas,Denton,48121
+Fernandina Plant,30.6612,-81.473,Waste,Florida,Nassau,12089
+Fiber Recovery  Inc.,44.8875,-89.3859,Waste,Wisconsin,Marathon,55073
+Fighting Creek LFGTE Plant,47.5317,-116.93,Waste,Idaho,Kootenai,16055
+Finch Paper,43.3084,-73.6376,Waste,New York,Warren,36113
+Finley Buttes Landfill Gas,45.69,-119.61,Waste,Oregon,Morrow,41049
+Fitchburg Gas Recovery,42.5354,-71.8481,Waste,Massachusetts,Worcester,25027
+Five Oaks Gas Recovery,39.5678,-89.3683,Waste,Illinois,Christian,17021
+Flambeau River Papers,45.9356,-90.4472,Waste,Wisconsin,Price,55099
+Florence Mill,34.1497,-79.5606,Waste,South Carolina,Florence,45041
+Four Peaks Camino Real,31.8111,-106.5933,Waste,New Mexico,Dona Ana,35013
+Frederick County LFGTE Facility,39.1408,-78.0975,Waste,Virginia,Winchester City,51840
+Frey Farm Landfill,39.9589,-76.4442,Waste,Pennsylvania,Lancaster,42071
+Front Range Project,40.0294,-105.0047,Waste,Colorado,Boulder,8013
+Fulton LFGTE Facility,43.0142,-74.4739,Waste,New York,Fulton,36035
+G2 Energy Hay Rd,38.3147,-121.8336,Waste,California,Solano,6095
+G2 Energy Marion LLC,29.1229,-82.0555,Waste,Florida,Marion,12083
+G2 Energy Ostrom Road LLC,39.0728,-121.3992,Waste,California,Yuba,6115
+GLRA Landfill,40.3664,-76.4931,Waste,Pennsylvania,Lebanon,42075
+GRS Arbor Hills,42.3953,-83.55799999999998,Waste,Michigan,Wayne,26163
+GRS C&C,42.3563,-85.0058,Waste,Michigan,Eaton,26045
+GRS CMS,35.3533,-80.668,Waste,North Carolina,Cabarrus,37025
+GRS Fall River,41.7487,-71.1065,Waste,Massachusetts,Bristol,25005
+GRS Pine Bend,44.787,-93.0556,Waste,Minnesota,Dakota,27037
+Gainesville Renewable Energy Center,29.7675,-82.3964,Waste,Florida,Alachua,12001
+Gaston County Renewable Energy Center,35.3857,-81.172,Waste,North Carolina,Gaston,37071
+Gaylord Container Bogalusa,30.7811,-89.8575,Waste,Louisiana,Washington,22117
+Genesee Power Station LP,43.0851,-83.6694,Waste,Michigan,Genesee,26049
+Geneva,41.795,-80.91,Waste,Ohio,Ashtabula,39007
+Georgetown LFGTE,33.4536,-79.3161,Waste,South Carolina,Georgetown,45043
+Georgia LFG Oak Grove Plant,33.965,-83.7656,Waste,Georgia,Barrow,13013
+Georgia LFG Pine Ridge Plant,33.2442,-84.12200000000001,Waste,Georgia,Henry,13151
+Georgia LFG Richland Creek Plant,34.1271,-84.0334,Waste,Georgia,Gwinnett,13135
+Georgia-Pacific Big Island,37.534,-79.357,Waste,Virginia,Rockbridge,51163
+Glades Pike Generation Plant,40.0067,-79.041,Waste,Pennsylvania,Somerset,42111
+Glasgow LFGTE,36.9874,-85.9575,Waste,Kentucky,Barren,21009
+Glendale Energy Power Plant,33.5403,-112.3064,Waste,Arizona,Maricopa,4013
+Granby LFG,42.2273,-72.5472,Waste,Massachusetts,Hampshire,25015
+Grand Blanc Generating Station,42.9088,-83.7251,Waste,Michigan,Genesee,26049
+Granger Electric Generating Station #1,42.7729,-84.5237,Waste,Michigan,Ingham,26065
+Granger Electric Generating Station #2,42.791,-84.6957,Waste,Michigan,Clinton,26037
+Granger Electric of Watervliet,42.1758,-86.28,Waste,Michigan,Berrien,26021
+Granger Energy of Morgantown,40.1746,-75.9137,Waste,Pennsylvania,Lancaster,42071
+Grayling Generating Station,44.6049,-84.6906,Waste,Michigan,Crawford,26039
+Greater Detroit Resource Recovery,42.3678,-83.0514,Waste,Michigan,Wayne,26163
+Greater New Bedford LFG Utiliz. Facility,41.725,-70.97800000000002,Waste,Massachusetts,Bristol,25005
+Green City Recovery  LLC,38.3453,-84.5489,Waste,Kentucky,Scott,21209
+Green Gas-Port Charlotte LLC,26.7908,-81.9653,Waste,Florida,Lee,12071
+Green Knight Energy Center,40.8592,-75.2627,Waste,Pennsylvania,Northampton,42095
+Green Valley LFGTE,38.3967,-82.8088,Waste,Kentucky,Boyd,21019
+H Power,21.3,-158.0986,Waste,Hawaii,Honolulu,15003
+HL Power,40.3683,-120.2648,Waste,California,Lassen,6035
+Halifax County Biomass,36.7014,-78.8733,Waste,Virginia,Halifax,51083
+Hardin County LFGTE,37.7258,-85.7258,Waste,Kentucky,Bullitt,21029
+Harrisburg Facility,40.2442,-76.8539,Waste,Pennsylvania,Dauphin,42043
+Henrico,37.6788,-77.5678,Waste,Virginia,Henrico,51087
+Hernando,28.669,-82.4857,Waste,Florida,Citrus,12017
+Hidden Hollow Energy,43.6972,-116.2714,Waste,Idaho,Ada,16001
+High Acres Gas Recovery,43.0817,-77.3817,Waste,New York,Monroe,36055
+Hill AFB LFG Facility  Bldg #737,41.129,-111.9641,Waste,Utah,Davis,49011
+Hillman Power LLC,45.0688,-83.8932,Waste,Michigan,Montmorency,26119
+Hillsborough County Resource Recovery,27.9549,-82.3405,Waste,Florida,Hillsborough,12057
+Hoge Lumber,40.4885,-84.3183,Waste,Ohio,Auglaize,39011
+Hopewell Power Station,37.2978,-77.283,Waste,Virginia,Hopewell City,51670
+Horry Land Fill Gas Site,33.8125,-78.9672,Waste,South Carolina,Horry,45051
+Humboldt Sawmill Company,40.4728,-124.1014,Waste,California,Humboldt,6023
+Huntington Resource Recovery Facility,40.8814,-73.2906,Waste,New York,Suffolk,36103
+Hyland LFGTE Facility,42.2853,-78.0061,Waste,New York,Allegany,36003
+I 95 Landfill Phase II,38.6892,-77.2375,Waste,Virginia,Fairfax,51059
+I 95 Municipal Landfill Phase I,38.6892,-77.2375,Waste,Virginia,Fairfax,51059
+Indeck Energy-Alexandria,43.5608,-71.7806,Waste,New Hampshire,Grafton,33009
+Indeck Jonesboro Energy Center,44.6781,-67.5477,Waste,Maine,Washington,23029
+Indeck West Enfield Energy Center,45.2537,-68.6279,Waste,Maine,Penobscot,23019
+Ingredion Winston Salem,36.0338,-80.2274,Waste,North Carolina,Forsyth,37067
+International Paper Augusta Mill,33.3283,-81.9531,Waste,Georgia,Richmond,13245
+International Paper Georgetown Mill,33.3602,-79.3026,Waste,South Carolina,Georgetown,45043
+Iredell County LFG Facility,35.7693,-80.82600000000002,Waste,North Carolina,Iredell,37097
+J C McNeil,44.4917,-73.2081,Waste,Vermont,Chittenden,50007
+J&A-Santa Maria II LLC,34.9494,-120.3803,Waste,California,Santa Barbara,6083
+JBER Landfill Gas Power Plant,61.286,-149.61,Waste,Alaska,Anchorage,2020
+JED Solid Waste Mgmt Renewable Energy,28.0638,-81.0972,Waste,Florida,Osceola,12097
+Jay County LFGTE,40.3797,-85.0882,Waste,Indiana,Jay,18075
+John H Warden,46.7553,-88.4558,Waste,Michigan,Baraga,26013
+Johnston LFG Turbine Plant,41.8033,-71.5233,Waste,Rhode Island,Providence,44007
+Kaiser Downey,33.9192,-118.1286,Waste,California,Los Angeles,6037
+Kankakee Gas Recovery,41.0333,-87.8678,Waste,Illinois,Kankakee,17091
+Kapstone,32.9,-79.9667,Waste,South Carolina,Charleston,45019
+Kent County Waste to Energy Facility,42.9496,-85.6932,Waste,Michigan,Kent,26081
+Kettle Falls Generating Station,48.6203,-118.1111,Waste,Washington,Stevens,53065
+Keystone Recovery,41.4363,-75.5984,Waste,Pennsylvania,Lackawanna,42069
+Kiefer Landfill,38.5136,-121.1944,Waste,California,Sacramento,6067
+King & Queen,37.6711,-76.76,Waste,Virginia,King and Queen,51097
+Koda Biomass Plant,44.7956,-93.5386,Waste,Minnesota,Scott,27139
+L&S Sweetners,40.0906,-76.1456,Waste,Pennsylvania,Lancaster,42071
+LRI LFGTE Facility,46.9756,-122.2906,Waste,Washington,Pierce,53053
+Lake Gas Recovery,42.1063,-87.8137,Waste,Illinois,Cook,17031
+Lake Mills Gas Recovery,43.3864,-93.5589,Waste,Iowa,Winnebago,19189
+Lakeview Gas Recovery,42.0602,-80.0208,Waste,Pennsylvania,Erie,42049
+Lancaster County Resource Recovery,40.0711,-76.6436,Waste,Pennsylvania,Lancaster,42071
+Lanchester Generating Station,40.1108,-75.9547,Waste,Pennsylvania,Lancaster,42071
+Laurel Ridge LFGTE,37.035,-84.0933,Waste,Kentucky,Laurel,21125
+Lee County Landfill,34.181,-80.2678,Waste,South Carolina,Lee,45061
+Lee County Solid Waste Energy,26.6315,-81.7607,Waste,Florida,Lee,12071
+Lennon Generating,42.9817,-83.9794,Waste,Michigan,Shiawassee,26155
+Liberty I & II LFGTE,40.8856,-86.7044,Waste,Indiana,White,18181
+Lincoln Landfill,38.8381,-121.3419,Waste,California,Placer,6061
+Livingston Generating Facility,40.9314,-88.6548,Waste,Illinois,Livingston,17105
+Loraine County Project,41.3006,-82.1803,Waste,Ohio,Lorain,39093
+Lumberton,34.59,-78.9968,Waste,North Carolina,Robeson,37155
+Lycoming County,41.1511,-76.9178,Waste,Pennsylvania,Lycoming,42081
+M L Hibbard,46.7353,-92.1517,Waste,Wisconsin,Douglas,55031
+MAS ASB Cogen Plant,33.655,-84.3944,Waste,Georgia,Fulton,13121
+MM Albany Energy,42.7044,-73.8509,Waste,New York,Albany,36001
+MM Hartford Energy,41.7861,-72.6544,Waste,Connecticut,Hartford,9003
+MM Lopez Energy,34.2925,-118.3894,Waste,California,Los Angeles,6037
+MM Prince William Energy,38.6383,-77.4147,Waste,Virginia,Prince William,51153
+MM San Diego-Miramar,32.8448,-117.1627,Waste,California,San Diego,6073
+MM San Diego-North City,32.8817,-117.1958,Waste,California,San Diego,6073
+MM Taunton Energy,41.9231,-71.0864,Waste,Massachusetts,Bristol,25005
+MM Tulare Energy,36.38800000000001,-119.394,Waste,California,Tulare,6107
+MM West Covina,34.0332,-117.9061,Waste,California,Los Angeles,6037
+MM Yolo Power,38.5963,-121.6875,Waste,California,Yolo,6113
+MMWAC Resource Recovery Facility,44.0678,-70.2608,Waste,Maine,Androscoggin,23001
+MP Durham LLC,36.0311,-78.86,Waste,North Carolina,Durham,37063
+MP Wayne LLC,35.2889,-78.0703,Waste,North Carolina,Wayne,37191
+MacArthur Waste to Energy Facility,40.7869,-73.1064,Waste,New York,Suffolk,36103
+Mahoning,40.9144,-80.5861,Waste,Ohio,Mahoning,39099
+Manatee County LFGTE,27.4689,-82.4508,Waste,Florida,Manatee,12081
+Marina Landfill Gas,36.7131,-121.7686,Waste,California,Monterey,6053
+Martinsville LFG Generator,36.7172,-79.8453,Waste,Virginia,Martinsville City,51690
+McKay Bay Facility,27.9495,-82.4212,Waste,Florida,Hillsborough,12057
+McKinley Paper Co. - Washington Mill,48.1347,-123.4656,Waste,Washington,Clallam,53009
+Medford Operation,42.3555,-122.9046,Waste,Oregon,Jackson,41029
+Mesquite Creek LFGTE Project,29.7372,-98.0228,Waste,Texas,Guadalupe,48187
+Mesquite Lake Energy Park Plant 2,32.9038,-115.5119,Waste,California,Imperial,6025
+Mesquite Lake Water & Power Plant 1,32.9066,-115.5137,Waste,California,Imperial,6025
+Metro Gas Recovery,42.8506,-88.0697,Waste,Wisconsin,Milwaukee,55079
+Metro Methane Recovery Facility,41.5989,-93.355,Waste,Iowa,Polk,19153
+Miami Dade County Resource Recovery Fac,25.8356,-80.3566,Waste,Florida,Miami-Dade,12086
+Middlebury College,44.0075,-73.1769,Waste,Vermont,Addison,50001
+Middlesex Generating Facility,40.4903,-74.3156,Waste,New Jersey,Middlesex,34023
+Mill Seat Renewable Energy Facility,43.0637,-77.9329,Waste,New York,Genesee,36037
+Millersville LFG,39.0847,-76.6764,Waste,Maryland,Anne Arundel,24003
+Missouri Center for Waste to Energy,38.7247,-93.2789,Waste,Missouri,Pettis,29159
+Mobile Energy Services LLC,30.7365,-88.0516,Waste,Alabama,Mobile,1097
+Model City Energy Facility,43.2094,-78.9836,Waste,New York,Niagara,36063
+Model Gas Power Station,39.8908,-83.0272,Waste,Ohio,Franklin,39049
+Modern Innovative Energy LLC,43.2094,-78.9836,Waste,New York,Niagara,36063
+Monmouth Landfill Gas to Energy,40.2468,-74.1174,Waste,New Jersey,Monmouth,34025
+Monroe Livingston Gas Recovery,42.9903,-77.8011,Waste,New York,Livingston,36051
+Montgomery County Oaks LFGE Plant,39.1937,-77.1189,Waste,Maryland,Montgomery,24031
+Montgomery County Resource Recovery,39.2006,-77.4556,Waste,Maryland,Montgomery,24031
+Moretown,44.3122,-72.7114,Waste,Vermont,Washington,50023
+Morris Genco LLC,41.3776,-88.4012,Waste,Illinois,Grundy,17063
+Mountain View,39.8014,-77.7883,Waste,Pennsylvania,Franklin,42055
+Mt Poso Cogeneration,35.5763,-119.0062,Waste,California,Kern,6029
+Multitrade Rabun Gap  LLC,34.9536,-83.3786,Waste,Georgia,Rabun,13241
+Multitrade of Pittsylvania LP,37.1041,-79.277,Waste,Virginia,Campbell,51031
+Munster Landfill Gas-to-Energy,41.5244,-87.5091,Waste,Illinois,Cook,17031
+Nacogdoches Power,31.8321,-94.9006,Waste,Texas,Cherokee,48073
+Nanticoke LFG,42.2437,-75.9825,Waste,New York,Broome,36007
+Nashua Plant,42.7323,-71.5224,Waste,New Hampshire,Hillsborough,33011
+Nelson Gardens Landfill Gas to Energy,29.33,-98.66,Waste,Texas,Bexar,48029
+New Bern,35.1681,-77.2267,Waste,North Carolina,Craven,37049
+New Milford Gas Recovery,41.5477,-73.4252,Waste,Connecticut,Litchfield,9005
+New River,37.183,-80.699,Waste,Virginia,Pulaski,51155
+Nippon Dynawave Packaging Longview WA,46.1236,-122.9728,Waste,Washington,Cowlitz,53015
+Noble Hill Landfill,37.3811,-93.3514,Waste,Missouri,Greene,29077
+North City Cogeneration Facility,32.8778,-117.1978,Waste,California,San Diego,6073
+Norther Tier Landfill,41.7792,-76.6258,Waste,Pennsylvania,Bradford,42015
+Northwest Regional,33.6819,-112.4767,Waste,Arizona,Maricopa,4013
+Nove Power Plant,37.9676,-122.382,Waste,California,Contra Costa,6013
+Novo BioPower Plant,34.5032,-110.335,Waste,Arizona,Navajo,4017
+Oak Grove Power Producers,37.6297,-94.6414,Waste,Kansas,Crawford,20037
+Oak Ridge LFGTE,40.7213,-86.3421,Waste,Indiana,Cass,18017
+Ocean County Landfill,40.0249,-74.2501,Waste,New Jersey,Ocean,34029
+Okeelanta Cogeneration,26.5769,-80.7469,Waste,Florida,Palm Beach,12099
+Olinda Landfill Gas Recovery Plant,33.9056,-117.8439,Waste,California,Orange,6059
+Olmsted Waste Energy,44.0261,-92.4323,Waste,Minnesota,Olmsted,27109
+Omega Hills Gas Recovery,43.1922,-88.1597,Waste,Wisconsin,Waukesha,55133
+Onalaska Campus Landfill Biogas,43.8739,-91.18,Waste,Wisconsin,La Crosse,55063
+Oneida Herkimer,43.4622,-75.4183,Waste,New York,Oneida,36065
+Onondaga County Resource Recovery,43.0047,-76.1149,Waste,New York,Onondaga,36067
+Onslow Power Producers,34.7975,-77.5431,Waste,North Carolina,Onslow,37133
+Ontario LFGTE,42.8586,-77.0872,Waste,New York,Ontario,36069
+Orchard Hills Renewable Energy Station,42.1424,-89.079,Waste,Illinois,Ogle,17141
+Oswego County Energy Recovery,43.3488,-76.4252,Waste,New York,Oswego,36075
+Otay Landfill Gas  LLC,32.5983,-117.0178,Waste,California,San Diego,6073
+Ottawa County Project,41.5283,-83.0353,Waste,Ohio,Ottawa,39123
+Ottawa Generating Station,43.0473,-85.9562,Waste,Michigan,Ottawa,26139
+Outagamie County Co-Generation Facility,44.2869,-88.3339,Waste,Wisconsin,Outagamie,55087
+PInova Inc,31.1648,-81.4787,Waste,Georgia,Glynn,13127
+PPL Glendon LFGTE Plant,40.6678,-75.2322,Waste,Pennsylvania,Northampton,42095
+Pacific-Ultrapower Chinese Station,37.8741,-120.4776,Waste,California,Tuolumne,6109
+Palm Beach Renewable Energy Facility 1,26.7714,-80.1419,Waste,Florida,Palm Beach,12099
+Palm Beach Renewable Energy Facility 2,26.7724,-80.1418,Waste,Florida,Palm Beach,12099
+Pasco Cnty Solid Waste Resource Recovery,28.3681,-82.5583,Waste,Florida,Pasco,12101
+Pecan Row Landfill To Electric Facility,30.815,-83.3625,Waste,Georgia,Lowndes,13185
+Pendleton County LFGTE,38.7342,-84.4059,Waste,Kentucky,Pendleton,21191
+Pennsauken Landfill,39.9894,-75.04,Waste,New Jersey,Burlington,34005
+Pennsbury,40.1531,-74.7691,Waste,New Jersey,Burlington,34005
+Penobscot Energy Recovery,44.7383,-68.8258,Waste,Maine,Penobscot,23019
+Peoples Generating Station,43.2797,-83.8651,Waste,Michigan,Saginaw,26145
+Perdido,30.57,-87.39,Waste,Florida,Escambia,12033
+Perham Incinerator,46.5915,-95.5648,Waste,Minnesota,Otter Tail,27111
+Pheasant Run Landfill Gas Recovery,42.5825,-88.0436,Waste,Wisconsin,Kenosha,55059
+Piedmont Green Power,33.0453,-84.1256,Waste,Georgia,Lamar,13171
+Pine Grove,40.5553,-76.3886,Waste,Pennsylvania,Schuylkill,42107
+Pine Tree Acres,42.7645,-82.7471,Waste,Michigan,Macomb,26099
+Pine Tree Acres WM LFGTE,42.765,-82.7456,Waste,Michigan,Macomb,26099
+Pine Tree Landfill Gas to Energy,44.7686,-68.8617,Waste,Maine,Penobscot,23019
+Pinellas County Resource Recovery,27.8733,-82.6741,Waste,Florida,Pinellas,12103
+Pinetree Power,44.3274,-71.68,Waste,New Hampshire,Coos,33007
+Pinetree Power Fitchburg,42.5428,-71.8528,Waste,Massachusetts,Worcester,25027
+Pinetree Power Tamworth,43.8358,-71.1967,Waste,New Hampshire,Carroll,33003
+Pioneer Crossing Energy  LLC,40.275,-75.8167,Waste,Pennsylvania,Berks,42011
+Pioneer Valley Resource Recovery,42.0906,-72.5917,Waste,Massachusetts,Hampden,25013
+Plainfield Renewable Energy LLC,41.6644,-71.9242,Waste,Connecticut,Windham,9015
+Plummer Cogen,47.331,-116.8904,Waste,Idaho,Benewah,16009
+Potrero Hills Energy Producers,38.217,-121.9795,Waste,California,Solano,6095
+Prairie Bluff,33.9544,-88.9925,Waste,Mississippi,Chickasaw,28017
+Prairie View I & II LFGTE,41.4936,-86.1658,Waste,Indiana,Marshall,18099
+Prairie View IL,41.3431,-88.1014,Waste,Illinois,Will,17197
+Prima Plant,33.4949,-117.6146,Waste,California,Orange,6059
+Puente Hills Energy Recovery,34.0233,-118.0241,Waste,California,Los Angeles,6037
+Rapids Energy Center,47.2348,-93.5372,Waste,Minnesota,Itasca,27061
+ReEnergy Ashland,46.6334,-68.4361,Waste,Maine,Aroostook,23003
+ReEnergy Black River,44.0365,-75.77199999999998,Waste,New York,Jefferson,36045
+ReEnergy Fort Fairfield,46.7728,-67.8485,Waste,Maine,Aroostook,23003
+ReEnergy Livermore Falls,44.4317,-70.1619,Waste,Maine,Androscoggin,23001
+ReEnergy Lyonsdale Biomass,43.618,-75.3054,Waste,New York,Oneida,36065
+ReEnergy Stratton LLC,45.1406,-70.4256,Waste,Maine,Franklin,23007
+Red Shield Envir Old Town Facility,44.9181,-68.6355,Waste,Maine,Penobscot,23019
+Red Wing,44.5692,-92.5169,Waste,Minnesota,Goodhue,27049
+Regional Waste Systems,43.6556,-70.3347,Waste,Maine,Cumberland,23005
+Renewable Energy Services of Ohio,41.3362,-82.602,Waste,Ohio,Erie,39043
+Reventure Park,35.2944,-80.9989,Waste,North Carolina,Gaston,37071
+Richland County Landfill,34.103,-80.7905,Waste,South Carolina,Kershaw,45055
+Richmond Energy,37.5058,-77.3739,Waste,Virginia,Henrico,51087
+Ridgeview,44.175,-87.8285,Waste,Wisconsin,Manitowoc,55071
+Ridgewood Providence Power,41.8069,-71.53,Waste,Rhode Island,Providence,44007
+Rio Bravo Fresno,36.6889,-119.7232,Waste,California,Fresno,6019
+Rio Bravo Rocklin,38.8319,-121.3137,Waste,California,Placer,6061
+Rio Grande Valley Sugar Growers,26.2697,-97.867,Waste,Texas,Cameron,48061
+Riverbend Landfill,45.1672,-123.2511,Waste,Oregon,Yamhill,41071
+Riverview Energy Systems,42.1661,-83.2129,Waste,Michigan,Wayne,26163
+Riverwood International Macon Mill,32.7714,-83.6281,Waste,Georgia,Bibb,13021
+Robeson County LFG to Energy,34.791,-78.9088,Waste,North Carolina,Robeson,37155
+Rochelle Energy Center,41.9247,-88.9986,Waste,Illinois,Ogle,17141
+Roosevelt Biogas 1,45.8015,-120.1672,Waste,Washington,Yakima,53077
+Roseburg Forest Products Biomass,41.4356,-122.3769,Waste,California,Siskiyou,6093
+Roseburg LFG,43.1861,-123.3803,Waste,Oregon,Douglas,41019
+Rothschild Biomass Cogen Facility,44.8878,-89.6297,Waste,Wisconsin,Marathon,55073
+Ryegate Power Station,44.2131,-72.0572,Waste,New Hampshire,Grafton,33009
+S D Warren Westbrook,43.6849,-70.3532,Waste,Maine,Cumberland,23005
+SC Landfill Energy LLC,39.5889,-75.3764,Waste,New Jersey,Salem,34033
+SDS Lumber Gorge Energy Division,45.7131,-121.4692,Waste,Washington,Klickitat,53039
+SECCRA Community Landfill,39.8639,-75.8428,Waste,Pennsylvania,Chester,42029
+SEMASS Resource Recovery,41.8022,-70.7875,Waste,Massachusetts,Plymouth,25023
+SMMPA Methane Energy Facility,45.8478,-93.3542,Waste,Minnesota,Kanabec,27065
+SPI Anderson 2,40.4723,-122.3242,Waste,California,Shasta,6089
+SREC Bath LFGTE,42.3223,-77.3856,Waste,New York,Steuben,36101
+SX Landfill Energy LLC,41.0936,-74.6788,Waste,New Jersey,Sussex,34037
+Salem Energy Systems LLC,36.1912,-80.1835,Waste,North Carolina,Forsyth,37067
+Salt Lake Energy Systems,40.7461,-112.0339,Waste,Utah,Salt Lake,49035
+Sampson County Disposal,34.9856,-78.4625,Waste,North Carolina,Sampson,37163
+Santa Cruz Energy,36.9733,-122.1056,Waste,California,Santa Cruz,6087
+Santa Maria LFG Power Plant,34.9537,-120.4142,Waste,California,Santa Barbara,6083
+Sappi Cloquet Mill,46.7243,-92.4298,Waste,Minnesota,Carlton,27017
+Sarasota County LFGTE Facility,27.20300000000001,-82.387,Waste,Florida,Sarasota,12115
+Sauder Power Plant,41.5152,-84.2935,Waste,Ohio,Fulton,39051
+Savannah River Site Biomass Cogen,33.2833,-81.6667,Waste,South Carolina,Aiken,45003
+Security,30.3225,-95.2681,Waste,Texas,Montgomery,48339
+Seminole Energy,28.7902,-81.089,Waste,Florida,Seminole,12117
+Seneca Energy,42.9281,-76.8408,Waste,New York,Seneca,36099
+Seneca Sustainable Energy LLC,44.1163,-123.179,Waste,Oregon,Lane,41039
+Settlers Hill Gas Recovery,41.8719,-88.2877,Waste,Illinois,Kane,17089
+Short Mountain,43.9621,-122.9974,Waste,Oregon,Lane,41039
+Sierra Pacific Aberdeen,46.9728,-123.7739,Waste,Washington,Grays Harbor,53027
+Sierra Pacific Burlington Facility,48.4481,-122.4331,Waste,Washington,Skagit,53057
+Sierra Pacific Burney Facility,40.8767,-121.7016,Waste,California,Shasta,6089
+Sierra Pacific Lincoln Facility,38.9032,-121.3097,Waste,California,Placer,6061
+Sierra Pacific Loyalton Facility,39.6699,-120.2394,Waste,Nevada,Washoe,32031
+Sierra Pacific Quincy Facility,39.9412,-120.9092,Waste,California,Plumas,6063
+Sierra Pacific Sonora,37.9664,-120.3178,Waste,California,Tuolumne,6109
+Skyline Gas Recovery,32.5397,-96.6653,Waste,Texas,Ellis,48139
+Snider Industries,32.5747,-94.3739,Waste,Texas,Harris,48201
+Sonoma Central Landfill Phase I,38.3017,-122.7489,Waste,California,Sonoma,6097
+Sonoma Central Landfill Phase II,38.3017,-122.7489,Waste,California,Sonoma,6097
+Sonoma Central Landfill Phase III,38.3017,-122.7489,Waste,California,Sonoma,6097
+South Kent Generating Station,42.7814,-85.6728,Waste,Michigan,Kent,26081
+Southampton Power Station,36.6525,-76.9953,Waste,Virginia,Franklin,51067
+Southbridge Landfill Gas-to-Energy,42.1044,-72.0325,Waste,Massachusetts,Worcester,25027
+Southeast Berrien Generating Facility,41.8086,-86.3239,Waste,Michigan,Berrien,26021
+Southeast Resource Recovery,33.7592,-118.2399,Waste,California,Los Angeles,6037
+Spokane Waste to Energy,47.6263,-117.5042,Waste,Washington,Spokane,53063
+Springfield Power LLC,43.4429,-72.056,Waste,New Hampshire,Sullivan,33019
+Springhill Gas Recovery Plant,30.9283,-85.4261,Waste,Florida,Jackson,12063
+Spruce Ridge Gas Recovery,44.8158,-94.2489,Waste,Minnesota,McLeod,27085
+St Joseph Landfill Generating Station,39.6744,-94.7761,Waste,Missouri,Buchanan,29021
+St Paul Cogeneration,44.9429,-93.0966,Waste,Minnesota,Ramsey,27123
+Stockton Biomass,37.9436,-121.3304,Waste,California,San Joaquin,6077
+Stoltze CoGen1,48.3877,-114.2409,Waste,Montana,Flathead,30029
+Suburban Landfill Gas Recovery,39.9124,-82.245,Waste,Ohio,Perry,39127
+Suffolk Energy Partners LP,36.7589,-76.4961,Waste,Virginia,Suffolk City,51800
+Sumpter Energy Associates,42.1057,-83.4988,Waste,Michigan,Wayne,26163
+Sunnyvale City of WPCP,37.4194,-122.0153,Waste,California,Santa Clara,6085
+Sunshine Gas Producers,34.3357,-118.5192,Waste,California,Los Angeles,6037
+Superior Landfill Gas Recovery,32.0303,-81.2722,Waste,Georgia,Chatham,13051
+Sycamore Energy 1,32.8577,-117.0288,Waste,California,San Diego,6073
+Tajiguas Plant,34.4383,-119.9397,Waste,California,Santa Barbara,6083
+Tamarack Energy Partnership,44.9549,-116.3871,Waste,Idaho,Ada,16001
+Taylor,32.4522,-84.3872,Waste,Georgia,Taylor,13269
+Tazewell Gas Recovery,40.6817,-89.5167,Waste,Illinois,Tazewell,17179
+Telogia Power,30.3349,-84.8182,Waste,Florida,Liberty,12077
+Tessman Road,29.4289,-98.3433,Waste,Texas,Bexar,48029
+Thermal Energy Development Part LP,37.7199,-121.4887,Waste,California,San Joaquin,6077
+Timberline Trail Gas Recovery,45.4533,-91.3583,Waste,Wisconsin,Rusk,55107
+Trail Ridge Landfill Gas Recovery,30.228,-82.0409,Waste,Florida,Baker,12003
+Trans-Jordan Generating Station,40.55,-112.0631,Waste,Utah,Salt Lake,49035
+Tullytown,40.1514,-74.7806,Waste,New Jersey,Burlington,34005
+Tulsa LFG LLC,36.162,-96.1865,Waste,Oklahoma,Tulsa,40143
+Turnkey Landfill Gas Recovery,43.2416,-70.9664,Waste,New Hampshire,Strafford,33017
+Twin Bridges LFGTE,39.745,-86.4947,Waste,Indiana,Hendricks,18063
+Two Pine Landfill Gas Recovery,34.8332,-92.1571,Waste,Arkansas,Pulaski,5119
+UNC-CH LFG Facility,35.9386,-79.0592,Waste,North Carolina,Orange,37135
+UNH 7.9 MW Plant,43.1367,-70.9361,Waste,New Hampshire,Strafford,33017
+Union County Resource Recovery,40.6013,-74.2664,Waste,New Jersey,Union,34039
+Union Renewable Energy Facility,34.6158,-81.8187,Waste,South Carolina,Laurens,45059
+Uwharrie Mountain Renewable,35.333,-79.9649,Waste,North Carolina,Montgomery,37123
+Venice Resources Gas Recovery,42.985,-83.9764,Waste,Michigan,Shiawassee,26155
+Veolia ES Blackfoot Landfill Facility,38.3272,-87.2006,Waste,Indiana,Gibson,18051
+Verso Paper Quinnesec Mich Mill,45.7956,-87.9556,Waste,Michigan,Dickinson,26043
+Viking Energy of Lincoln,44.68,-83.4167,Waste,Michigan,Alcona,26001
+Viking Energy of McBain,44.20399999999999,-85.2206,Waste,Michigan,Missaukee,26113
+Virginia,47.5224,-92.541,Waste,Minnesota,St Louis,27137
+Virginia Beach,36.7858,-76.2019,Waste,Virginia,Chesapeake City,51550
+Wadham Energy LP,39.1062,-122.1096,Waste,California,Colusa,6011
+Wake County LFG Facility,35.674,-78.854,Waste,North Carolina,Wake,37183
+Waste Management Arden LFGTE,40.2058,-80.2611,Waste,Pennsylvania,Washington,42125
+Waste Management Bethel LFGTE,37.0764,-76.4444,Waste,Virginia,Newport News City,51700
+Waste Management Columbia Ridge LFGTE,45.5739,-120.2969,Waste,Oregon,Gilliam,41021
+Waste Management Crossroads LFGTE,44.7014,-69.8319,Waste,Maine,Somerset,23025
+Waste Management Eco Vista LFGTE,36.1408,-94.2597,Waste,Arkansas,Washington,5143
+Waste Management King George LFGTE,38.2747,-77.3081,Waste,Virginia,King George,51099
+Waste Management Lockwood LFGTE,39.4933,-119.6203,Waste,Nevada,Washoe,32031
+Waste Management Madison County LFGTE,43.0336,-75.7028,Waste,New York,Madison,36053
+Waste Management Middle Peninsula LFGTE,37.5197,-76.6245,Waste,Virginia,Middlesex,51119
+Waste Management Naples LFGTE Project,26.1558,-81.6581,Waste,Florida,Collier,12021
+Waste Management Northern Oaks LFGTE,43.9906,-84.8003,Waste,Michigan,Clare,26035
+Waste Management Piedmont LFGTE Project,36.1936,-80.0406,Waste,North Carolina,Guilford,37081
+Waste Management Rolling Meadows LFGTE,39.1746,-95.7311,Waste,Kansas,Shawnee,20177
+Waste Mangement Redwood LFGTE,38.1608,-122.565,Waste,California,Marin,6041
+Waxdale,42.7094,-87.8853,Waste,Wisconsin,Racine,55101
+Wellford Renewable Energy Plant,35.0012,-82.1303,Waste,South Carolina,Spartanburg,45083
+West Camden,36.0579,-88.14200000000002,Waste,Tennessee,Benton,47005
+WestRock Panama City Mill,30.142,-85.6211,Waste,Florida,Bay,12005
+Western Renewable Energy,34.093,-109.29,Waste,Arizona,Apache,4001
+Westervelt Moundville Cogen,32.9607,-87.6554,Waste,Alabama,Hale,1065
+Westside Landfill Gas Recovery,32.7246,-97.5371,Waste,Texas,Parker,48367
+Weyerhaeuser Pine Hill Operations,31.9698,-87.4806,Waste,Alabama,Wilcox,1131
+Wheelabrator Baltimore Refuse,39.266,-76.6297,Waste,Maryland,Baltimore,24005
+Wheelabrator Bridgeport,41.1625,-73.2083,Waste,Connecticut,Fairfield,9001
+Wheelabrator Concord Facility,43.2866,-71.5769,Waste,New Hampshire,Merrimack,33013
+Wheelabrator Falls,40.1626,-74.7682,Waste,New Jersey,Burlington,34005
+Wheelabrator Gloucester LP,39.8733,-75.1381,Waste,New Jersey,Gloucester,34015
+Wheelabrator Hudson Falls,43.3056,-73.5914,Waste,New York,Washington,36115
+Wheelabrator Lisbon,41.5844,-72.0416,Waste,Connecticut,New London,9011
+Wheelabrator Millbury Facility,42.2214,-71.7669,Waste,Massachusetts,Worcester,25027
+Wheelabrator North Andover,42.7262,-71.1219,Waste,Massachusetts,Essex,25009
+Wheelabrator Portsmouth,36.8083,-76.3036,Waste,Virginia,Portsmouth City,51740
+Wheelabrator Ridge Energy,28.0274,-81.8475,Waste,Florida,Polk,12105
+Wheelabrator Saugus,42.447,-70.9804,Waste,Massachusetts,Essex,25009
+Wheelabrator Shasta,40.4283,-122.2792,Waste,California,Shasta,6089
+Wheelabrator South Broward,26.0687,-80.1986,Waste,Florida,Broward,12011
+Wheelabrator Westchester,41.2771,-73.9423,Waste,New York,Westchester,36119
+White Feather Generating Station,43.8983,-83.9494,Waste,Michigan,Bay,26017
+Whittier LFG Power Plant #1,33.9716,-118.0481,Waste,California,Los Angeles,6037
+Wicomico,38.3847,-75.6344,Waste,Maryland,Wicomico,24045
+Wilmarth,44.1967,-94.0009,Waste,Minnesota,Blue Earth,27013
+Winnebago County Landfill Gas,44.083,-88.5411,Waste,Wisconsin,Winnebago,55139
+Woodbine Landfill Plant,39.2311,-74.7808,Waste,New Jersey,Cape May,34009
+Woodland Biomass Power Ltd,38.6905,-121.7371,Waste,California,Yolo,6113
+Woodland Landfill Gas Recovery,41.981,-88.2745,Waste,Illinois,Kane,17089
+Woodville Renewable Power Project,30.7483,-94.4375,Waste,Texas,Tyler,48457
+York County Resource Recovery,40.0017,-76.7183,Waste,Pennsylvania,York,42133
+Zimmerman Energy,41.2378,-86.2461,Waste,Indiana,Marshall,18099
+Zion Landfill Gas to Energy Facility,42.4803,-87.8861,Waste,Illinois,Lake,17097
